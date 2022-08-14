@@ -1,0 +1,5552 @@
+1
+
+1 40
+
+1 Algeria==Algeria===Algeria
+2 Angola==Angola===Angola
+3 Burkina Faso==Burkina Faso===Burkina Faso
+4 Cape Verde Islands==Cape Verde===Cape Verde
+5 DR Congo==Congo DR===
+6 Ethiopia==Ethiopia===Ethiopia
+7 Ghana==Ghana===Ghana
+8 Ivory Coast==Ivory Coast===Ivory Coast
+9 Mali==Mali===Mali
+10 Morocco==Morocco===Morocco
+11 Niger==Niger===
+12 Nigeria==Nigeria=== Nigeria
+13 South Africa==South Africa===South Africa Rep.
+14 Togo==Togo===Togo
+15 Tunisia==Tunisia===Tunisia
+16 Zambia==Zambia===Zambia
+17 ==Benin===Benin
+18 ==Botswana===Botswana
+19 ==Cameroon===
+20 ==Central African Republic===
+21 ==Congo===DR Congo
+22 ==Egypt===Egypt
+23 ==Equatorial Guinea===Equatorial Guinea
+24 ==Gabon===
+25 ==Gambia===
+26 ==Guinea===Guinea
+27 ==Kenya===
+28 ==Lesotho===Lesotho
+29 ==Liberia===Liberia
+30 ==Libya===Libya
+31 ==Malawi===
+32 ==Mozambique===Mozambique
+33 ==Namibia===
+34 ==Rwanda===Rwanda
+35 ==Senegal===
+36 ==Sierra Leone===
+37 ==Sudan===Sudan
+38 ==Tanzania===Tanzania
+39 ==Uganda===Uganda
+40 ==Zimbabwe===Zimbabwe
+
+2 6
+
+1 ==Al Jazira===
+2 ==Al Shabab Riyadh===
+3 ==El Jaish===
+4 ==Tractor Sazi===
+5 ==Al Shabab Riyadh===
+6 ==Tractor Sazi===
+
+3 0
+
+4 2
+
+1 ==Sepahan===
+2 ==Al Ahli Jeddah===
+
+5 0
+
+6 38
+
+1 Aldosivi=====
+2 All Boys==Newells Old Boys===
+3 Almirante Brown=====
+4 Alvarado=====
+5 Atl Tucuman=====
+6 Atletico Rafaela|Atl Rafaela=====
+7 Brown de Adrogue=====
+8 Central Cordoba=====
+9 Chacarita=====
+10 Colon=====
+11 Defensa y Justicia|Defensa y J=====
+12 Deportivo Merlo|Dep Merlo=====
+13 Deportivo Moron=====
+14 Douglas Haig=====
+15 Estudiantes=====
+16 Excursionistas=====
+17 Ferrocarril Midland=====
+18 Gimnasia Jujuy=====
+19 Gimnasia La Plata|Gim La Plata=====
+20 Godoy Cruz=====
+21 Guillermo Brown=====
+22 Huracan=====
+23 Independiente Rivadavia|Ind Rivadavia=====
+24 Instituto=====
+25 Nueva Chicago=====
+26 Olimpo=====
+27 Patronato=====
+28 Platense=====
+29 Quilmes==Quilmes===
+30 Racing de Olavarria=====
+31 Rosario=====
+32 San Martin de San Juan=====
+33 San Martin de Tucuman=====
+34 Sarmiento de Junin=====
+35 Union de Villa Krause==Uni?n Villa Krause===
+36 ==Deportivo Armenio===
+37 ==Lan?s===
+38 ==UAI Urquiza===
+
+7 9
+
+1 Belgrano=====
+2 Boca Juniors=====
+3 Instituto=====
+4 Newells=====
+5 Racing Club=====
+6 River Plate=====
+7 Rosario=====
+8 Talleres=====
+9 Independiente=====
+
+8 19
+
+1 Antwerp=Royal Antwerp=Antwerp===Anrwerpen
+2 Mouscron=Royal Mouscron Peruwelz=R. Mouscron-Peruwelz===RRC Peruwelz
+3 Sint Niklaas=Sportkring Sint-Niklaas=FCN Sint-Niklaas===FCN Sint-Niklaas
+4 Sint Truiden=Sint-Truidense=Sint-Truiden===St. Truidense VV
+5 Tubize=Tubize=Tubize===Tubize
+6 White Star Woluwe|White Star Wo.=White Star Woluwe=White Star Woluwe===WS Woluwe
+7 Eendracht Aalst=Eendracht Aalst=Eendracht Aalst===VC Eendracht Aalst 2002
+8 Oostende=Oostende=Oostende===Oostende
+9 Dessel Sport=Dessel Sport=Dessel Sport===Fc Dessel Sport
+10 RBD Borinage=Boussu Dour Borinage=RBD Borinage===Boussu
+11 Lommel Utd=Lommel United=Lommel===Lommel
+12 Westerlo=Westerlo=Westerlo===
+13 Heist=KSK Heist=KSK Heist===Heist
+14 Roeselare=Roeselare=Roeselare===Ruselare
+15 Vise=CS Vise=CS Vise===Vise
+16 Eupen=Eupen=Eupen===Eupen
+17 FC Brussels=FC Brussels=FC Brussels===FC Brussel
+18 KSV Oudenaarde=KSV Oudenaarde=SV Oudenaarde===KSV Oudenaarde
+19 Cercle Brugge=====
+
+9 16
+
+1 Anderlecht==Anderlecht===Anderlecht
+2 Beerschot==G. Beerschot===KFC Germinal Beerschot
+3 Cercle Brugge==Cercle Brugge===Cercle Brugge
+4 Charleroi==Charleroi===Royal Charleroi
+5 Club Brugge==Club Brugge===Club Brugge
+6 Genk==RC Genk===Racing Genk
+7 Gent==AA Gent===KAA Gent
+8 KV Kortrijk==Kortrijk===Kortrijk
+9 KV Mechelen==KV Mechelen===Yellow Red KV Mechelen
+10 Lierse==Lierse===Lierse
+11 Lokeren==Lokeren===Sporting Lokeren
+12 Mons==RAEC Mons===Mons
+13 Oud-Heverlee Leuven|OH Leuven==Oud-Heverlee Leuven===Oud Heverlee
+14 Standard==Standard===Standard Liege
+15 Waasland-Beveren|Waas Beveren==Waasland-Beveren===RS Waasland
+16 Zulte-Waregem==Zulte-Waregem===Zulte Waregem
+
+10 16
+
+1 Audax Rio=====Audax Rio RJ
+2 Bangu=Bangu Atletico Clube====Bangu
+3 Boavista RJ=====Boavista RJ
+4 Botafogo RJ=Botafogo RJ=Botafogo===Botafogo RJ
+5 Duque de Caxias|Duq de Caxias=====Duque de Caxias RJ
+6 Flamengo=Flamengo====Flamengo RJ
+7 Fluminense=Fluminense====Fluminense RJ
+8 Friburguense=====Friburguense RJ
+9 Macae=====Macae Esporte RJ
+10 Madureira=====Madureira RJ
+11 Nova Iguacu=====Nova Iguacu
+12 Olaria=====Olaria RJ
+13 Quissama=Quissama====Quissama FC RJ
+14 Resende=====Resende
+15 Vasco da Gama=Vasco da Gama=Vasco da Gama===Vasco Da Gama RJ
+16 Volta Redonda=====Volta Redonda RJ
+
+11 14
+
+1 Avai==Ava?===
+2 Camboriu==Cambori?===
+3 Canoas=====
+4 Caxias RS==Caxias do Sul===
+5 Chapecoense==Chapecoense===
+6 Criciuma=====
+7 Figueirense==Figueirense===
+8 Gremio=====
+9 Guarani SC==Guarani SC===
+10 Hermann Aichinger=====
+11 Joinville==Joinville===
+12 Juventus SC==Juventus SC===
+13 Metropolitano==Metropolitano===
+14 Veranopolis=====
+
+12 20
+
+1 Canoas==Canoas===
+2 Caxias RS==Caxias do Sul===
+3 Ceramica==Cer?mica===
+4 Ceramica RS=====
+5 Cruzeiro (PA)=====
+6 Cruzeiro RS==Cruzeiro RS===
+7 Esportivo==Esportivo BG===
+8 Gremio==Gr?mio===
+9 Internacional==Internacional===
+10 Juventude==Juventude===
+11 Lajeadense==Lajeadense===
+12 Novo Hamburgo==Novo Hamburgo===
+13 Passo Fundo==Passo Fundo===
+14 Pelotas==Pelotas===
+15 Sao Jose PA=====
+16 Sao Jose Porto Alegre=====
+17 Sao Jose RS==S?o Jos? RS===
+18 Veranopolis==Veran?polis===
+19 Sao Luiz==S?o Luiz===
+20 ==Santa Cruz RS===
+
+13 17
+
+1 Arapongas=====
+2 Atletico PR==Atl?tico Paranaense===
+3 Cianorte==Cianorte===
+4 Corinthians Paranaense=====
+5 Coritiba==Coritiba===
+6 J Malucelli=====
+7 Londrina=====
+8 Londrina EC=====
+9 Nacional de Rolandia=====
+10 Nacional PR=====
+11 Operario Ponta Grossa=====
+12 Operario PR==Oper?rio PR===
+13 Parana==Paran?===
+14 Paranavai=====
+15 Rio Branco Paranagua=====
+16 Rio Branco PR=====
+17 Toledo PR=====
+
+14 20
+
+1 Barbarense=Uniao Barbarense=Uni?o Barbarense===Uniao Barbarense
+2 Botafogo SP=Botafogo Ribeirao Preto=Botafogo SP===Botafogo  SP
+3 Bragantino SP=Bragantino=Bragantino===Bragantino
+4 Corinthians=Corinthians=Corinthians===Corinthians-SP
+5 Guarani SP=Guarani SP=Guarani de Campinas===Guarani SP
+6 Ituano=Ituano FC=Ituano===Ituano
+7 Linense SP=Linense Lins=Linense===Linense
+8 Mirassol=Mirassol=Mirassol===Mirassol
+9 Mogi Mirim=Mogi Mirim=Mogi Mirim===Mogi Mirim
+10 Oeste=Oeste Itapolis=Oeste===Oeste SP
+11 Palmeiras=Palmeiras=Palmeiras===Palmeiras SP
+12 Paulista=Paulista FC Jundiai=Paulista FC===Paulista
+13 Penapolense=Penapolense=Penapolense===Atletico Penapolense
+14 Ponte Preta=Ponte Preta=Ponte Preta===Ponte Preta
+15 Santos=Santos (n)=Santos===Santos
+16 Sao Bernardo=Sao Bernardo=S?o Bernardo===Sao Bernardo
+17 Sao Caetano=Sao Caetano=S?o Caetano===Sao Caetano SP
+18 Sao Paulo=Sao Paulo=S?o Paulo===Sao Paulo SP
+19 Sorocaba=Atl?tico Sorocaba=Sorocaba===Atletico Sorocaba SP
+20 XV de Piracicaba|XV de Piracic.==XV de Piracicaba===Xv de Piracicaba
+
+15 21
+
+1 AE Santacruzense==Santacruzense=== Santacruzense SP
+2 Audax SP==Audax S?o Paulo===
+3 CA Juventus==Juventus SP===
+4 Capivariano=====
+5 Catanduvense=====
+6 Comercial SP==Comercial===
+7 Ferroviaria=====
+8 Gremio Barueri=====
+9 Guaratingueta=====
+10 Monte Azul=====
+11 Noroeste==Noroeste===
+12 Osasco==Osasco===
+13 Portuguesa SP==Portuguesa SP===
+14 Red Bull Brasil===== Red Bull Brasil SP
+15 Rio Branco SP==Rio Branco SP===
+16 Rio Claro=====
+17 Santo Andre==Santo Andr?===
+18 Sao Carlos=====
+19 Sao Jose EC SP=====
+20 Velo Clube=====
+21 ==Americana===
+
+16 10
+
+1 AO de Itabaiana=====
+2 Bahia==Bahia===
+3 Sport Recife=====
+4 AD Confianca Aracaju=====
+5 Ceara=====
+6 ABC=====
+7  Souza EC=====
+8 ==Juazeirense===
+9 ==Juazeiro===
+10 ==Vit?ria===
+
+17 4
+
+1 Audax EC U19=====
+2 Cruzeiro U19=====
+3 Palmeiras U19=====
+4 Santos U19=====
+
+18 8
+
+1 Rangers Talca=Rangers de Talca====
+2 Union Espanola=Union Espanola====
+3 Union Temuco=====
+4 Universidad de Chile=Universidad de Chile====
+5 OHiggins=====
+6 Cobreloa=Cobreloa====
+7 Coquimbo Unido=====
+8 Univ Catolica=Universidad Catolica====
+
+19 9
+
+1 Millonarios=====
+2 Santa Fe=====
+3 ==Expreso Rojo===
+4 ==La Equidad===
+5 ==Deportivo Pasto===
+6 ==Universitario de Popay?n===
+7 ==Cortulu?===
+8 ==Am?rica de Cali===
+9 ==D?por FC===
+
+20 38
+
+1 Arsenal FC=====
+2 Atletico MG=====
+3 Barcelona (Ecu)|Barce (Ecu)=====
+4 Boca Juniors=====
+5 Bolivar=====
+6 Caracas=====
+7 Cerro Porteno=====
+8 Corinthians=====
+9 Defensor Sporting|Defensor Spo=====
+10 Deportes Iquique=====
+11 Deportivo Anzoategui=====
+12 Deportivo Lara=====
+13 Emelec=====
+14 Fluminense=====
+15 Gremio=====
+16 Huachipato=====
+17 LDU=====
+18 Leon=====
+19 Libertad=====
+20 Millonarios=====
+21 Nacional (Uru)=====
+22 Newells=====
+23 Olimpia=====
+24 Palmeiras=====
+25 Penarol=====
+26 Real Garcilaso=====
+27 San Jose=====
+28 Santa Fe=====
+29 Sao Paulo=====
+30 Sporting Cristal=====
+31 The Strongest=====
+32 Tigre=====
+33 Tijuana=====
+34 Tolima=====
+35 Toluca=====
+36 Uni Cesar Vallejo|Un Ces Vallejo=====
+37 Universidad de Chile=====
+38 Velez=====
+
+21 14
+
+1 Bohemians 1905=====
+2 Ceske Budejovice=====
+3 Dukla Prague=====
+4 FC Brno=====
+5 FK Jablonec=====
+6 Frydek Mistek=====
+7 MFK Karvina=====
+8 Sezimovo Usti=====
+9 Slavia Prague=====
+10 Slovacko=====
+11 Slovan Liberec=====
+12 Vysocina Jihlava=====
+13 Zizkov=====
+14 Znojmo=====
+
+22 14
+
+1 J Feyenoord Excel=====
+2 Jong Groningen=====
+3 Jong Heerenveen Emmen|J Heerenveen E=====
+4 Jong Heracles=====
+5 Jong NAC Breda=====NAC Breda(youth)
+6 Jong NEC Oss=====
+7 Jong PSV=====
+8 Jong Utrecht=====
+9 Jong Vitesse AGOVV=====
+10 Jong Waalwijk=====
+11 Jong Twente=====
+12 Jong Ajax=====Ajax Amsterdam(youth)
+13 =====De Graafschap(youth)
+14 =====Roda JC Kerkrade(youth)
+
+23 12
+
+1 Jong ADO Den Haag=====
+2 Jong AZ Alkmaar=====
+3 Jong Den Bosch=====
+4 Jong Fortuna Sittard=====
+5 Jong Graafschap=====
+6 Jong PEC Zwolle=====
+7 Jong Roda JC=====
+8 Jong Sparta=====
+9 Jong Volendam=====
+10 Jong Dordrecht=====
+11 Jong VVV Helmond Sport|Jong VV Hel Sp=====
+12 Jong Willem II=====
+
+24 17
+
+1 Cambuur==Cambuur===Cambuur Leeuwarden
+2 De Graafschap==De Graafschap===De Graafschap
+3 Den Bosch= Den Bosch=FC Den Bosch=== Den Bosch
+4 Emmen==FC Emmen===Emmen
+5 FC Eindhoven= FC Twente Enschede=FC Eindhoven=== FC Eindhoven
+6 FC Oss==TOP Oss===Top Oss
+7 Fortuna Sittard|For Sittard==Fortuna Sittard===Fortuna Sittard
+8 Go Ahead Eagles|Go Ahead Egls.= Go Ahead Eagles=Go Ahead Eagles=== Go Ahead Eagles
+9 Helmond Sport==Helmond Sport===Helmond Sport
+10 Maastricht= MVV Maastricht=MVV===MVV Maastricht
+11 Sparta Rotterdam|Sp Rotterdam==Sparta===
+12 Telstar=Telstar=Stormvogels/Telstar===
+13 Veendam==BV Veendam=== Veendam
+14 Volendam=Volendam=FC Volendam===Volendam
+15 Excelsior==Excelsior===
+16 Dordrecht==FC Dordrecht===Dordrecht 90
+17 Almere City==Almere City FC===Almere City
+
+25 18
+
+1 ADO Den Haag= ADO den Haag=ADO Den Haag===ADO Den Haag
+2 Ajax= Ajax=Ajax===Ajax Amsterdam
+3 AZ Alkmaar|Az Alkmaar= AZ Alkmaar=AZ===AZ Alkmaar
+4 Breda= NAC Breda=NAC Breda===NAC Breda
+5 Feyenoord= Feyenoord=Feyenoord===Feyenoord
+6 Groningen= Groningen=FC Groningen===Groningen
+7 Heerenveen= SC Heerenveen=SC Heerenveen===SC Heerenveen
+8 Heracles= Heracles Almelo=Heracles Almelo===Heracles
+9 NEC Nijmegen= NEC Nijmegen=NEC===NEC Nijmegen
+10 Roda JC= Roda JC=Roda JC===Roda JC
+11 Twente= FC Twente Enschede=FC Twente===Twente
+12 Utrecht= FC Utrecht=FC Utrecht===Utrecht
+13 VVV= VVV Venlo=VVV Venlo===VVV Venlo
+14 Waalwijk= RKC Waalwijk=RKC Waalwijk===RKC Waalwijk
+15 Willem II= Willem II=Willem II===Willem II Tilburg
+16 Zwolle= Zwolle=FC Zwolle===Zwolle
+17 PSV= PSV Eindhoven=PSV Eindhoven===PSV Eindhoven
+18 Vitesse= Vitesse Arnhem=Vitesse===Vitesse Arnheim
+
+26 20
+
+1 Arsenal= Arsenal=Arsenal===Arsenal
+2 Aston Villa= Aston Villa=Aston Villa===Aston Villa
+3 Chelsea= Chelsea=Chelsea===Chelsea FC
+4 Everton= Everton=Everton===Everton
+5 Fulham= Fulham=Fulham===Fulham
+6 Liverpool= Liverpool=Liverpool===Liverpool
+7 Man City= Manchester City=Manchester C===Manchester City
+8 Man Utd= Manchester United=Manchester U===Manchester Utd
+9 Newcastle= Newcastle United=Newcastle===Newcastle
+10 Norwich= Norwich City=Norwich===Norwich City
+11 QPR= Queens Park Rangers=Queens PR===Queens Park Rangers
+12 Reading= Reading=Reading===Reading
+13 Southampton= Southampton=Southampton===Southampton
+14 Stoke= Stoke City=Stoke===Stoke City
+15 Sunderland= Sunderland=Sunderland===Sunderland
+16 Swansea= Swansea City=Swansea===Swansea City
+17 Tottenham= Tottenham Hotspur=Tottenham===Tottenham Hotspur
+18 West Brom= W.B.A=West Bromwich===West Bromwich
+19 West Ham= West Ham United=West Ham===West Ham United
+20 Wigan= Wigan Athletic=Wigan===Wigan
+
+27 22
+
+1 Altrincham==Altrincham===
+2 Boston Utd==Boston Utd===
+3 Brackley Town==Brackley Town===
+4 Bradford PA==Bradford PA===
+5 Chester==Chester===
+6 Colwyn Bay==Colwyn Bay===
+7 Corby Town==Corby Town===
+8 Droylsden==Droylsden===
+9 Gainsborough==Gainsborough===
+10 Gloucester==Gloucester City===
+11 Guiseley==Guiseley===
+12 Harrogate Town==Harrogate Town===
+13 Hinckley Utd==Hinckley Utd===
+14 Histon==Histon===
+15 Solihull==Solihull===
+16 Stalybridge==Stalybridge===
+17 Vauxhall Motors==Vauxhall Motors===
+18 Workington==Workington===
+19 Oxford City==Oxford City===
+20 Worcester==Worcester===
+21 Bishops Stortford==Bishops Stortford===
+22 FC Halifax Town==Halifax Town===
+
+28 28
+
+1 Alfreton Town==Alfreton Town===Alfreton Town
+2 Barrow==Barrow===Barrow
+3 Braintree==Braintree Town===Braintree Town
+4 Cambridge Utd==Cambridge===Cambridge United
+5 Dartford==Dartford===Dartford Fc
+6 Ebbsfleet Utd==Ebbsfleet United===Ebbsfleet Utd
+7 Forest Green==Forest Green===
+8 Grimsby==Grimsby===Grimsby Town
+9 Hereford==Hereford===Hereford Utd
+10 Hyde==Hyde===Hyde Utd
+11 Kidderminster==Kidderminster===Kidderminster Harriers
+12 Lincoln==Lincoln===Lincoln City
+13 Luton==Luton===Luton
+14 Macclesfield==Macclesfield===Macclesfield Town
+15 Mansfield==Mansfield===
+16 Newport County==Newport County===Newport County
+17 Nuneaton==Nuneaton===Nuneaton Town FC
+18 Southport==Southport===Southport
+19 Stockport==Stockport===Stockport County
+20 Tamworth==Tamworth===Tamworth
+21 Telford==Telford===Telford Utd
+22 Woking==Woking===Woking FC
+23 Wrexham==Wrexham===Wrexham FC
+24 Gateshead==Gateshead===Gateshead
+25 ==Southend===
+26 ==Plymouth===
+27 ==Billericay===
+28 ==Sutton United===
+
+29 23
+
+1 Basingstoke==Basingstoke===
+2 Bath City==Bath City===
+3 Billericay Town==Billericay===
+4 Boreham Wood==Boreham Wood===
+5 Bromley==Bromley===
+6 Chelmsford==Chelmsford===
+7 Dorchester Town==Dorchester===
+8 Dover==Dover Athletic===
+9 Eastbourne==Eastbourne Borough===
+10 Eastleigh==Eastleigh===
+11 Farnborough==Farnborough===
+12 Havant and W==Havant and Waterlooville===
+13 Hayes And Yeading==Hayes and Yeading===
+14 Hornchurch==AFC Hornchurch===
+15 Maidenhead==Maidenhead Utd===
+16 Salisbury==Salisbury===
+17 Staines Town==Staines Town===
+18 Sutton Utd==Sutton United===
+19 Tonbridge Angels==Tonbridge Angels===
+20 Truro City==Truro City===
+21 Welling Utd==Welling United===
+22 Weston-s-Mare==Weston Super Mare===
+23 Hayes and Yeading=====
+
+30 4
+
+1 Aston Villa=====
+2 Bradford= Bradford City====Bradford City
+3 Chelsea=====
+4 Swansea= Swansea City (n)====Swansea City
+
+31 32
+
+1 Aldershot=====
+2 Arsenal= Arsenal====
+3 Aston Villa=====
+4 Barnsley= Barnsley====
+5 Blackburn= Blackburn Rovers=Blackburn===
+6 Bolton=====
+7 Brentford= Brentford====
+8 Brighton=====
+9 Chelsea= Chelsea=Chelsea===Chelsea FC
+10 Derby=====
+11 Everton= Everton====Everton
+12 Fulham=====
+13 Huddersfield= Huddersfield Town====
+14 Hull=====
+15 Leeds= Leeds United====
+16 Leicester= Leicester City====
+17 Liverpool=====
+18 Luton= Luton Town====
+19 Macclesfield=====
+20 Man City= Manchester City====
+21 Man City= Manchester United=Manchester U===Manchester Utd
+22 Middlesbrough=====Middlesbrough
+23 Millwall= Millwall=Millwall===
+24 MK Dons= Milton Keynes Dons====
+25 Norwich=====
+26 Oldham= Oldham Athletic====Oldham Athletic
+27 QPR=====
+28 Reading= Reading====Reading
+29 Sheff Utd=====
+30 Stoke=====
+31 Tottenham=====
+32 Wigan=Wigan Athletic====
+
+32 8
+
+1 Barrow=====
+2 Gateshead=====
+3 FC Halifax Town= Halifax Town====
+4 Dartford= Dartford FC====
+5 Southport=====
+6 Wrexham==Wrexham===Wrexham FC
+7 Gainsborough=====
+8 Grimsby==Grimsby===Grimsby Town
+
+33 24
+
+1 Barnsley= Barnsley=Barnsley===Barnsley
+2 Birmingham= Birmingham City=Birmingham===Birmingham City
+3 Blackburn= Blackburn Rovers=Blackburn===Blackburn Rovers
+4 Blackpool= Blackpool=Blackpool===Blackpool
+5 Bolton= Bolton Wanderers=Bolton===Bolton Wanderers
+6 Brighton= Brighton & Hove Albion=Brighton===Brighton & Hove Albion
+7 Bristol City= Bristol City=Bristol City===Bristol City
+8 Burnley= Burnley=Burnley===Burnley
+9 C Palace= Crystal Palace=Crystal Palace===Crystal Palas
+10 Cardiff= Cardiff City=Cardiff===Cardiff City
+11 Charlton= Charlton Athletic=Charlton===Charlton Athletic
+12 Derby= Derby County=Derby===Derby County
+13 Huddersfield= Huddersfield Town=Huddersfield===Huddersfield Town
+14 Hull= Hull City=Hull===Hull City
+15 Ipswich= Ipswich Town=Ipswich===Ipswich Town
+16 Leeds= Leeds United=Leeds===Leeds United
+17 Millwall= Millwall=Millwall===Millwall
+18 Nottm Forest= Nottingham Forest=Nottingham Forest===Nottingham Forest
+19 Peterborough= Peterborough United=Peterborough===Peterborough United
+20 Sheff Wed= Sheffield Wednesday=Sheffield W===Sheffield Wednesday
+21 Watford= Watford=Watford===Watford
+22 Wolves= Wolverhampton Wanderers=Wolverhampton===Wolverhampton Wanderers
+23 Leicester= Leicester City=Leicester===Leicester
+24 Middlesbrough= Middlesbrough=Middlesbrough===Middlesbrough
+
+34 24
+
+1 Bournemouth=Bournemouth AFC=Bournemouth===Bournemouth
+2 Brentford=Brentford=Brentford===Brentford
+3 Bury=Bury=Bury===Bury
+4 Coventry=Coventry City=Coventry===Coventry City
+5 Doncaster=Doncaster Rovers=Doncaster===Doncaster Rovers
+6 Hartlepool=Hartlepool United=Hartlepool===Hartlepool Utd
+7 L Orient=Leyton Orient=Leyton Orient===Leyton Orient
+8 Notts Co= Notts County=Notts County=== Notts County
+9 Oldham= Oldham Athletic=Oldham===Oldham Athletic
+10 Sheff Utd= Sheffield United=Sheffield U===Sheffield Utd
+11 Shrewsbury=Shrewsbury Town=Shrewsbury===Shrewsbury Town
+12 Swindon= Swindon Town=Swindon=== Swindon Town
+13 Tranmere=Tranmere Rovers=Tranmere===Tranmere Rovers
+14 Walsall=Walsall=Walsall===Walsall
+15 Carlisle=Carlisle United=Carlisle===Carlisle Utd
+16 Scunthorpe= Scunthorpe United=Scunthorpe=== Scunthorpe Utd
+17 Colchester= Colchester United=Colchester=== Colchester United
+18 Preston=Preston North End=Preston===Preston North End
+19 Portsmouth= Portsmouth=Portsmouth=== Portsmouth
+20 Crewe=Crewe Alexandra=Crewe===Crewe Alexandra
+21 Crawley Town= Crawley Town=Crawley Town===Crawley Town
+22 Stevenage= Stevenage FC=Stevenage=== Stevenage Borough
+23 MK Dons=Milton Keynes Dons=Milton Keynes Dons===MK Dons
+24 Yeovil= Yeovil Town=Yeovil===Yeovil Town
+ 
+35 26
+
+1 AFC Wimbledon= AFC Wimbledon=AFC Wimbledon=== AFC Wimbledon
+2 Aldershot= Aldershot Town=Aldershot===Aldershot Town
+3 Burton= Burton Albion=Burton Albion===Burton Albion
+4 Cheltenham= Cheltenham Town=Cheltenham=== Cheltenham Town
+5 Dag and Red= Dagenham & Redbridge=Dagenham and Redbridge===Dagenham & Redbridge
+6 Northampton= Northampton Town=Northampton===Northampton Town
+7 Port Vale= Port Vale=Port Vale=== Port Vale
+8 Rochdale= Rochdale=Rochdale===Rochdale
+9 Wycombe= Wycombe Wanderers=Wycombe=== Wycombe Wanderers
+10 York City= York City=York===York City
+11 Gillingham= Gillingham=Gillingham=== Gillingham
+12 Rotherham= Rotherham United=Rotherham===Rotherham United
+13 Bristol Rovers= Bristol Rovers=Bristol Rovers=== Bristol Rovers
+14 Bradford= Bradford City=Bradford===Bradford City
+15 Fleetwood Town= Fleetwood Town=Fleetwood===Fleetwood Town
+16 Oxford Utd= Oxford United=Oxford Utd===Oxford United
+17 Morecambe= Morecambe=Morecambe===Morecambe
+18 Chesterfield= Chesterfield=Chesterfield===Chesterfield
+19 Southend= Southend United=Southend===Southend United
+20 Barnet= Barnet=Barnet===Barnet
+21 Plymouth= Plymouth Argyle=Plymouth===Plymouth Argyle
+22 Accrington S= Accrington Stanley=Accrington Stanley===Accrington Stanley
+23 Exeter= Exeter City=Exeter===Exeter City
+24 Torquay= Torquay United=Torquay===Torquay United
+25 ==Bury===
+26 ==Stevenage===
+
+36 45
+
+1 Arsenal U21=====
+2 Aston Villa U21|A Villa U21=====
+3 Barnet U21=====
+4 Barnsley U21=====
+5 Birmingham U21=====
+6 Blackburn U21=====
+7 Bolton U21=====
+8 Brentford U21=====
+9 Brighton U21=====
+10 Bristol City U21|Bris City U21=====
+11 C Palace U21=====
+12 Cardiff U21=====
+13 Charlton U21=====
+14 Chelsea U21=====
+15 Colchester U21=====
+16 Coventry U21=====
+17 Crewe U21=====
+18 Derby U21=====
+19 Everton U21=====
+20 Fulham U21=====
+21 Huddersfield U21|Hudders Utd=====
+22 Ipswich U21=====
+23 Leeds U21=====
+24 Leicester U21=====
+25 Liverpool U21=====
+26 Man City U21=====
+27 Man Utd U21=====
+28 Middlesbrough U21|Blackburn U21=====
+29 Millwall U21=====
+30 Newcastle U21=====
+31 Norwich U21=====
+32 Nottm Forest U21=====
+33 Reading U21=====
+34 Sheff Utd U21=====
+35 Sheff Wed U21=====
+36 Southampton U21|Southamton U21=====
+37 Stoke U21=====
+38 Sunderland U21=====
+39 Swansea U21=====
+40 Tottenham U21=====
+41 West Brom U21=====
+42 West Ham U21=====
+43 Wigan U21=====
+44 Wolves U21=====
+45 QPR U21=====
+
+37 6
+
+1 Barwell FC=====
+2 Frome Town FC=====
+3 Hitchin Town FC|Hitchin T FC=====
+4 Leamington=====
+5 St Albans City FC=====
+6 Chesham United FC|Chesham Uni FC=====
+
+38 14
+
+1 FC Inter=====
+2 IFK Mariehamn=====IFK Mariehamn
+3 JJK=====
+4 KuPS=====
+5 Lahti=====
+6 MyPa=MyPa (n)====MyPa
+7 TPS==TPS Turku===
+8 VPS=====Vaasa PS
+9 Honka==Honka Espoo===
+10 RoPS=RoPS Rovaniemi====RoPS
+11 HJK Helsinki=HJK Helsinki====HJK Helsinki
+12 Jaro=Jaro (n)====Jaro
+13 ==Pallokissat Kuopio===
+14 ==GBK Kokkola===
+
+39 31
+
+1 Bordeaux=====Bordeaux
+2 Brest=====Stade Brest
+3 CA Bastia=CA Bastia====
+4 Epinal=SAS Epinal====Epinal
+5 ESTAC Troyes=====
+6 Evian TG=====Evian TG FC
+7 Fontenay=====
+8 Le Havre=====AC Havre
+9 Lille=====Lille Osc
+10 Lorient=====Lorient
+11 Marseille=====Olympique Marseille
+12 Meaux Academy=====
+13 Mende Avenir Lozere=====
+14 Montpellier=====
+15 Moulins=====
+16 Nancy=====Nancy
+17 Nantes=====
+18 Nice=====
+19 Paris St-G=====Paris Saint Germain
+20 Plabennec=====
+21 Rouen=Rouen====
+22 Sedan=====
+23 Sochaux=====
+24 St Etienne=====FC Sent-Etien
+25 Toulouse=====
+26 USSA Vertou=====
+27 Venissieux Minguettes|Venis Mingue=====Minguettes Venissieux AS
+28 Le Poire-sur-Vie=Le Poire Sur Vie====
+29 Bordeaux Stade=====
+30 Lens=====Lens
+31 Raon LEtape=====US Raon L' Etape
+
+40 20
+
+1 Ajaccio= Ajaccio=Ajaccio===Ajaccio
+2 Bastia= SC Bastia=Bastia===Bastia
+3 Bordeaux= Bordeaux=Bordeaux===Bordeaux
+4 Brest= Brest=Brest===Brest
+5 ESTAC Troyes= Troyes=Troyes===Troyes AC
+6 Lille= Lille=Lille===Lille
+7 Lorient= Lorient=Lorient===Lorient
+8 Lyon= Lyon=Lyon===Olympique Lyon
+9 Marseille= Marseille=Marseille===Olympique Marseille
+10 Montpellier= Montpellier=Montpellier===HSC Montpellier
+11 Nancy= Nancy=Nancy===Nancy
+12 Nice= Nice=Nice===OGC Nice
+13 Paris St-G= Paris Saint Germain=Paris SG===Paris Saint Germain
+14 Reims= Reims=Reims===Stade de Reims
+15 Rennes= Rennes=Rennes===FC Stade Rennes
+16 Sochaux= Sochaux=Sochaux===Sochaux
+17 St Etienne= Saint Etienne=Saint ?tienne===FC Sent-Etien
+18 Toulouse= Toulouse=Toulouse===Toulouse
+19 Valenciennes= Valenciennes=Valenciennes===Valenciennes
+20 Evian TG= ?vian Thonon Gaillard=Evian Thonon Gaillard===Evian TG
+
+41 21
+
+1 Ajaccio GFCO= Ajaccio GFCO=Ajaccio GFCO===
+2 Angers= Angers=Angers=== SCO Angers
+3 Arles= AC Arles Avignon=Arles=== AC Arles-Avignon
+4 Auxerre= Auxerre=Auxerre===Auxerre
+5 Caen= Caen=Caen===SM Caen
+6 Clermont= Clermont Foot=Clermont===Clermont
+7 Guingamp= Guingamp=Guingamp=== Guingamp
+8 Laval= Laval=Laval===Lavalle
+9 Le Havre= Le Havre=Le Havre===Le Havres
+10 Le Mans= Le Mans=Le Mans===Le Mans
+11 Nantes=Nantes=Nantes===Nantes
+12 Nimes= Nimes=N?mes===Olympique Nimes
+13 Niort= Chamois Niortais=Niort===Chamois Niort FC
+14 Sedan= Sedan=Sedan===Sedan
+15 Tours= Tours=Tours===Tuors
+16 Monaco= AS Monaco=Monaco=== AS Monaco
+17 Chateauroux= Chateauroux=Ch?teauroux===Chateauroux
+18 Istres= Istres=Istres===Istres
+19 Dijon= Dijon=Dijon===Dijon
+20 Lens=Lens=Lens===Lens
+21  Gazelec=====Gazelec Ajaccio
+
+42 20
+
+1 Amiens==Amiens===
+2 Boulogne==Boulogne===
+3 CA Bastia=CA Bastia=CA Bastia===
+4 Cherbourg==Cherbourg===
+5 Creteil==Cr?teil===
+6 Frejus St-Raphael=Etoile Frejus Saint Raphael=Fr?jus St-Rapha?l===
+7 Luzenac=Luzenac=Luzenac===
+8 Quevilly==Quevilly===
+9 Rouen=Rouen=Rouen===
+10 Uzes Pont du Gard=Uz?s Pont du Gard=Uz?s Pont du Gard===
+11 Vannes=Vannes=Vannes===
+12 Paris FC==Paris FC===
+13 Colmar=SR Colmar=Colmar===
+14 Bourg-Peronnas==Bourg P?ronnas===
+15 Le Poire-sur-Vie=Le Poire Sur Vie=Le Poir?-Sur-Vie===
+16 Metz=Metz=Metz===
+17 Epinal=SAS Epinal=?pinal===
+18 Red Star==Red Star 93===
+19 Carquefou==Carquefou===
+20 Orleans==Orl?ans===
+
+43 319
+
+1 1860 Munich II=====
+2 Alemannia Aachen|Alemann Aachen=====
+3 Al-Hilal=====
+4 Arka Gdynia=====
+5 Arminia Bielefeld=====
+6 B Munich=====1860 Munchen
+7 Banska Bystrica=====
+8 Brondby=====
+9 CFR Cluj===== CFR Cluj
+10 Chemnitzer=====
+11 Chiasso=====
+12 China U19=====
+13 Cittadella=====
+14 CSKA Sofia=====
+15 Debrecen=====
+16 Dnipro=====Dnipro Dnipropetrovsk
+17 Dolcan Zabki=====
+18 Dunaujvaros=====
+19 FC Koln=====
+20 FC Superfund Pasching=====
+21 FC Wil=====
+22 FK Atlantas=====
+23 FK Odessa=====
+24 FK Suduva=====
+25 Flora Tallinn=====
+26 Fremad Amager=====
+27 GKS Belchatow=====
+28 GKS Belchatow=====
+29 Hansa Rostock=====
+30 Illychivets=====
+31 Jagiellonia=====
+32 Jaro=====
+33 Kecskemeti TE=====
+34 Kickers Offenbach|Kickers Offenb=====
+35 Korona=====
+36 Kuressaare=====
+37 Lechia Gdansk=====
+38 MFK Kosice=====
+39 Novara=====
+40 Olimpia Grudziadz|Olimpia Grudz.=====
+41 Osters=====
+42 Podbeskidzie B-B=====
+43 Polonia Warsaw=====
+44 Quindio=====
+45 Red Bull Salzburg|Red Bull Salz=====
+46 Rot-Weiss Essen=====
+47 Ruch Chorzow=====
+48 Servette=====
+49 Shakhtar=====
+50 Sigma Olomouc=====
+51 Sonnenhof=====
+52 Stuttgart II=====
+53 SV Ried=====
+54 Tallinna Infonet=====
+55 Tallinna Kalev=====
+56 Tolima=====
+57 Tychy=====
+58 Ulm=====
+59 Union Berlin=====
+60 Unterhaching=====Unterhaching
+61 Vicenza=====
+62 VIFK=====
+63 Wigry Suwalki=====
+64 Wisla Plock=====
+65 Wormatia Worms=====
+66 Young Boys=====
+67 Zamalek=====
+68 Zenit St Petersburg=====
+69 Zilina=====
+70 Bochum=====
+71 Paderborn=====
+72 Dinamo Moscow=====Dinamo Moscow
+73 Rapid Bucharest=====
+74 Videoton=====
+75 Dinamo Kiev=====
+76 Luzern=====
+77 Colo Colo=====
+78 San Martin de San Juan=====
+79 FK Senica=====
+80 HFK Olomouc=====
+81 FSV Frankfurt=====
+82 Viktoria Aschaffenburg=====FC Viktoria Plzen
+83 Gornik Zabrze=====
+84 Chrobry Glogow=====
+85 Lausanne=====
+86 Veendam=====
+87 Meppen=====
+88 Woodlands Wellington=====
+89 Home Utd=====
+90 S-W Rehden=====
+91 Osnabruck=====
+92 Kaiserslautern=====
+93 Metalurg Z=====Metalurgs Liepajas
+94 Honved=====
+95 Veszpremi FC=====
+96 Sparta Prague=====
+97 Pribram=====
+98 Varnsdorf=====
+99 Rakow Czestochowa=====
+100 Gryf Wejherowo=====
+101 Lokomotiv Sofia=====
+102 Botev Vratsa=====
+103 Zalaegerszeg=====
+104 Siofok=====
+105 Juve Stabia=====
+106 US Arzanese=====
+107 Nuova Cosenza Calcio=====
+108 Sion=====
+109 China PR=====
+110 Pecsi Mecsek=====
+111 Komloi Banyasz SK=====
+112 SV Sandhausen=====
+113 Skenderbeu=====
+114 Silkeborg=====
+115 Farense=====Sporting Farens
+116 Rapid Vienna=====
+117 San Fernando=====
+118 Tanjong Pagar Utd=====
+119 Albirex Niigata=====
+120 ASD Battipagliese=====
+121 Mattersburg=====
+122 Plzen=====
+123 FC Rokycany=====
+124 Cracovia Krakow=====
+125 Garbarnia Krakow=====
+126 Magdeburg=====
+127 Hessen Kassel=====
+128  Once Caldas=====
+129 Atletico Nacional=====
+130 Daugava Daugavpils=====FC Daugava
+131 =====Ilukste Nss
+132 Banik Ostrava=====Banik Ostrava
+133 Fotbal Trinec=====Fotbal Trinec
+134 Dukla Prague=====FK Dukla Praha
+135 Spartak Trnava=====Spartak Trnava
+136 LKP Motor Lublin=====
+137 Levski Sofia=====Levski Sofia
+138 Mezokovesd-Z=====
+139 Diosgyori=====
+140 Pusk Akad Videoton=====
+141 Lombard Papa=====
+142 Rustavi=====
+143 FC WIT Georgia=====
+144 Sarpsborg=====
+145 Fredrikstad=====
+146 Slovan Liberec=====FC Slovan Liberec
+147 Usti nad Labem=====Usti nad Labem
+148 Universidad San Martin=====
+149 Inti Gas Deportes=====
+150 Vysocina Jihlava=====Jelgava
+151 Zaglebie Sosnowiec=====
+152 Polonia Bytom=====
+153 Bytovia Bytow=====
+154 FC Ajka=====
+155 Haladas=====
+156 FC Fribourg=====
+157 Tytan Armyansk=====
+158 Zirka Kirovohrad=====
+159 NK Maribor=====
+160 Kaposvar=====
+161 B 1908=====
+162 Legia Warsaw=====Legia Warszawa
+163 Bogdanka Leczna=====
+164 FC Midtjylland=====FC Midtjylland
+165 Randers=====
+166 Egri FC=====
+167 Kazincbarcikai=====
+168 Racing Club Portuense=====
+169 Concordia Chiajna=====CS Concordia Chiajna
+170 Malaga II=====
+171 Austria Vienna=====Metalist Kharkiv
+172 St Polten=====Odd Grenland
+173 PK-35 Vantaa=====Holland Park Hawks
+174 Haka=====Mt Gravatt Hawks Sc
+175 FK Sloboda Uzice=====
+176 Beijing Guoan=====
+177 Leixlip United FC=====
+178 Shelbourne=====
+179 NK Zagreb=====
+180  HNK Gorica=====
+181 Dinamo Bucharest|Din Bucharest=====
+182 Lech Poznan=====
+183  AB=====
+184  AC Horsens=====
+185  Ceske Budejovice=====
+186  FC Brasov=====
+187  FC Vestsjaelland=====
+188  Ferencvaros=====Ferencvarosi TC
+189  FK Banik Ruzina=====
+190  FK Daugava Riga=====
+191  Fredericia=====
+192  GKS Katowice=====
+193  GKS Katowice=====
+194  Hartberg=====
+195  Levadia Tallinn=====
+196  Lokomotiv=====
+197  MFK Zemplin Michalovce=====
+198  MMKS Concordia Elblag=====
+199  Naftovik Okhtirka=====
+200  Novi Pazar=====
+201  OB=====
+202  Odra Wodzislaw=====
+203  Rijeka=====
+204  Ruzomberok=====Ruzomberok
+205  Slask Wroclaw=====
+206  SonderjyskE=====
+207  Soproni VSE=====
+208  Spartak Myjava=====
+209  Szeged 2011 FC=====
+210  Teplice=====
+211  Trencin=====
+212  Zeljeznicar=====
+213  Baltika=====
+214  Cork City=====
+215  Dundalk=====
+216  Finn Harps=====
+217  Kruoja=====
+218  Leeds United XI=====
+219  Longford=====
+220  MAS Taborsko=====
+221  Mervue Utd=====
+222  Nyiregyhazi Spartacus=====
+223  Rostov=====
+224  Shamrock Rovers=====
+225  UCD=====
+226  Vejle BK Kolding=====
+227 Hajduk Split=====
+228 Olimpija=====
+229 Rubin Kazan=====FC Rubin Kazan
+230 Aarhus Fremad=====Aarhus GF
+231 AGF=====
+232 Astra Giurgiu=====
+233 Atvidabergs=====
+234 Avarta=====
+235 Ballinamallard United=====
+236 Banga=====
+237 Banik Most=====
+238 Banik Sokolov=====
+239 BKS Stal Bielsko-Bia?a=====
+240 Botev Plovdiv=====
+241 Bronshoj=====
+242 BSV=====
+243 Degerfors=====
+244 Djurgardens=====
+245 Ekranas=====
+246 Elfsborg=====IF Elfsborg
+247 Falkenbergs=====
+248 FC Copenhagen=====
+249 FC Taraz=====
+250 FK Dainava=====
+251 Frem=====
+252 FS METTA LU=====
+253 GBK=====
+254 GKS Cartusia Kartuzy=====
+255 Hobro=====
+256 Hungaria Budapest=====
+257 Hvidovre=====
+258 Ilves=====
+259 Kalmar FF=====Kalmar
+260 KPV=====
+261 Kryvbas=====
+262 LASK Linz=====
+263 Lillestrom=====
+264 Linense=====
+265 LKS Lodz=====
+266 Ludogorets=====
+267 Metalurgs Liepaja=====
+268 MKS Kluczbork=====
+269 NK Aluminij=====
+270 NK Celje=====
+271 Norrkoping=====
+272 OPS=====
+273 Orgryte=====
+274 Ostersunds=====
+275 Petrotrest=====
+276 RNK Split=====
+277 Sandefjord=====
+278 Sandnes Ulf=====
+279 SFM Senec=====
+280 Shinnik=====
+281 Skonto Riga=====
+282 Sligo Rovers=====
+283 Sogndal=====
+284 Spartak Moscow=====
+285 Stromsgodset=====
+286 Sumy=====
+287 Syrianska FC=====
+288 Tavriya=====
+289 Viking=====
+290 Widzew Lodz=====
+291 Zlate Moravce=====
+292 =====Aalesunds
+293 Brann=====
+294 Derry=====
+295 FC Nordsj=====
+296 Hameenlinna=====
+297 Hammarby=====
+298 Honefoss=====
+299 JaPS=====
+300 Lyngby=====
+301 Malmo FF=====
+302 Mjallby=====
+303 Paide Linnameeskond=====
+304 Stabaek=====
+305 Trans Narva=====
+306 UCAM Murcia=====
+307 AC Oulu=====
+308 Assi IF=====
+309 Bodo Glimt=====
+310 FC Cartagena=====
+311 FC Viikingit=====
+312 Haugesund=====
+313 HIFK=====
+314 KS Polonia Sroda Wlkp=====
+315 Molde=====
+316 SJK=====
+317 Skive=====
+318 Thisted=====
+319 Warta Poznan=====
+
+44 12
+
+1 CSKA Moscow=====CSKA Moscow
+2 FC Copenhagen=====FC Cobenhavn
+3 FC Vaslui=====FC Vaslui
+4 IFK Goteborg=====
+5 Molde=====Molde
+6 Olimpija=====Olimpija Ljubljana
+7 Rosenborg=====Rosenborg
+8 Shakhtar=====Shakhtar
+9 Shanghai East Asia|Shan East Asia=====Sh. Telaishi
+10 Stromsgodset=====
+11 Tromso=====Tromso IL
+12 Widzew Lodz=====KS Widzew Lodz
+
+45 4
+
+1 Dinamo Kiev=====
+2 FC Basel=====
+3 Ferencvaros=====
+4 Steaua Bucharest=====
+
+46 2
+
+1 Desna=====
+2 Dinamo Kiev II=====
+
+47 20
+
+1 Arminia Bielefeld= Arminia Bielefeld=Arminia Bielefeld===
+2 Kickers Offenbach|Kickers Offenb= Kickers Offenbach=Kickers Offenbach===
+3 Osnabruck= VfL Osnabruck=VfL Osnabr?ck===
+4 Karlsruhe=Karlsruher SC=Karlsruher SC===
+5 Hallescher FC= Hallescher FC=Hallescher FC===
+6 Stuttgart Kickers= Stuttgarter Kickers=Stuttgarter Kickers===
+7 Stuttgart II= VfB Stuttgart Am=VfB Stuttgart Am.===
+8 Rot-Weiss Erfurt|Rot-Weiss Erf.= Rot-Weiss Erfurt=Rot Weiss Erfurt===
+9 Wehen Wiesbaden|Wehen Wiesbade= SV Wehen Wiesbaden=Wehen Wiesbaden===
+10 Babelsberg= SV Babelsberg 03=SV Babelsberg 03===
+11 Burghausen= Wacker Burghausen=Wacker Burghausen===
+12 Dortmund II= Borussia Dortmund Am=Borussia Dortmund Am.===
+13 FC Heidenheim= FC Heidenheim=FC Heidenheim===
+14 Unterhaching= Unterhaching=Unterhaching===
+15 Hansa Rostock= Hansa Rostock=Hansa Rostock===
+16 Preussen Munster|Press Munster= Preussen Munster=Preu?en M?nster===
+17 Alemannia Aachen=Alemannia Aachen=Alemannia Aachen===
+18 Saarbrucken= Saarbr?cken=FC Saarbr?cken===
+19 SV Darmstadt= SV Darmstadt 98=SV Darmstadt 98===
+20 Chemnitzer= Chemnitzer=Chemnitzer FC===
+
+48 18
+
+1 Augsburg= Augsburg=FC Augsburg===FC Augsburg
+2 B Munich= Bayern Munchen=Bayern M?nchen===Bayern Munich
+3 Dortmund= Borussia Dortmund=Borussia Dortmund===Borussia Dortmund
+4 Eintracht Frankfurt|Eint Frankfurt= Eintracht Frankfurt=Eintracht Frankfurt===Eintracht Frankfurt
+5 Fortuna Dusseldorf|For Dusseldorf= Fortuna Dusseldorf=Fortuna D?sseldorf===Fortuna Dusseldorf
+6 Freiburg= SC Freiburg=SC Freiburg===Freiburg
+7 G Furth= Greuther Furth=Greuther F?rth===Greuther Furth
+8 Hamburg= Hamburger SV=Hamburger SV===Hamburger SV
+9 Hannover= Hannover 96=Hannover 96===Hannover
+10 Hoffenheim= TSG Hoffenheim=1899 Hoffenheim===Hoffenheim
+11 Leverkusen= Bayer Leverkusen=Bayer Leverkusen===Bayer Leverkusen
+12 Mainz= FSV Mainz 05=FSV Mainz===Mainz 05
+13 Mgladbach= Borussia Monchengladbach=Borussia M?nchengladbach===Borussia Monchengladbach
+14 Nurnberg= Nurnberg=FC N?rnberg===Nurnberg
+15 Schalke= Schalke 04=Schalke 04===Schalke 04
+16 Stuttgart= VfB Stuttgart=VfB Stuttgart===Stuttgart
+17 W Bremen= Werder Bremen=Werder Bremen===Werder Bremen
+18 Wolfsburg= VfL Wolfsburg=VfL Wolfsburg===Wolfsburg
+
+49 20
+
+1 Asteras Tripolis|Ast Tripolis= Asteras Tripolis====
+2 Fostiris=====
+3 Giannina= PAS Giannina====
+4 Kallithea=====
+5 Olympiakos Volou=====
+6 Panathinaikos= Panathinaikos====
+7 PAOK= PAOK====
+8 Platanias=Platanias====
+9 Xanthi= SKODA Xanthi====
+10 Veria= Veria====
+11 Kavala=====
+12 Olympiakos= Olympiacos====
+13 Kerkira= Kerkyra====
+14 Levadiakos= Levadiakos====
+15 Panthrakikos= Panthrakikos====
+16 Apollon Smirnis=====
+17 = AEK Athens====
+18 = Atromitos====
+19 = Panionios====
+20 = OFI====
+
+50 16
+
+1 AEK==AEK===AEK Athens
+2 Aris Thes.==Aris===Aris Thessaloniki FC
+3 Asteras Tripolis|Ast Tripolis==Asteras Tripolis===Asteras Tripolis
+4 Atromitos==Atromitos===Atromitos Athens
+5 Giannina==PAS Giannina===PAS Giannina
+6 Kerkira==Kerkyra===Kerkyra Corfu
+7 Levadiakos==Levadiakos===Levadeiakos
+8 OFI==OFI Kreta===OFI Crete FC
+9 Olympiakos==Olympiakos===Olympiacos Piraus
+10 Panathinaikos==Panathinaikos===Panathinaikos Athen
+11 Panionios==Panionios===Panionios
+12 Panthrakikos==Panthrakikos===Panthrakikos FC Komotini
+13 PAOK==PAOK===PAOK Thessaloniki
+14 Platanias==Platanias===Platanias Chanion
+15 Veria==Veria===GAS Veria FC
+16 Xanthi==Skoda Xanthi===
+
+51 10
+
+1 Citizen AA==Citizen===
+2 Hong Kong Rangers FC=====
+3 Kitchee==Kitchee===
+4 Southern District RSA==Southern District===
+5 TSW Pegasus==TSW Pegasus===
+6 Yokohama FC HK=====
+7 Tuen Mun==Tuen Mun===
+8 Wofoo Tai Po==Wofoo Tai Po===
+9 South China==South China===
+10 ==Sun Hei===
+
+52 7
+
+1 Breidablik=====
+2 Hafnarfjordur=====
+3 IA Akranes=====
+4 Keflavik=====
+5 Stjarnan=====
+6 Selfoss=====
+7 IBV=====
+
+53 5
+
+1 BI Bolungarvik=====
+2 Grindavik=====
+3 Njardvik=====
+4 Haukar=====
+5 Grotta=====
+
+54 0
+
+55 8
+
+1 Fylkir=====
+2 Fram=====
+3 Leiknir R=====
+4 Vikingur=====
+5 Fjolnir=====
+6 IR Reykjavik=====
+7  KR Reykjavik=====
+8  Valur=====
+
+56 14
+
+1 Churchill Brothers==Churchill Brothers===
+2 Dempo SC==Dempo SC===
+3 East Bengal==East Bengal===
+4 Mumbai==Mumbai FC===
+5 Pailan Arrows==Pailan Arrows===
+6 Prayag Utd==Prayag United===
+7 Pune==Pune FC===
+8 Shillong Lajong==Shillong Lajong===
+9 Sporting Goa==Sporting Clube de Goa===Sporting Clube de Goa
+10 United Sikkim==United Sikkim===
+11 Mohun Bagan==Mohun Bagan===
+12 ONGC==ONGC===
+13 Salgaocar==Salgaocar===Salgaocar SC
+14 Air India==Air India FC===
+
+57 88
+
+1 Albania==Albania=== Albania
+2 Argentina===== Argentina
+3 Armenia==Armenia=== Armenia
+4 Australia==Australia=== Australia
+5 Austria==Austria=== Austria
+6 Azerbaijan==Azerbaijan=== Azerbaijan
+7 Belarus===== Belarus
+8 Belgium==Belgium=== Belgium
+9 Bolivia=====Bolivia
+10 Bosnia==Bosnia-Herzegovina=== Bosnia & Herzegovina
+11 Brazil===== Brazil
+12 Canada=====Canada
+13 Chile===== Chile
+14 China=====
+15 Colombia=====Colombia
+16 Croatia==Croatia=== Croatia
+17 Cyprus==Cyprus=== Cyprus
+18 Czech Republic==Czech Republic=== Czech Republic
+19 Denmark==Denmark=== Denmark
+20 Ecuador===== Ecuador
+21 Egypt===== Egypt
+22 El Salvador=====El Salvador
+23 England==England=== England
+24 Estonia==Estonia=== Estonia
+25 Finland==Finland=== Finland
+26 France==France=== France
+27 FYR Macedonia===== Macedonia
+28 Gainsborough=====
+29 Georgia==Georgia=== Georgia
+30 Germany==Germany=== Germany
+31 Greece==Greece=== Greece
+32 Guatemala=====Guatemala
+33 Guinea=====
+34 Haiti=====Haiti
+35 Hungary==Hungary=== Hungary
+36 Iceland==Iceland=== Iceland
+37 India=====
+38 Indonesia=====
+39 Israel==Israel=== Israel
+40 Italy==Italy=== Italy
+41 Japan==Japan=== Japan
+42 Jordan==Jordan===
+43 Kazakhstan==Kazakhstan===Kazakhstan
+44 Latvia==Latvia=== Latvia
+45 Lebanon==Lebanon===
+46 Liechtenstein==Liechtenstein=== Liechtenstein
+47 Luxembourg==Luxembourg=== Luxembourg
+48 Malta==Malta=== Malta
+49 Mexico=====
+50 Moldova==Moldova===Moldova
+51 Netherlands===== Netherlands
+52 North Korea=====
+53 Northern Ireland==Northern Ireland=== Northern Ireland
+54 Norway==Norway=== Norway
+55 Oman==Oman===
+56 Palestine=====
+57 Paraguay=====Paraguay
+58 Peru=====Peru
+59 Poland==Poland=== Poland
+60 Portugal==Portugal=== Portugal
+61 Qatar==Qatar===Qatar
+62 Rep of Ireland==Ireland Republic=== Ireland
+63 Romania==Romania=== Romania
+64 Russia==Russia=== Russian
+65 Scotland==Scotland=== Scotland
+66 Senegal=====
+67 Serbia==Serbia=== Serbia
+68 Slovakia==Slovakia=== Slovakia
+69 Slovenia==Slovenia=== Slovenia
+70 South Korea==South Korea=== S. Korea
+71 Spain==Spain===Spain
+72 Sweden==Sweden=== Sweden
+73 Switzerland==Switzerland=== Switzerland
+74 Thailand=====
+75 Trinidad and Tobago=====Trinidad and Tobago
+76 Turkey==Turkey=== Turkey
+77 Ukraine==Ukraine=== Ukraine
+78 Uruguay===== Uruguay
+79 Wales==Wales=== Wales
+80 ==Lithuania===
+81 ==Macedonia===Macedonia
+82 ==Montenegro===Montenegro
+83 ==San Marino===San Marino
+84 ==Faroe Islands===
+85 ==Holland===
+86 ==Bulgaria===Bulgaria
+87 ==Andorra===Andorra
+88 ==Uzbekistan===
+
+58 7
+
+1 Belize=====Belize
+2 Costa Rica=====Costa Rica
+3 El Salvador=====El Salvador
+4 Guatemala=====
+5 Honduras=====Honduras
+6 Nicaragua=====
+7 Panama=====
+
+59 8
+
+1 ==Brazil===
+2 ==Canada===
+3 ==Finland===
+4 ==Japan===
+5 ==Luxembourg===
+6 ==Russia===
+7 ==Slovakia===
+8 ==Sweden===
+
+60 16
+
+1 Ahi Nazareth==Maccabi Ahi Nazareth===
+2 Hakoah Ramat Gan==Hakoach Ramat Gan===
+3 Hapoel Kfar Saba|Hap Kfar Saba=====Hapoel Kfar Saba
+4 Hapoel Raanana==Hapoel Raanana===Hapoel Raanana
+5 Hapoel Rishon Lezion==Hapoel Rishon Letzion===Hapoel Ironi Rishon Lezion
+6 Maccabi Herzliya=====
+7 Maccabi Umm Al Fahm|M Umm Al F==Maccabi Um El Fahem===Maccabi Um El Fahem
+8 Maccabi Yavne==Maccabi Yavne===Maccabi Yavne
+9 Hapoel Jerusalem|Hapoel Jerusal==Hapoel Jerusalem===
+10 Sektzia Nes Tziona==Sektzya Ness Ziona===Section Nesh Cion
+11 Beitar Tel Aviv Ramla|Be Tel Avi Ram==Beitar Tel Aviv Ramla===
+12 Hapoel Ashkelon==Hapoel Ashkelon===
+13 Hapoel Petach Tikva=====
+14 Maccabi Petach Tikva|M P Tikva|M Petach Tikva=====
+15 Hapoel Nazareth Illit|Hapoel Naz Ill==Hapoel Nazareth Illit===
+16 Hapoel Bnei Lod=====
+
+61 14
+
+1 Beitar Jerusalem|Beit Jerusalem=Beitar Jerusalem====Beitar Jerusalem
+2 Bnei Sakhnin=Bnei Sakhnin====Hapoel Bnei Sakhnin
+3 Bnei Yehuda=Bnei Yehuda Tel Aviv=Bnei Yehuda===Bnei Yehuda Tel Aviv
+4 FC Ashdod=FC Ashdod=F.C. Ashdod===Ashdod
+5 Hapoel Akko=Hapoel Acre====Hapoel Akko
+6 Hapoel Beer Sheva=Hapoel Beer Sheva====Hapoel Beer Sheva
+7 Hapoel Haifa=====Hapoel Haifa
+8 Hapoel Kiryat Shmona=Hapoel Kiryat Shmona====Hapoel Ironi Kiryat Shmona
+9 Hapoel Ramat Gan|Hako Ramat Gan=Hapoel Ramat Gan====Hapoel Ramat Gan
+10 Hapoel Tel Aviv=Hapoel Tel Aviv====Hapoel Tel Aviv
+11 Ironi Ramat HaSharon=Hapoel Nir Ramat HaSharon====Hapoel Ironi Ramat Hasharon
+12 Maccabi Haifa=Maccabi Haifa====Maccabi Haifa
+13 Maccabi Netanya|Macc Netanya=====Maccabi Netanya
+14 Maccabi Tel Aviv|Mac Tel Aviv=Maccabi Tel Aviv====Maccabi Tel Aviv
+
+62 3
+
+1 Hapoel Beer Sheva U19=====
+2 Hapoel Haifa U19=====
+3 Beitar Tubruk U19=====
+
+63 12
+
+1 AC Cesena U19=====
+2 AC Chievo Verona U19=====
+3 AS Cittadella U19=====
+4 AS Roma U19=====
+5 Inter U19=====
+6 Novara Calcio U19=====
+7 Pro Vercelli U19=====
+8 Reggina Calcio U19|Reggina Ca U19=====
+9 SS Lazio U19=====
+10 US Citta di Palermo U19=====
+11 FC Crotone U19=====
+12 SS Juve Stabia U19=====
+
+64 4
+
+1 Inter=====
+2 Juventus=====
+3 Lazio=====
+4 Roma=====
+
+65 18
+
+1 AC Giacomense==Giacomense===
+2 FC Castiglione==Castiglione===
+3 Forli FC==Forli===
+4 Renate==Renate===
+5 ==Alessandria===
+6 ==Bassano Virtus===
+7 ==Bellaria Igea===
+8 ==Casale===
+9 ==Fano===
+10 ==Mantova===
+11 ==Milazzo===
+12 ==Monza===
+13 ==Pro Patria===
+14 ==Rimini===
+15 ==Saint Christophe===
+16 ==Santarcangelo===
+17 ==Savona===
+18 ==Venezia===
+
+66 18
+
+1 Borgo a Buggiano==Borgo a Buggiano===
+2 HinterReggio Calcio|Hinter Calcio==HinterReggio===
+3 US Arzanese==Arzanese===
+4 Vigor Lamezia==Vigor Lamezia===
+5 ==Aprilia===
+6 ==Aversa Normanna===
+7 ==Campobasso===
+8 ==Chieti===
+9 ==Foligno===
+10 ==Fondi===
+11 ==Gavorrano===
+12 ==LAquila===
+13 ==Martina===
+14 ==Melfi===
+15 ==Poggibonsi===
+16 ==Pontedera===
+17 ==Salernitana===
+18 ==Teramo===
+
+67 20
+
+1 AC Milan= AC Milan=AC Milan===AC Milan
+2 Atalanta= Atalanta=Atalanta===Atalanta
+3 Bologna= Bologna=Bologna===Bologna
+4 Cagliari= Cagliari=Cagliari=== Cagliari Calcio
+5 Catania= Catania=Catania===Calcio Catania
+6 Chievo= Chievo=Chievo===Chievo Verona
+7 Fiorentina= Fiorentina=Fiorentina===Fiorentina
+8 Genoa= Genoa=Genoa===Genoa
+9 Inter= Inter Milan=Inter===Inter Milan
+10 Juventus= Juventus=Juventus===Juventus
+11 Lazio= Lazio=Lazio===Lazio Roma
+12 Napoli= Napoli=Napoli===Napoli
+13 Palermo= Palermo=Palermo===US Palermo
+14 Parma= Parma=Parma===Parma
+15 Pescara= Pescara=Pescara===Pescara
+16 Roma= AS Roma=AS Roma===AS Roma
+17 Sampdoria= Sampdoria=Sampdoria===Sampdoria
+18 Siena= Siena=Siena===Siena
+19 Torino= Torino=Torino===FC Turin
+20 Udinese= Udinese=Udinese===Udinese
+
+68 22
+
+1 Brescia= Brescia=Brescia===Brescia Calcio
+2 Crotone= Crotone=Crotone===Crotone
+3 Sassuolo= Sassuolo=Sassuolo===Sassuolo
+4 Varese= Varese=Varese===Varese
+5 Bari= Bari=Bari===AS Bari
+6 Ascoli= Ascoli=Ascoli=== Ascoli
+7 Spezia= Spezia=Spezia===Spezia Calcio
+8 Verona= Verona=Hellas Verona===Hellas Verona
+9 Padova= Padova=Padova===Padova
+10 Livorno=Livorno=Livorno===Livorno
+11 Empoli=Empoli=Empoli===Empoli
+12 Novara= Novara=Novara===Novara
+13 Lanciano= Virtus Lanciano=Virtus Lanciano=== Virtus Lanciano
+14 Pro Vercelli= Pro Vercelli=Pro Vercelli===Pro Vercelli
+15 Reggina= Reggina=Reggina===Reggina
+16 Grosseto= Grosseto=Grosseto===Grosseto
+17 Cittadella= Cittadella=Cittadella===Chitadella
+18 Modena= Modena=Modena===Modena
+19 Ternana= Ternana=Ternana===Ternana Calcio
+20 Cesena= Cesena=Cesena===Cesena
+21 Vicenza= Vicenza=Vicenza===Vicenza
+22 Juve Stabia= Juve Stabia=Juve Stabia===Juve Stabia
+
+69 17
+
+1 Albinoleffe==AlbinoLeffe===
+2 Carpi==Carpi===
+3 Como==Como===Como Calcio
+4 Cremonese==Cremonese===
+5 Cuneo==Cuneo===
+6 Entella==Virtus Entella===
+7 Feralpisalo==FeralpiSal?===
+8 Lecce==Lecce===Lecce
+9 Lumezzane==Lumezzane=== Lumezzane
+10 Pavia==Pavia===
+11 Portogruaro==Portosummaga===
+12 Reggiana==Reggiana===
+13 San Marino Calcio==San Marino===
+14 Trapani==Trapani===
+15 Treviso==Treviso===
+16 Tritium==Tritium===
+17 Sudtirol==S?dtirol=== FC Sudtirol
+
+70 16
+
+1 Andria BAT==Andria BAT===
+2 Avellino==Avellino===US Avellino
+3 Barletta==Barletta===
+4 Benevento==Benevento===
+5 Carrarese==Carrarese===
+6 Catanzaro==Catanzaro===
+7 Frosinone==Frosinone===
+8 Gubbio==Gubbio===
+9 Latina==Latina===
+10 Nocerina==Nocerina===ASG Nocerina
+11 Paganese==Paganese===
+12 Perugia==Perugia===
+13 Pisa==Pisa===
+14 Prato==Prato===Prato
+15 Sorrento==Sorrento===
+16 Viareggio==Viareggio===
+
+71 12
+
+1 Al Arabi (Jor)==Al Arabi===
+2 Al Faisaly==Al Faisaly===
+3 Al Jazeera Amman (Jor)|Al Jaz Amman==Al Jazeera Amman===
+4 AL Ramtha|Al Ramtha==Ramtha SC===
+5 Al Sareeh==Al Sareeh SC===
+6 Al Yarmouk Amman|Al Yarmouk==Al Yarmouk===
+7 Mansheyat Bani Hasan|Man Bani Hasan==Mansheiat Bani Hasan===
+8 Shabab El-Hussein|Shaba El-Husse==Shabab Al Hussein===
+9 Al Wehdat=====
+10 Al Baqaa SC Amman==Al Baqa===
+11 Nadi Shabab Al Ordon=====
+12 That Ras=====
+
+72 10
+
+1 Daugava Daugavpils=====
+2 FC Jurmala=====
+3 Ventspils=====Ventspils
+4 Ilukstes BJSS=====
+5 FK Daugava Riga=====
+6 Metalurgs Liepaja==Liepajas Metalurgs===
+7 Skonto Riga=====
+8 Jelgava=====
+9 =====FK Spartaks
+10 ==FS Metta===
+
+73 12
+
+1 ATM (Armed Forces)=====
+2 Felda Utd=====
+3 Johor Darul Takzim=====
+4 Kelantan=====
+5 Lions XII FC=====
+6 Negeri Sembilan=====
+7 Pahang=====
+8 PBDKT T-Team=====
+9 Perak=====
+10 PKNS=====
+11 Selangor=====
+12 Terengganu=====
+
+74 9
+
+1 Balzan Youths==Balzan Youths===
+2 Birkirkara=====
+3 Floriana=====
+4 Hamrun Spartans FC=====
+5 Qormi FC==Qormi===
+6 Rabat Ajax FC==Rabat Ajax===
+7 Tarxien Rainbows FC=====
+8 Valletta=====
+9 ==Melita===
+
+75 24
+
+1 Altamira=====
+2 Atlante=Atlante====
+3 Atlas=Atlas====
+4 Celaya=====
+5 CF America=Club America====
+6 Correcaminos UAT|Correcaminos U|Correcaminos=====
+7 Cruz Azul=Cruz Azul====
+8 Cruz Azul Hidalgo|C A Hidalgo=====
+9 Dorados=====
+10 Estudiantes Tecos|Est Tecos=====
+11 Irapuato=====
+12 Jaguares=Jaguares de Chiapas====
+13 La Piedad=====
+14 Lobos BUAP=====
+15 M Morelia=====
+16 Merida (Mex)=====
+17 Necaxa=====
+18 Pachuca=Pachuca====
+19 Puebla=Puebla====
+20 Pumas UNAM=Pumas U.N.A.M.====
+21 Queretaro=Queretaro====
+22 San Luis=San Luis====
+23 Toros Neza=====
+24 Veracruz=====
+
+76 18
+
+1 Atlante==Atlante===Atlante
+2 Atlas==Atlas===Atlas
+3 CF America==Am?rica M?xico===America de Mexico
+4 Cruz Azul==Cruz Azul===Cruz Azul
+5 Guadalajara==Chivas Guadalajara===Chivas
+6 Leon==Le?n===Leon
+7 M Morelia==Monarcas Morelia===
+8 Pachuca==Pachuca===Pachuca
+9 Puebla==Puebla===Puebla
+10 Pumas UNAM==Pumas UNAM===Pumas UNAM
+11 Queretaro==Quer?taro===Queretaro
+12 San Luis==San Luis===San Luis
+13 Santos Laguna==Santos Laguna===Santos Laguna
+14 Tigres==Tigres UANL===Tigres
+15 Tijuana==Tijuana===Club Tijuana
+16 Monterrey==Monterrey===Monterrey
+17 Toluca==Toluca===Toluca
+18 Jaguares==Jaguares===Jaguares Chiapas
+
+77 15
+
+1 CD Cruz Azul Hidalgo|C A Hidalgo==Cruz Azul Hidalgo===
+2 Estudiantes de Altamira|Estud. de A=====
+3 Estudiantes Tecos|Est Tecos==Estudiantes Tecos===
+4 Irapuato==Irapuato===
+5 La Piedad==La Piedad===
+6 Merida==M?rida===
+7 Necaxa==Necaxa===
+8 Pumas Morelos==Pumas Morelos===
+9 T Rojos Veracruz==Veracruz===
+10 Toros Neza==Toros Neza===
+11 Uni de Guadalajara|Uni de Guadal==Universidad de Guadalajara===
+12 ==Celaya===
+13 ==Correcaminos UAT===
+14 ==Dorados===
+15 ==Lobos BUAP===
+
+78 0
+
+79 12
+
+1 Ballinamallard Utd= Ballymena United=Ballinamallard United===
+2 Ballymena==Ballymena United===
+3 Cliftonville= Cliftonville=Cliftonville===
+4 Coleraine= Coleraine=Coleraine===
+5 Crusaders= Crusaders=Crusaders===
+6 Donegal Celtic= Donegal Celtic=Donegal Celtic===
+7 Dungannon Swifts= Dungannon Swifts=Dungannon Swifts===
+8 Glenavon==Glenavon===
+9 Glentoran= Glentoran FC=Glentoran===
+10 Linfield==Linfield===
+11 Lisburn Distillery= Lisburn Distillery=Lisburn Distillery===
+12 Portadown==Portadown===
+
+80 21
+
+1 Crusaders=====
+2 Kilmore Rec=====
+3 Larne=====
+4 Linfield=====
+5 Lurgan Celtic=====
+6 Tobermore Utd=====
+7 Institute=====
+8 Glenavon=====
+9 Ballymena=====
+10 Coleraine=====
+11 Bangor=====
+12 Glentoran=====
+13 Cliftonville=====
+14 Donegal Celtic=====
+15 Lisburn Distillery=====
+16 Dundela=====
+17 Portadown=====
+18 Ards=====
+19  Knockbreda=====
+20 ==Cobh Ramblers===
+21 ==Waterford United===
+
+81 16
+
+1 Academica= Academica Coimbra=Acad?mica===Academica De Coimbra
+2 Beira-Mar= Beira Mar=Beira-Mar===SC Beira Mar
+3 Benfica= Benfica=Benfica===Benfica Lisbon
+4 Braga=Sporting Braga=Sporting Braga===Braga
+5 Estoril= Estoril Praia=Estoril=== Estoril Praia
+6 Gil Vicente= Gil Vicente=Gil Vicente===Gil Vicente
+7 Guimaraes=Vitoria Guimaraes=Vit?ria Guimar?es===Vitoria Guimaraes
+8 Maritimo= Maritimo=Mar?timo===Maritimo Funchal
+9 Moreirense= Moreirense=Moreirense===Moreirense
+10 Nacional= Nacional da Madeira=Nacional===Nacional Madeira
+11 Olhanense= Olhanense=Olhanense===Olhanense
+12 Pacos Ferreira= Pa?os de Ferreira=Pa?os de Ferreira=== P.Ferreira
+13 Porto= Porto=FC Porto===FC Porto
+14 Rio Ave= Rio Ave=Rio Ave===Rio Ave FC
+15 Setubal= Vitoria Setubal=Vit?ria Set?bal===Vitoria Setubal
+16 Sp Lisbon= Sporting Lisbon=Sporting CP===Sporting Lissabon
+
+82 22
+
+1 Arouca=FC Arouca=Arouca===FC Arouca
+2 Atletico CP=Atletico Clube de Portugal=Atl?tico CP===Atletico CP
+3 Aves=Aves=Aves===Aves
+4 Belenenses=Belenenses=Belenenses===Belenenses
+5 Benfica B=Benfica B=Benfica B===Benfica Lisbon B
+6 Braga B=Sporting Braga B=Braga B===Sporting Braga B
+7 Covilha=Sporting Covilha=Covilh?===Covilha
+8 Feirense=Feirense=Feirense===Feirense
+9 Freamunde=Freamunde=Freamunde===Freamunde
+10 Guimaraes B=Vitoria Guimaraes B=Vit?ria Guimar?es B===Vitoria Guimaraes B
+11 Leixoes=Leixoes=Leix?es===Leixoes
+12 Maritimo B=Maritimo B=Mar?timo B===Maritimo Funchal B
+13 Naval=Naval=Naval===Naval
+14 Oliveirense=Oliveirense=Oliveirense===UD Oliveirense
+15 Penafiel=Penafiel=Penafiel===Penafiel
+16 Portimonense=Portimonense=Portimonense===Portimonense
+17 Porto B=Porto B=Porto B===Porto B
+18 Santa Clara=Santa Clara=Santa Clara===Santa Clara
+19 Sp Lisbon B=Sporting Lisbon B=Sporting B===Sporting Lissabon B
+20 Tondela=CD Tondela=Tondela===Tondela
+21 Trofense=Trofense=Trofense===Trofense
+22 Uniao Madeira=Uniao da Madeira=Uni?o Madeira===Uniao Da Madeira
+
+83 14
+
+1 Al Rayyan=====
+2 Al Sailiya=====
+3 Al Wakrah=====Al Wakhra
+4 El Jaish=====
+5 Lekhwiya=====
+6 Umm Salal=====
+7 Al Gharafa=====
+8 Al Kharitiyath=====
+9 Al Khor=====
+10 Al Arabi=====
+11 Al Sadd (QAT)=====Al Sadd
+12 Qatar SC=====
+13 Umm-Salal=====
+14 Lekhiwiya=====
+
+84 8
+
+1 Al Ahli=====
+2 Al Taawon=====
+3 Al-Nasr=====
+4 Al-Shabab (KSA)=====
+5 Al-Wahda (KSA)=====
+6 Al-Hilal=====
+7 Al-Ittihad=====
+8 Hajer (KSA)=====
+
+85 12
+
+1 Aberdeen= Aberdeen=Aberdeen===Aberdeen
+2 Celtic= Celtic FC=Celtic===Celtic Glasgow
+3 Dundee= Dundee=Dundee FC===FC Dundee
+4 Dundee Utd= Dundee United=Dundee United===Dundee United
+5 Hearts= Heart of Midlothian=Hearts===Heart of Midlothian
+6 Hibernian= Hibernian=Hibernian===Hibernian
+7 Inverness CT= Inverness=Inverness CT===Inverness Caledonian Thistle
+8 Kilmarnock= Kilmarnock====Kilmarnock
+9 Motherwell= Motherwell=Motherwell===Motherwell
+10 Ross Co= Ross County=Ross County===Ross County
+11 St Johnstone= Saint Johnstone=St. Johnstone===St. Johnstone
+12 St Mirren= Saint Mirren=St. Mirren===St.Mirren
+
+86 12
+
+1 Airdrie Utd= Airdrie United=Airdrie United===
+2 Dumbarton= Dumbarton=Dumbarton===
+3 Falkirk= Falkirk=Falkirk===
+4 Hamilton= Hamilton Academical=Hamilton===
+5 Livingston= Livingston=Livingston===
+6 Morton= Greenock Morton=Greenock Morton===
+7 Partick= Partick Thistle=Partick Thistle===
+8 Raith= Raith Rovers=Raith Rovers===
+9 Cowdenbeath= Cowdenbeath=Cowdenbeath===
+10 Dunfermline= Dunfermline Athletic=Dunfermline===
+11 ==Rochdale===
+12 ==Gillingham===
+
+87 12
+
+1 Alloa= Alloa Athletic=Alloa Athletic===
+2 Arbroath= Arbroath=Arbroath===
+3 Ayr= Ayr United=Ayr United===
+4 East Fife= East Fife=East Fife===
+5 Forfar= Forfar Athletic=Forfar Athletic===
+6 Queen of South= Queen of South=Queen of the South===
+7 Stenhousemuir= Stenhousemuir=Stenhousemuir===
+8 Stranraer= Stranraer=Stranraer===
+9 Albion= Albion Rovers=Albion Rovers===
+10 Brechin= Brechin City=Brechin City===
+11 ==Rochdale===
+12 ==Gillingham===
+
+88 10
+
+1 Annan Ath==Annan Athletic===
+2 Clyde==Clyde===
+3 E Stirling==East Stirling===
+4 Montrose==Montrose===
+5 Peterhead==Peterhead===
+6 Queens Park==Queens Park===
+7 Rangers==Glasgow Rangers===
+8 Stirling==Stirling Albion===
+9 Berwick==Berwick Rangers===
+10 Elgin==Elgin City===
+
+89 20
+
+1 Ath Bilbao= Athletic Bilbao=Athletic Bilbao===Athletic Bilbao
+2 Atl Madrid= Atletico Madrid=Atl?tico Madrid===Atletico Madrid
+3 Barcelona= Barcelona=FC Barcelona===FC Barcelona
+4 Betis= Real Betis=Real Betis===Betis Sevilla
+5 Celta Vigo= Celta Vigo=Celta===Celta de Vigo
+6 Deportivo= Deportivo La Coruna=Deportivo La Coru?a===Deportivo La Coruna
+7 Espanyol= RCD Espanyol=Espanyol===RCD Espanyol Barcelona
+8 Getafe= Getafe=Getafe===CF Getafe
+9 Granada= Granada=Granada===Granada CF
+10 Levante= Levante=Levante===UD Levante
+11 Malaga= Malaga=M?laga===CF Malaga
+12 Mallorca= Mallorca=Mallorca===RCD Mallorca
+13 Osasuna= Osasuna=Osasuna===CA Osasuna
+14 Rayo Vallecano= Rayo Vallecano=Rayo Vallecano===Rayo Vallecano
+15 Real Madrid= Real Madrid=Real Madrid===Real Madrid
+16 Sevilla= Sevilla=Sevilla===FC Sevilla
+17 Sociedad= Real Sociedad=Real Sociedad===Real Sociedad
+18 Valencia= Valencia=Valencia===CF Valencia
+19 Valladolid= Real Valladolid=Valladolid===Real Valladolid
+20 Zaragoza= Real Zaragoza=Zaragoza===Real Zaragoza
+
+90 21
+
+1 Atl Madrid B==Atl?tico Madrid B===
+2 Caudal Deportivo==Caudal Deportivo===
+3 CD Marino==CD Marino===
+4 Club Marino Luanco==Marino de Luanco===
+5 Coruxo==Coruxo===
+6 Fuenlabrada==Fuenlabrada===
+7 Getafe B==Getafe B===
+8 Gijon B==Guijuelo===
+9 Guijuelo==Legan?s===
+10 Leganes=====
+11 Ourense==Ourense===
+12 Oviedo==Real Oviedo===
+13 Rayo Vallecano B|Rayo Valle B==Rayo Vallecano B===
+14 Real Aviles=====
+15 Real Madrid C==Real Madrid C===
+16 RSD Alcala==Alcal? Henares===
+17 Salamanca==Salamanca===
+18 San Sebastian Reyes==SS de los Reyes===
+19 Tenerife==Tenerife===
+20 Zamora==Zamora===
+21 ==Sporting Gij?n B===
+
+91 20
+
+1 Alaves==Alav?s===
+2 Amorebieta==Amorebieta===
+3 Ath Bilbao B==Athletic Bilbao B===
+4 Barakaldo==Barakaldo===
+5 Eibar==Eibar===
+6 Izarra==Izarra===
+7 Lleida==Lleida===
+8 Noja==Noja===
+9 Osasuna B==Osasuna B===
+10 Pena Sport==Pe?a Sport===
+11 Real Union==Real Uni?n===
+12 RS Gimnastica==Gimn?stica Torrelavega===
+13 Santander B==Racing Santander B===
+14 SD Logrones==SD Logro??s===
+15 Sestao River Club==Sestao===
+16 Sociedad B==Real Sociedad B===
+17 Teruel==Teruel===
+18 Tudelano==Tudelano===
+19 UD Logrones==Logro??s===
+20 Zaragoza B==Zaragoza B===
+
+92 22
+
+1 AE Prat=====
+2 Alcoyano==Alcoyano===
+3 Atletico Baleares==Atl?tico Baleares===
+4 Badalona==Badalona===
+5 Binissalem==Binissalem===
+6 CE Constancia==Const?ncia===
+7 Gimnastic==Gimn?stic===
+8 Huracan CF==Hurac?n Valencia===
+9 Levante B==Levante B===
+10 LHospitalet==LHospitalet===
+11 Llagostera==Llagostera===
+12 Mallorca B==Mallorca B===
+13 Olimpic==Ol?mpic de X?tiva===
+14 Ontinyent==Ontinyent===
+15 Orihuela==Orihuela===
+16 Reus Deportiu==Reus Deportiu===
+17 Sant Andreu==Sant Andreu===
+18 Valencia B==Valencia B===
+19 Villarreal B==Villarreal B===
+20 Yeclano Dep.==Yeclano===
+21 Espanyol B==Espanyol B===
+22 ==Teruel===
+
+93 21
+
+1 Albacete==Albacete===
+2 Almeria B==Almer?a B===
+3 Arroyo=====
+4 Betis B==Real Betis B===
+5 Cacereno==Cacere?o===
+6 Cadiz==C?diz===
+7 Ecija==?cija===
+8 FC Cartagena==Cartagena===
+9 La Roda==La Roda===
+10 Linense==Linense===
+11 Loja==Loja===
+12 Lucena==Lucena===
+13 Melilla==Melilla===
+14 Real Jaen==Real Ja?n===
+15 San Fernando==San Fernando===
+16 San Roque==San Roque===
+17 Sanluqueno==Atl?tico Sanluque?o===
+18 Sevilla B==Sevilla Atl?tico===
+19 UCAM Murcia==UCAM Murcia===
+20 Villanovense==Villanovense===
+21 ==Carlstad United BK===
+
+94 22
+
+1 Alcorcon=AD Alcorcon=Alcorc?n===Alcorcon
+2 Almeria==Almer?a=== Almeria
+3 Barcelona B=Barcelona-B=Barcelona B===Barcelona B
+4 CD Guadalajara=CD Guadalajara=Guadalajara===CD Guadalajara
+5 Cordoba=Cordoba=C?rdoba===Cordoba
+6 Elche=Elche=Elche===Elche
+7 Gijon=Sporting Gijon=Sporting Gij?n===Sporting Gijon
+8 Girona=Girona=Girona===Girona
+9 Hercules=Hercules=H?rcules===Hercules
+10 Huesca=SD Huesca=Huesca===Huesca
+11 Las Palmas=Las Palmas=Las Palmas===Union Deportiva Las Palmas
+12 Lugo=CD Lugo=Lugo===CD Lugo
+13 Mirandes=CD Mirandes=Mirand?s===CD Mirandes
+14 Murcia=Real Murcia=Real Murcia===Real Mursia
+15 Numancia=Numancia=Numancia===Numancia
+16 Ponferradina=Ponferradina=Ponferradina===Ponferradina
+17 Real Madrid B= Real Madrid Castilla=Real Madrid Castilla=== Real Madrid Castilla
+18 Rec de Huelva=Recreativo Huelva=Recreativo===Recreativo Huelva
+19 Sabadell=CE Sabadell=Sabadell===Sabadell
+20 Santander=Racing Santander=Racing Santander===Racing Santander
+21 Villarreal=Villarreal=Villarreal===CF Villarreal
+22 Xerez=Xerez Deportivo=Xerez===Heres
+
+95 8
+
+1 Atl Madrid= Atletico Madrid====Atletico Madrid
+2 Barcelona= Barcelona====FC Barcelona
+3 Betis=====
+4 Malaga=====
+5 Real Madrid= Real Madrid====Real Madrid
+6 Sevilla= Sevilla====FC Sevilla
+7 Valencia=====
+8 Zaragoza=====
+
+96 8
+
+1 1461 Trabzon=====
+2 Antalyaspor=====
+3 Bursaspor=====
+4 Eskisehirspor=====
+5 Fenerbahce=====
+6 Mersin Idman Yurdu|Mersin I Yurdu=====
+7 Sivasspor=====
+8 Trabzonspor=====
+
+97 18
+
+1 1461 Trabzon==1461 Trabzon===1461 Trabzon
+2 Adana Demirspor|Adana Demi==Adana Demirspor===Adana Demirspor
+3 Adanaspor==Adanaspor===Adanaspor
+4 Ankaragucu==Ankarag?c?===Ankaragucu
+5 Boluspor==Boluspor===Boluspor
+6 Bucaspor==Bucaspor===Bucaspor
+7 Denizlispor==Denizlispor===Denizlispor
+8 Erciyesspor==Kayseri Erciyesspor===Kayseri Erciyesspor
+9 Gaziantep BB==Gaziantep BB===Gaziantep Buyuksehir Belediyespor
+10 Goztepe==G?ztepe===Goztepespor
+11 Karsiyaka==Karsiyaka===Karsiyaka
+12 Manisaspor==Manisaspor===Manisaspor
+13 Rizespor==?aykur Rizespor===Caykur Rizespor
+14 Samsunspor==Samsunspor===Samsunspor
+15 Tavsanli Linyitspor|Tavsanli L==Tavsanli Linyitspor===Tavsanli Linyitspor
+16 Torku Konyaspor|Torku Kony.==Konyaspor===Kombassan Konyaspor
+17 Urfaspor==S.Urfaspor===Sanliurfaspor
+18 Kartalspor==Kartalspor===Kartalspor
+
+98 18
+
+1 Akhisar Belediye|Akhi Belediye= Akhisar Belediyespor=Akhisar Bld.===Akhisar Bld Spor
+2 Antalyaspor= Antalyaspor=Antalyaspor===Antalya
+3 Besiktas= Besiktas=Besiktas===Besiktas
+4 Bursaspor= Bursaspor=Bursaspor===Bursaspor
+5 Elazigspor= Elazigspor=Elazigspor===Elazigspor
+6 Eskisehirspor= Eskisehirspor=Eskisehirspor===Eskishehirspor
+7 Fenerbahce= Fenerbahce=Fenerbah?e===Fenerbahce
+8 Gaziantepspor= Gaziantepspor=Gaziantepspor===Gasiantepspor
+9 Genclerbirligi= Genclerbirligi=Gen?lerbirligi===Genclerbirligi
+10 Istanbul BB= Istanbul Buyuksehir Belediyespor=B?y?ksehir Bld.===Istanbul B
+11 Karabukspor= Kardemir Karabukspor=Kardemir Karab?kspor===Karabukspor
+12 Kasimpasa= Kasimpasa=Kasimpasa===Kasimpasa
+13 Kayserispor= Kayserispor=Kayserispor===Kayserispor
+14 Mersin Idman Yurdu= Mersin Idman Yurdu=Mersin Idmanyurdu===Mersin Idman Yurdu
+15 Orduspor= Orduspor=Orduspor===Orduspor
+16 Sivasspor= Sivasspor=Sivasspor===Sivaspor
+17 Trabzonspor= Trabzonspor=Trabzonspor===
+18 Galatasaray= Galatasaray=Galatasaray===Galatasaray
+
+99 6
+
+1 Colombia U20=====Colombia(U20)
+2 Uruguay U20=====Uruguay(U20)
+3 Chile U20=====Chile(U20)
+4 Ecuador U20=====Ecu?dor(U20)
+5 Peru U20=====Peru(U20)
+6 Paraguay U20=====Paraguay(U20)
+
+100 6
+
+1 Belarus U21=====
+2 Estonia U21=====
+3 Latvia U21=====
+4 Moldova U21=====
+5 Tajikistan U21=====
+6 Turkmenistan U21=====
+
+101 12
+
+1 Belarus U21=====
+2 Estonia U21=====
+3 Kazakhstan U21=====
+4 Kyrgyzstan U21=====
+5 Latvia U21=====
+6 Lithuania U21=====
+7 Moldova U21=====
+8 Russia U21=====Russia(U21)
+9 Tajikistan U21=====
+10 Turkmenistan U21=====
+11 Ukraine U21=====Ukraine(U21)
+12 Uzbekistan U20=====
+
+102 15
+
+1 Ajman Club=====
+2 Al Ahli Club Dubai=====
+3 Al Ain FC=====
+4 Al Dhafra SCC=====
+5 Al Wahda (Abu Dhabi)=====
+6 Al Wasl Dubai=====
+7 Dibba Al Fujairah=====
+8 Dubai CSC=====
+9 Al Nasr (Dubai)=====
+10 Al Jazira=====
+11 Al Shaab Sharjah=====
+12 Al Ittihad Kalba=====
+13 Bani Yas=====
+14 Al Shabab (UAE)=====
+15 Al Ain=====
+
+103 16
+
+1 AC Milan= AC Milan====AC Milan
+2 Arsenal= Arsenal====Arsenal
+3 B Munich= Bayern Munchen=Bayern M?nchen===Bayern Munich
+4 Barcelona= Barcelona=FC Barcelona===FC Barcelona
+5 Galatasaray= Galatasaray=Galatasaray===Galatasaray
+6 Malaga= Malaga=M?laga===CF Malaga
+7 Porto= Porto====FC Porto
+8 Schalke= Schalke 04====Schalke 04
+9 Celtic= Celtic FC====Celtic Glasgow
+10 Juventus= Juventus=Juventus===Juventus Turin
+11 Valencia= Valencia====CF Valencia
+12 Paris St-G= Paris Saint Germain=Paris SG===Paris Saint Germain
+13 Real Madrid= Real Madrid=Real Madrid===Real Madrid
+14 Man Utd= Manchester United====Manchester Utd
+15 Shakhtar= Shakhtar Donetsk====Shakhtar Donetsk
+16 Dortmund= Borussia Dortmund=Borussia Dortmund===Borussia Dortmund
+
+104 12
+
+1 Aberystwyth==Aberystwyth Town===
+2 Afan Lido==Afan Lido===
+3 Airbus UK=====
+4 Bala Town==Bala Town===
+5 Bangor City=====
+6 Carmarthen Town=====
+7 Connahs Quay==Gap Connahs Quay===
+8 Llanelli==Llanelli===
+9 Newtown==Newtown===
+10 Port Talbot=====
+11 Prestatyn=====
+12 The New Saints=====
+
+105 8
+
+1 Afturelding (W)=====
+2 Breidablik (W)=====
+3 Grindavik (W)=====
+4 Hafnarfjordur (W)=====
+5 IA Akranes (W)=====
+6 IBV Vestmannaeyjar (W)=====
+7 Selfoss (W)=====
+8 Vikingur Olafsvik (W)=====
+
+106 2
+
+1 Rossiyanka (W)=====
+2 Zorkiy Krasnogorsk (W)=====
+
+107 7
+
+1 Fjolnir (W)=====
+2 Fram (W)=====
+3 Fylkir (W)=====
+4 HK Vikingur (W)=====
+5 KR Reykjavik (W)=====
+6 Valur (W)=====
+7 Throttur Reykjavik (W)=====
+
+108 16
+
+1 Ath Bilbao (W)=====
+2 Atl Madrid (W)=====
+3 Barcelona (W)=====
+4 Espanyol (W)=====
+5 FC Levante LP (W)|Levante LP (W)=====
+6 Levante (W)=====
+7 Llanos Olivenza (W)=====
+8 Prainsa Zaragoza (W)=====
+9 Real Sociedad (W)=====
+10 San Gabriel (W)|S Gabriel (W)=====
+11 Sevilla FC (W)=====
+12 Valencia (W)=====
+13 Sporting de Huelva (W)=====
+14 Lagunak (W)=====
+15 Collerense (W)=====
+16 Rayo Vallecano (W)=====
+
+109 19
+
+1 S-W Rehden=====
+2 Wilhelmshaven==SV Wilhelmshaven===
+3 St Pauli II==FC St. Pauli Am.===
+4 Oldenburg==VfB Oldenburg===
+5 SV Meppen==SV Meppen===
+6 Weiche Flensburg==ETSV Weiche Flensburg===
+7 Goslarer==Goslarer SC 08===
+8 TSV Havelse==TSV Havelse===
+9 Lubeck=====
+10 Cloppenberg==BV Cloppenburg===
+11 Oberneuland==FC Oberneuland===
+12 Victoria Hamburg==SC Victoria Hamburg===
+13 Holstein Kiel==Holstein Kiel===
+14 Neumunster==VfR Neum?nster===
+15 Hannover II==Hannover 96 Am.===
+16 Wolfsburg II==VfL Wolfsburg Am.===
+17  Hamburg II==Hamburger SV Am.===
+18  W Bremen II==Werder Bremen Am.===
+19 ==BSV Rehden===
+
+110 20
+
+1 Duisburg II==MSV Duisburg Am.===
+2 Bergisch Gladbach==SV Bergisch Gladbach 09===
+3 Wuppertaler==Wuppertaler SV===
+4 FC Koln II==FC K?ln Am.===
+5 Mgladbach II==Borussia M?nchengladbach Am.===
+6 Fortuna Dusseldorf II|Fort. Duss. II==Fortuna D?sseldorf Am.===
+7 Sportfreunde Siegen|Sport Siegen==SF Siegen===
+8 Velbert==SSVg. Velbert===
+9 Bochum II==VfL Bochum Am.===
+10 Fortuna Koln==SC Fortuna K?ln===
+11 Viktoria Koln==Viktoria K?ln 1904===
+12 VfB Huls|VFB Huls==VfB H?ls===
+13 R-W Oberhausen==Rot Weiss Oberhausen===
+14 SC Wiedenbruck==SC Wiedenbr?ck===
+15 Rot-Weiss Essen==Rot Weiss Essen===
+16 FC Kray==FC Kray===
+17 Sportfreunde Lotte==Sportfreunde Lotte===
+18 Leverkusen II==Bayer Leverkusen Am.===
+19 Verl==SC Verl===
+20 Schalke II==FC Schalke 04 Am.===
+
+111 34
+
+1 Gaziosmanpasa=====
+2 ID Celikspor=====
+3 Alanyaspor=====
+4 Korfez=====
+5 Altay=====
+6 Ofspor=====
+7 Tokatspor=====
+8 Inegolspor=====
+9 Yeni Malatyaspor=====
+10 Anadolu Selcukluspor=====
+11 Turgutluspor=====
+12 Hatayspor=====
+13 Cankirispor=====
+14 Pendikspor=====
+15 Unyespor=====
+16 Kahramanmarasspor=====
+17 Bugsasspor=====
+18 Sakaryaspor=====
+19 Kizilcahamamspor=====
+20 Camlidere Sekerspor=====
+21 Denizli Belediyespor=====
+22 Kirklarelispor=====
+23 Balikesirspor=====
+24 Bayrampasa=====
+25 Gungorenspor=====
+26 Bozuyukspor=====
+27 Fethiyespor=====
+28 Bandirmaspor=====
+29 Tepecikspor=====
+30 Nazilli Belediyespor=====
+31 Tarsus Idman Yurdu=====
+32 Giresunspor=====
+33 Eyupspor====
+34 Sariyer====
+
+112 4
+
+1 St Mirren=====St.Mirren
+2 Celtic=====
+3 Inverness CT=====
+4 Hearts=====Heart of Midlothian
+
+113 15
+
+1 Airbus UK=====
+2 Bala Town=====
+3 Bangor City=====
+4 Barry Town=====
+5 Carmarthen Town=====
+6 Chepstow Town=====
+7 Connahs Quay=====
+8 Flint Town Utd=====
+9 Haverfordwest=====
+10 Newtown=====
+11 Pontardawe Town=====
+12 Prestatyn=====
+13 Rhyl=====
+14 The New Saints=====
+15 West End=====
+
+114 14
+
+1 Cliftonville=====
+2 Crusaders=====
+3 ==Aluminium Hormozgan===Aluminum Hormozgan FC
+4 ==Damash Gilan===Damash Gilan FC
+5 ==Esteghlal===
+6 ==Gahar Zagros===Gahar Zagros FC
+7 ==Naft Tehran===
+8 ==Paykan FC===Peykan
+9 ==Saba Qom===Saba Battery
+10 ==Saipa===Saipa
+11 ==Sanat Naft===Sanat Naft
+12 ==Sepahan===
+13 ==Tractor Sazi===
+14 ==Zob Ahan===Zob Ahan
+
+115 11
+
+1 Malkiya Club=====
+2 Al Shabbab Manama=====
+3 Al Hala=====
+4 Al Bahrain SC=====
+5 Al Manama=====
+6 Al Najma Manama=====
+7 Busaiteen=====
+8 Al Hadd=====
+9 Al Riffa SC=====
+10 Al Muharraq=====
+11 Al Riffa=====
+
+116 10
+
+1 Al Wasl Dubai (Res)=====
+2 Al Wah (AD) (Res)=====
+3 Al Shabab (UAE) (Res)=====
+4 Bani Yas SC (Res)=====
+5 Al Jazira (Res)=====
+6 Al Nasr (UAE) Res=====
+7 Ajman Club (Res)=====
+8 Al Ain FC (Res)=====
+9 Dibba Al Fujairah (Res)=====
+10 Dubai CSC (Res)=====
+
+117 9
+
+1 Gudja United FC=====
+2 Paola Hibernians==Hibernians===
+3 Valletta==Valletta===
+4 Nadur Youngsters FC=====
+5 Qormi FC=====
+6 Birkirkara==Birkirkara===
+7 ==Mosta===
+8 ==Sliema Wanderers===
+9 ==Tarxien Rainbows===
+
+118 6
+
+1 Metropolitan Police FC=====
+2 Thurrock=====
+3 Wealdstone=====
+4 Lewes=====
+5 Margate FC=====
+6 Bognor Regis Town FC=====
+
+119 8
+
+1 ADO Den Haag (W)=====
+2 Standard Liege (W)=====
+3 Twente (W)=====
+4 PSV FC Ein (W)=====
+5 Lierse SK (W)=====
+6 AFC Ajax Amsterdam (W)=====
+7 Anderlecht (W)=====
+8 Beerschot (W)=====
+
+120 12
+
+1 Ceske Budejovice=====
+2 Hradec Kralove=====
+3 MFK Karvina=====
+4 FK Slavia Orlova Lutyne=====
+5 Slavia Prague=====
+6 Slovan Liberec=====
+7 Zizkov=====
+8 MAS Taborsko=====
+9 Tescoma=====
+10 Znojmo=====
+11 Slavia Prague=====
+12 Teplice=====
+
+121 4
+
+1 Torino FC U19=====
+2 Juventus U19=====
+3 SSC Napoli U19=====
+4 AS Roma U19=====
+
+122 7
+
+1 Al Ahli==Al Ahli Jeddah===
+2 Al-Ittihad=====
+3 Al-Nasr=====
+4 Al-Raed (KSA)==Al Raed===
+5 Al-Hilal=====
+6 ==Al Wahda Mecca===
+7 ==Al Faisaly Harmah===
+
+123 13
+
+1 Binissalem=====
+2 Villarrubia CF=====
+3 Fuenlabrada=====
+4 Tenerife II=====
+5 CD Laudio FSR=====
+6 Pena Sport=====
+7 San Roque=====
+8 FC Cartagena=====
+9 Zaragoza B=====
+10 Atletico Saguntino=====
+11 Burgos====
+12 La Hoya Lorca CF====
+13 Sant Andreu====
+
+124 2
+
+1 Hapoel Haifa=====
+2 Hapoel Beer Sheva=====
+
+125 20
+
+1 Cobreloa==Cobreloa===
+2 Colo Colo==Colo Colo===
+3 Cobresal==Cobresal===
+4 Union Espanola==Uni?n Espa?ola===
+5 Deportes Iquique==Deportes Iquique===
+6 Palestino==Palestino===
+7 Huachipato==Huachipato===
+8 San Marcos==San Marcos Arica===
+9 Nublense==?ublense===
+10 Everton De Vina|Ever De Vina==Everton===
+11 OHiggins=====
+12 Univ Catolica=====
+13 Rangers (Chile)==Rangers===
+14 Audax Italiano==Audax Italiano===
+15 Santiago Wanderers==Santiago Wanderers===
+16 Universidad de Chile|Univ. de Chile==Universidad de Chile===
+17 Union La Calera|Uni La Calera==Uni?n La Calera===
+18 Antofagasta==Antofagasta===
+19 Univ Catolica (Chile)|UN Catoli (CH)==Universidad Cat?lica==
+20 Ohiggins==OHiggins===
+
+126 12
+
+1 AD San Carlos==San Carlos===
+2 CS Cartagines==Cartagin?s===
+3 CS Uruguay==Uruguay===
+4 Deportivo Saprissa==Deportivo Saprissa===
+5 Herediano==Herediano===
+6 Iub Deportivo Belen|Iub Dep Belen==Bel?n Siglo XXI===
+7 LD Alajuelense==Alajuelense===
+8 Muni de Pere Zel==P?rez Zeled?n===
+9 Puntarenas FC==Puntarenas===
+10 AD Carmelita==Carmelita===
+11 ==Lim?n FC===
+12 ==Santos de Gu?piles===
+
+127 5
+
+1 DR Congo=====
+2 Mali= Mali====
+3 Niger= Nigeria====
+4 Ghana= Ghana====
+5 = Burkina Faso====
+
+128 8
+
+1 Bhawanipore FC=====
+2 East Bengal=====
+3 Eastern Railway=====
+4 Kalighat MS=====
+5 Mohammedan SC=====
+6 Mohun Bagan=====
+7 Prayag Utd=====
+8 Techno Aryan=====
+
+129 6
+
+1 KV Kortrijk= Kortrijk====
+2 Cercle Brugge= Cercle Brugge====
+3 Anderlecht=Anderlecht====RSC Anderlecht
+4 Genk= Racing Genk====Racing Genk
+5 ==Diegem Sport===
+6 ==RU Wallonne Ciney===
+
+130 7
+
+1 Zwolle=====Zwolle
+2 Heracles=====Heracles Almelo
+3 PSV=====PSV Eindhoven
+4 Feyenoord=====Feyenoord
+5 Vitesse=====Vitesse Arnheim
+6 Ajax=====Ajax Amsterdam
+7 AZ Alkmaar=====AZ Alkmaar
+
+131 4
+
+1 Pacos Ferreira=====
+2 Benfica=====
+3 Guimaraes==Vit?ria Guimar?es===
+4 Belenenses==Belenenses===
+
+132 12
+
+1  Atletico GO==Atl?tico Goianiense===
+2  Itumbiara EC=====
+3 AA Aparecidense=====
+4 Anapolis==An?polis===
+5 Aparecidense=====
+6 CRAC==CRAC Catal?o===
+7 Goianesia==Goian?sia===
+8 Goias==Goi?s===
+9 Gremio Anapolis=====
+10 Itumbiara=====
+11 Rio Verde GO=====
+12 Vila Nova==Vila Nova GO===
+
+133 7
+
+1 Nautico==N?utico===
+2 Pesqueira Futebol Clube=====
+3 Petrolina SFC==Petrolina===
+4 Sport Recife==Sport Recife===
+5 Serra Talhada=====
+6 Cha Grande FC==Ch? Grande===
+7 ==Santa Cruz Recife===
+
+134 14
+
+1 Hartlepool (Res)=====
+2 Rotherham (Res)=====
+3 Grimsby Town FC (Res)=====
+4 Mansfield Town FC (Res)=====
+5 Hull (Res)=====
+6 Bradford City AFC (Res)=====
+7 Morecambe (Res)=====
+8 Wrexham FC (Res)=====
+9 Port Vale (Res)=====
+10 Oldham (Res)=====
+11 Bury FC (Res)=====
+12 Burton Albion (Res)=====
+13 Gateshead (Res)=====
+14 Chesterfield FC (Res)=====
+
+135 16
+
+1 Beitar Jerusalem=====
+2 Bnei Sakhnin=====Bnei Yehuda Tel Aviv
+3 FC Ashdod=====
+4 H Ramat Gan=====Hapoel Ironi Ramat Hasharon
+5 Hapoel Afula=====
+6 Hapoel Bnei Lod=====
+7 Hapoel Haifa=====
+8 Hapoel Kfar Saba=====
+9 Hapoel Kiryat Shmona=====Hapoel Ironi Kiryat Shmona
+10 Hapoel Nazareth Illit=====
+11 Hapoel Raanana=====
+12 Hapoel Rishon Lezion=====
+13 Hapoel Tel Aviv=====Hapoel Tel Aviv
+14 Maccabi Haifa=====Maccabi Haifa
+15 Maccabi Tel Aviv=====Maccabi Tel Aviv
+16 Maccabi Yavne=====
+
+136 12
+
+1 Barcelona (Ecu)==Barcelona===
+2 Deportivo Cuenca=====
+3 Deportivo Quevedo=Deportivo Quevedo=Deportivo Quevedo===
+4 Deportivo Quito=Deportivo Quito=Deportivo Quito===
+5 El Nacional=El Nacional Quito=El Nacional===
+6 Emelec==Emelec===
+7 Independiente (Ecu)=Independiente Jose Teran====
+8 LDU=LDU Quito=Liga de Quito===
+9 LDU Loja==Liga de Loja===
+10 Macara=Macara Ambato=Macar?===
+11 Manta FC=Manta FC=Manta FC===
+12 Univ Catolica (Ecu)=Universidad Catolica Quito=Universidad Cat?lica===
+
+137 2
+
+1 RSD Alcala=====
+2 Alianza Lima=====
+
+138 36
+
+1 1461 Trabzon (Res)=====
+2 Akhisar Belediye (Res)|Akh Bel (Res)=====
+3 Ankaragucu (Res)|Ankaragu (Res)=====
+4 Ankaraspor (Res)|Ankarasp (Res)=====Ankaraspor As(U18)
+5 Antalyaspor (Res)=====
+6 Besiktas (Res)=====
+7 Boluspor (Res)=====
+8 Bucaspor (Res)=====Bucaspor (U18)
+9 Bursaspor (Res)|Bursasp (Res)=====
+10 Denizlispor (Res)|Denizli (Res)=====
+11 Derince (Res)=====
+12 Elazigspor (Res)=====
+13 Erzurum BB SK (Res)=====
+14 Eskisehirspor (Res)=====
+15 Fenerbahce (Res)|Fenbahce (Res)=====
+16 Galatasaray (Res)==Galatasaray A2===Galatasaray SK(U20)
+17 Genclerbirligi (Res)|Genclerb (Res)=====
+18 Goztepe Izmir (Res)=====
+19 Istanbul BBSK (Res)|Istan BB (Res)=====
+20 Karabukspor (Res)|Karabuk (Res)==Kardemir Karab?kspor A2===Kardemir Karabukspor (U20)
+21 Karsiyaka (Res)|Karsiyak (Res)=====
+22 Kartalspor (Res)=====
+23 Kasimpasa (Res)=====
+24 Kayserispor (Res)|Kayserisp (R)=====
+25 Orduspor (Res)=====
+26 Rizespor (Res)=====
+27 Sakaryaspor (Res)|Sakaryas (Res)=====
+28 Samsunspor (Res)=====
+29 Sanliurfaspor (Res)|Sanliurfas (R)=====
+30 Sivas Dorteylul (Res)|Sivas Do (Res)=====
+31 Sivasspor (Res)|Sivassp (Res)=====
+32 Tavsanli Linyit (Res)=====
+33 Torku Konyaspor (Res)=====
+34 Trabzonspor (Res)=====
+35 Turgutluspor (Res)|Turgutl. (Res)=====
+36 Manisaspor (Res)=====
+
+139 19
+
+1 = Adelaide United=Adelaide United FC===
+2 = Brisbane Roar=Brisbane Roar FC===Olympic Fc Brisbane
+3 = Central Coast Mariners=Central Coast Mariners FC===Capalaba
+4 = Melbourne Heart=Melbourne Heart FC===
+5 = Melbourne Victory=Melbourne Victory FC===
+6 = Newcastle Jets====
+7 = Perth Glory=Perth Glory FC===
+8 = Sydney FC=Sydney FC===
+9 = Wellington Phoenix=Wellington Phoenix FC===
+10 = Western Sydney=Western Sydney Wanderers FC===
+11 ==Brisbane City===
+12 ==Brisbane Olympic===
+13 ==Brisbane Strikers===
+14 ==Central Queensland===
+15 ==Far North Queensland Bulls===
+16 ==Queensland Academy===
+17 ==Redlands United===
+18 ==Sunshine Coast===
+19 ==Western Pride===
+
+140 2
+
+1 ==Glyfadas===
+2 ==Acharnaikos===
+
+141 33
+
+1 Al Nasr (UAE)=====AL Nasr SC Dubai
+2 Lokomotiv Tashkent=====PFK Lokomotiv Tashkent
+3 Saba Qom=====
+4 Al Shabab (UAE)|Al Shaba (UAE)=====
+5 Buriram Utd=====
+6 Brisbane=====
+7 Al Ahli=====
+8 Al Ain=====
+9 Al Gharafa=====
+10 Al Jazira=====
+11 Al Rayyan=====
+12 Al-Ettifaq=====
+13 Al-Hilal=====
+14 Al-Shabab (KSA)|Al-Shab (KSA)=====
+15 Beijing Guoan=====
+16 Bunyodkor=====
+17 El Jaish=====
+18 Esteghlal=====
+19 FC Seoul=====
+20 Guangzhou FC=====
+21 Guizhou Renhe=====
+22 Hiroshima=====
+23 Jeonbuk Motors=====
+24 Jiangsu Sainty=====
+25 Kashiwa=====
+26 Lekhwiya=====
+27 Muang Thong Utd|Muang Thong=====
+28 Pakhtakor=====
+29 Pohang Steelers|Pohang Steeler=====
+30 Sendai=====
+31 Sepahan=====
+32 Tractor Sazi=====
+33 Urawa=====
+
+142 31
+
+1 Al Ahli Taiz=====
+2 Al Ansar=====
+3 Al Faisaly (JOR)=====
+4 Al Qadsia=====
+5 Al Ramtha=====
+6 Al Riffa=====
+7 Al Shab Ibb=====
+8 Al Shorta (SYR)=====
+9 Al Wahda (SYR)=====
+10 Arbil=====
+11 Ayeyawady Utd=====
+12 Dhofar=====
+13 Duhok=====
+14 East Bengal=====
+15 Fanja FC=====
+16 FC Ravshan=====
+17 Kelantan=====
+18 Kuwait SC=====
+19 Maziya Sports=====
+20 New Radiant=====
+21 Persibo=====
+22 Regar-TadAZ=====
+23 Safa SC=====
+24 Sai Gon Xuan Thanh=====
+25 Selangor=====
+26 Semen Padang=====
+27 Shb Da Nang=====
+28 Singapore AF=====
+29 Sunray Cave JC Sun Hei=====
+30 Tampines Rovers=====
+31 Yangon Utd=====
+
+143 20
+
+1 Olimpo= Olimpo Bahia Blanca=Olimpo===Olimpo
+2 Crucero del Norte|C del Norte= Crucero del Norte=Crucero del Norte===Crucero Del Norte
+3 Instituto= Instituto de Cordoba=Instituto===Instituto Accordoba
+4 Independiente Rivadavia|Ind Rivadavia= Independiente Rivadavia=Independiente Rivadavia===Independyente Rivadavia
+5  Aldosivi=Aldosivi Mar del Plata=Aldosivi===
+6 Almirante Brown=Almirante Brown=Almirante Brown===Almirante Brown
+7 Atl Tucuman=Atletico Tucuman=Atl?tico Tucum?n===Atletico Tucuman
+8  Banfield=Banfield=Banfield===Banfield
+9  Boca Unidos=Boca Unidos=Boca Unidos===Boca Unidos
+10  Defensa y Justicia=Defensa y Justicia=Defensa y Justicia===Defensa Y Justicia
+11  Deportivo Merlo=Deportivo Merlo=Deportivo Merlo===Deportivo Merlo
+12  Douglas Haig=Douglas Haig=Douglas Haig===Douglas Haig
+13  Ferro Carril Oeste=Ferrocarril Oeste=Ferro Carril Oeste===Ferro Carril Oeste
+14  Gimnasia Jujuy=Gimnasia Jujuy=Gimnasia de Jujuy===Gimnasia Esgrima de Juiuy
+15  Gimnasia La Plata|Gim La Plata=Gimnasia La Plata=Gimnasia de La Plata===Gimnasia La Plata
+16  Huracan=Atletico Huracan=Hurac?n===Huracan
+17  Nueva Chicago=Nueva Chicago BA=Nueva Chicago===Nueva Chicago
+18  Patronato=Patronato Parana=Patronato===Club Atletico Patronato
+19  Rosario=Rosario Central=Rosario Central===CA Rosario Central
+20  Sarmiento de Junin=Sarmiento=Sarmiento===CA Sarmiento
+
+144 20
+
+1 All Boys= All Boys Floresta=All Boys===All Boys
+2 Argentinos Juniors= Argentinos Juniors=Argentinos Juniors===Argentinos Juniors
+3 Arsenal FC= Arsenal de Sarandi=Arsenal de Sarand?===Arsenal de Sarandi
+4 Atletico Rafaela|Atl Rafaela= Atletico Rafaela=Atl?tico Rafaela===Atletico Rafaela
+5 Belgrano= Belgrano de Cordoba=Belgrano===CA Belgrano
+6 Boca Juniors= Boca Juniors=Boca Juniors===Boca Juniors
+7 Colon=Colon de Santa Fe=Col?n de Santa Fe===Colon Santa Fe
+8 Estudiantes= Estudiantes La Plata=Estudiantes de La Plata===Estudiantes de La Plata
+9 Godoy Cruz= Godoy Cruz Antonio Tomba=Godoy Cruz===Godoy Cruz
+10 Independiente= Independiente=Independiente===Independiente
+11 Lanus=Lanus=Lan?s===Lanus
+12 Newells= Newells Old Boys=Newells Old Boys===Newell's Old Boys
+13 Quilmes= Quilmes=Quilmes===Quilmes
+14 Racing Club= Racing Club=Racing Club===Racing Club
+15 River Plate= River Plate=River Plate===River Plate
+16 San Lorenzo= San Lorenzo=San Lorenzo===San Lorenzo
+17 San Martin de San Juan|San Martin SJ= San Martin San Juan=San Mart?n de San Juan===San Martin de San Juan
+18 Tigre= Club Atletico Tigre=Tigre===Tigre
+19 Union Santa Fe= Union Santa Fe=Uni?n de Santa Fe===
+20 Velez= Velez Sarsfield=V?lez Sarsfield===Velez Sarsfield
+
+145 23
+
+1 Bahrain==Bahrain===Bahrain
+2 China==China===China
+3 Hong Kong==Hong Kong===
+4 Indonesia==Indonesia===Indonesia
+5 Iran==Iran===
+6 Iraq==Iraq===Iraq
+7 Jordan=====Jordan
+8 Kuwait==Kuwait===
+9 Lebanon==Lebanon===Lebanon
+10 Malaysia==Malaysia===Malaysia
+11 Oman=====Oman
+12 Qatar==Qatar===Qatar
+13 Saudi Arabia==Saudi Arabia===S. Arabia
+14 Singapore=====Singapore
+15 Syria=====Syrian Arab Rep.
+16 Thailand==Thailand===
+17 U.A.E.==United Arab Emirates===
+18 Uzbekistan==Uzbekistan===Uzbekistan
+19 Vietnam==Vietnam===
+20 Yemen==Yemen===Yemen
+21 =====Australia
+22 =====S. Korea
+23 =====Japan
+
+146 22
+
+1 AD Union Magdalena|AD Union Magda==Uni?n Magdalena===
+2 America de Cali==Am?rica de Cali===
+3 Bogota==Bogot? FC===
+4 Bucaramanga=====
+5 CA Bucaramanga CD==Atl?tico Bucaramanga===
+6 CCD Tulua=====
+7 CD Barranquilla|CD Barranquill==Barranquilla FC===
+8 CD Real Santander==Real Santander===
+9 CD Uni de Popayan==Universitario de Popay?n===
+10 Depor Aguablanca|Depor Aguablan==D?por FC===
+11 Deportivo Pereira|Dep Pereira==Deportivo Pereira===
+12 Deportivo Rionegro==Deportivo Rionegro===
+13 Expreso Rojo==Expreso Rojo===
+14 Jaguares de Cordoba=====
+15 Llaneros FC=====
+16 Real Cartagena==Real Cartagena===
+17 Uni Autonoma del Caribe|Autonom Caribe=====
+18 Valledupar FC==Valledupar FC===
+19 ==Cortulu?===
+20 ==Fortaleza FC===
+21 ==Academia FC===
+22 ==Uniaut?noma FC===
+
+147 18
+
+1 Alianza Petrolera|Alianza Pet==Alianza Petrolera===
+2 Atletico Huila=Atletico Huila=Atl?tico Huila===
+3 Atletico Nacional=Atletico Nacional Medellin=Nacional de Medell?n===
+4 Boyaca Chico=Boyaca Chico=Boyac? Chic?===
+5 Cucuta Deportivo|Cucuta Dep= Cucuta Deportivo=C?cuta Deportivo===
+6 Deportivo Cali=Deportivo Cali=Deportivo Cali===
+7 Deportivo Pasto|Dep Pasto==Deportivo Pasto===
+8 Envigado=Envigado FC=Envigado FC===
+9 Ind Medellin=Independiente Medellin=Independiente Medell?n===
+10 Itagui Ditaires= Itagui Ditaires=Itag?? Ditaires===
+11 Junior=Junior Barranquilla=Atl?tico Junior===
+12 La Equidad==La Equidad===
+13 Millonarios=Millonarios Bogota=Millonarios===
+14 Once Caldas=Once Caldas=Once Caldas===
+15 Patriotas==Patriotas FC===
+16 Quindio=Deportes Quindio=Deportes Quind?o===
+17 Santa Fe=Santa Fe Bogota=Santa Fe===
+18 Tolima=Deportes Tolima=Deportes Tolima===
+
+148 12
+
+1 Cibalia==Cibalia Vinkovci===Cibalia
+2 Dinamo Zagreb==Dinamo Zagreb===
+3 Hajduk Split==Hajduk Split===Hajduk Split
+4 Inter Zapresic==Inter Zapresic===
+5 Istra==Istra 1961===Istra 1961
+6 Lokomotiva==NK Lokomotiva Zagreb===
+7 NK Zagreb==NK Zagreb===NK Dinamo Zagreb
+8 Osijek==Osijek===
+9 Rijeka==HNK Rijeka===Riejka
+10 RNK Split==RNK Split===
+11 Slaven Belupo==Slaven Belupo===
+12 Zadar==Zadar===Zadar
+
+149 182000
+
+1 Al Ahly=====AL Ahly Cairo
+2 Al Ittihad (EGY)=====
+3 Al Mokawloon=====
+4 El Daklyeh=====
+5 El Entag El Harby==El Entag El Harby===
+6 El Geish==Talaea El Geish===Talaea El Geish
+7 El Gounah=====
+8 El Shorta==Ittihad El Shorta===
+9 ENPPI=====
+10 Ghazi El Mehalla=====
+11 Haras El Hodood=====
+12 Ismaily==Ismaily SC===
+13 Misr Lel Makasa=====
+14 Petrojet==Petrojet===
+15 Smouha=====
+16 Telephonaat Beni Suef=====Bani Sweif
+17 Wadi Degla=====
+18 Zamalek==Zamalek SC===Zamalek SC
+
+150 2
+
+1 Gateshead (Res)=====
+2 Hull (Res)=====
+
+151 4
+
+1 Coventry= Coventry City====Coventry City
+2 Crewe= Crewe Alexandra==== Crewe Alexandra
+3 L Orient= Leyton Orient==== Leyton Orient
+4 Southend= Southend United==== Southend United
+
+152 0
+
+153 2
+
+1 Sparta Prague=====
+2 Concordia Chiajna=====
+
+154 12
+
+1 Zeljeznicar=====
+2 NK Pomorac Kostrena=====
+3 Istra=====
+4 Kecskemeti TE=====
+5 WAC St Andra=====
+6 Siroki Brijeg=====
+7 Istra=====
+8 NK Pomorac Kostrena=====
+9 Zeljeznicar=====
+10 Kecskemeti TE=====
+11  Gyirmot=====
+12  Zalgiris Vilnius=====
+
+155 9
+
+1  Atletico PR=====
+2  Dinamo Bucharest|Din Bucharest=====
+3  Dinamo Kiev=====
+4  Lech Poznan=====
+5  Ludogorets=====
+6  Otelul Galati=====
+7  Rapid Bucharest=====
+8  Slovakia U21=====
+9 Torpedo Kutaisi=====
+
+156 18
+
+1 1860 Munich= TSV 1860 Munchen=1860 M?nchen===1860 Munchen
+2 Aalen= VfR Aalen=VfR Aalen===VfR Aalen
+3 Bochum= VfL Bochum=VfL Bochum===Bochum
+4 Braunschweig= Eintracht Braunschweig=Eintracht Braunschweig===Eintracht Braunschweig
+5 Cottbus= Energie Cottbus=Energie Cottbus===Energie Cottbus
+6 Duisburg= MSV Duisburg=MSV Duisburg===
+7 Dynamo Dresden= Dynamo Dresden=Dynamo Dresden===Dynamo Dresden
+8 Erzgebirge= Erzgebirge Aue=Erzgebirge Aue===Erzgebirge Aue
+9 FC Koln= Koln=FC K?ln===FC Cologne
+10 FSV Frankfurt= FSV Frankfurt=FSV Frankfurt===
+11 Hertha Berlin= Hertha Berlin=Hertha Berlin===Hertha BSC Berlin
+12 Ingolstadt= Ingolstadt 04=FC Ingolstadt 04===FC Ingolstadt
+13 Jahn Regensburg|Jahn Regensb.= Jahn Regensburg=SSV Jahn Regensburg===Jahn Regensburg
+14 Kaiserslautern= Kaiserslautern=Kaiserslautern===Kaiserslautern
+15 Paderborn= SC Paderborn 07=SC Paderborn 07===Paderborn
+16 St Pauli= St. Pauli=FC St. Pauli===St. Pauli
+17 SV Sandhausen= SV Sandhausen=SV Sandhausen===SV Sandhausen
+18 Union Berlin= Union Berlin=Union Berlin===
+
+157 16
+
+1 Berliner AK==Berliner AK 07===
+2 Carl Zeiss Jena==Carl Zeiss Jena===
+3 Cottbus II==Energie Cottbus Am.===
+4 FC Magdeburg==FC Magdeburg===
+5 FSV Zwickau==Zwickau===
+6 Germania Halberstadt==VfB Germania Halberstadt===
+7 Hertha Berlin II==Hertha BSC Berlin Am.===
+8 Lokomotiv Leipzig==FC Lok Leipzig===
+9 Meuselwitz==ZFC Meuselwitz===
+10 Optik Rathenow==Optik Rathenow===
+11 RB Leipzig==RB Leipzig===
+12 Torgelower==Torgelower SV Greif===
+13 TSG Neustrelitz==TSG Neustrelitz===
+14 Union Berlin II==FC Union Berlin Am.===
+15 VfB Auerbach==VfB Auerbach===
+16 VFC Plauen==VFC Plauen===
+
+158 19
+
+1 Bayern Alzenau==Bayern Alzenau===
+2 Eintracht Frankfurt II|Eintracht F ll==Eintracht Frankfurt Am.===
+3 Eintracht Trier==Eintracht Trier===
+4 Elversberg==SV Elversberg===
+5 Eschborn==FC Eschborn===
+6 Freiburg II==SC Freiburg Am.===
+7 FSV Frankfurt II|Frankfurt II==FSV Frankfurt Am.===
+8 Hoffenheim II==1899 Hoffenheim Am.===
+9 Homburg==Homburg===
+10 Idar-Oberstein==SC Idar-Oberstein===
+11 Kaiserslautern II==Kaiserslautern Am.===
+12 Koblenz==TuS Koblenz===
+13 Mainz II==FSV Mainz 05 Am.===
+14 Pfullendorf==SC Pfullendorf===
+15 SG Sonnenhof==SG Sonnenhof Gro?aspach===
+16 SSV Ulm==SSV Ulm 1846===
+17 Waldhof Mannheim|Waldhof Mann==SV Waldhof Mannheim===
+18 Wormatia Worms==Wormatia Worms===
+19 Hessen Kassel==KSV Hessen Kassel===
+
+159 9
+
+1 Debrecen=====
+2 Letavertes=====
+3 Zalaegerszeg=====
+4 Videoton=====
+5 Dunakanyar=====
+6 Vasas=====
+7 Siofok=====
+8 Honved=====
+9 Gyori=====
+
+160 16
+
+1 Alianza Lima=Alianza Lima=Alianza Lima===
+2 Cienciano=Cienciano Cuzco=Cienciano===
+3 Inti Gas Deportes|Inti Gas Dep=Inti Gas Deportes=Inti Gas===
+4 Jose Galvez=Jose Galvez=Jos? G?lvez===
+5 Juan Aurich=Juan Aurich=Juan Aurich===
+6 Leon de Huanuco=Leon de Huanuco=Le?n de Hu?nuco===
+7 Melgar=FBC Melgar Arequipa=FBC Melgar===
+8 Pacifico=Pac?fico FC (n)=Pac?fico FC===
+9 Real Garcilaso==Real Atl?tico Garcilaso===
+10 Sport Huancayo==Sport Huancayo===
+11 Sporting Cristal=Sporting Cristal=Sporting Cristal===
+12 Uni Cesar Vallejo=Universidad Cesar Vallejo=Universidad C?sar Vallejo===
+13 Uni San Martin=Universidad San Martin=Universidad San Mart?n===
+14 Union Comercio=Uni?n Comercio=Uni?n Comercio===
+15 Universitario=Universitario Deportes=Universitario===
+16 UTC Cajamarca=UTC Cajamarca=UTC Cajamarca===
+
+161 0
+
+162 7
+
+1 Hamilton U20=====
+2 Celtic U20=====
+3 Dundee Utd U20=====
+4 Hibernian U20=====
+5 Ross County FC U20=====
+6 Dundee U20=====
+7 St Johnstone U20=====
+
+163 10
+
+1 Aarau=Aarau=Aarau===FC Aarau
+2 Bellinzona=Bellinzona=Bellinzona===
+3 Biel-Bienne==Biel===FC Biel Bienne
+4 Chiasso=Chiasso=Chiasso===Chiasso
+5 FC Vaduz=Vaduz=FC Vaduz===FC Vaduz
+6 FC Wil==Wil===FC Wil 1900
+7 Winterthur=Winterthur=Winterthur===Winterthur
+8 Wohlen=Wohlen=Wohlen===Wohlen
+9 Locarno=Locarno=Locarno===Lokarno
+10 Lugano=Lugano=Lugano===Lugano
+
+164 10
+
+1 Servette= Servette=Servette===Servette Geneva
+2 Grasshoppers Zurich|Grasshoppers Z= Grasshopper=Grasshopper Club===Grasshoppers Zurich
+3 Young Boys= Young Boys=Young Boys===BSC Young Boys Bern
+4 Luzern= Luzern=Luzern===Luzern
+5 St Gallen= St. Gallen=St. Gallen===St.Gallen
+6 Thun= Thun=Thun===Thun
+7 FC Basel= Basel=Basel===Basel
+8 Sion= FC Sion=Sion===FC Sion
+9 FC Zurich= FC Zurich=Z?rich===Zuerich
+10 Lausanne= Lausanne Sports=Lausanne===FC Lausanne-Sports
+
+165 12
+
+1 Netherlands U19=====
+2 Scotland U19=====
+3 Portugal U19=====Portugal(U19)
+4 Turkey U19=====Turkey(U19)
+5 Sweden U19=====
+6 Norway U19=====
+7 Greece U19=====
+8 Belgium U19=====
+9 Italy U19=====
+10 Germany U19=====
+11 Rep of Ireland U19===== Ireland(U19)
+12 Czech Rep U19===== Czech R.(U19)
+
+166 6
+
+1 Italy U20=====Italy(U20)
+2 Germany U20=====Germany(U20)
+3 =====Turkey(U20)
+4 =====Portugal(U20)
+5 =====France(U20)
+6 =====Romania(un)
+
+167 35
+
+1 Austria U21=====Austria(U21)
+2 Belgium U21==Belgium-U21===Belgium(U21)
+3 England U21=====England(U21)
+4 Germany U21=====Germany(U21)
+5 Greece U21=====
+6 Iceland U21==Iceland-U21===Iceland(U21)
+7 Israel U21=====Israel(U21)
+8 Italy U21=====Italy(U21)
+9 Malta U21=====
+10 Moldova U21=====Moldova(U21)
+11 Netherlands U21=====Netherlands(U21)
+12 Norway U21=====Norway(U21)
+13 Portugal U21=====Portugal(U21)
+14 Rep of Ireland U21=====
+15 Romania U21=====Romania(U21)
+16 Russia U21==Russia-U21===Russia(U21)
+17 Scotland U21==Scotland-U21===Scotland(U21)
+18 Serbia U21=====Serbia(U21)
+19 Slovenia U21=====Slovenia(U21)
+20 Spain U21=====Spain(U21)
+21 Sweden U21=====
+22 Turkey U21=====
+23 Wales U21=====Wales(U21)
+24 Torpedo Kutaisi=====
+25 Switzerland U21=====
+26 Slovakia U21=====Slovakia(U21)
+27 =====Albania(U21)
+28 =====Macedonia(U21)
+29 ==Andorra-U21===
+30 ==Belarus-U21===
+31 ==Cyprus-U21===Cyprus(U21)
+32 ==Luxembourg-U21===Luxembourg(U21)
+33 =====Montenegro(U21)
+34 =====Ukraine(U21)
+35 =====Ireland(U21)
+
+168 32
+
+1 Ajax= Ajax====Ajax Amsterdam
+2 Anzhi Makhachkala|Anzhi Makha= Anzhi Makhachkala|Anzhi Makhachkala (n)====FC Anzhi Makhachkala
+3 Atl Madrid= Atletico Madrid====Atletico Madrid
+4 BATE Borisov= Bate Borisov|BATE Borisov (n)====BATE Borisov
+5 Benfica= Benfica====Benfica Lisbon
+6 Bordeaux= Bordeaux====Bordeaux
+7 CFR Cluj= CFR Cluj====CFR Cluj
+8 Chelsea= Chelsea====Chelsea FC
+9 Dinamo Kiev= Dynamo Kyiv====Dynamo Kiev
+10 Dnipro= Dnipro Dnipropetrovsk====Dnipro Dnipropetrovsk
+11 FC Basel= Basel====Basel
+12 Fenerbahce= Fenerbahce====Fenerbahce
+13 Genk= Racing Genk====KRC Genk
+14 Hannover= Hannover 96====Hannover 96
+15 Inter= Inter Milan====Inter Milan
+16 Lazio= Lazio====Lazio Roma
+17 Levante= Levante====Levante UD
+18 Leverkusen= Bayer Leverkusen====Bayer Leverkusen
+19  Liverpool= Liverpool====Liverpool
+20 Lyon= Lyon====Olympique Lyon
+21 Metalist= Metallist Kharkiv====Metalist Kharkiv
+22 Mgladbach= Borussia Monchengladbach====Borussia Monchengladbach
+23 Napoli= Napoli====Napoli
+24 Newcastle= Newcastle United====Newcastle
+25 Olympiakos= Olympiacos====Olympiacos Piraus
+26 Plzen= Viktoria Plzen====FC Viktoria Plzen
+27 Rubin Kazan= Rubin Kazan====FC Rubin Kazan
+28 Sparta Prague= Sparta Praha====Sparta Prague
+29 Steaua Bucharest|Steaua Buch.= Steaua Bucuresti====Steaua Bucuresti
+30 Stuttgart= VfB Stuttgart====Stuttgart
+31 Tottenham= Tottenham Hotspur====Tottenham Hotspur
+32 Zenit St Petersburg|Zenit St Pburg= Zenit St. Petersburg====Zenit St. Petersburg
+
+169 5
+
+1 Belgium (W)=====
+2 Netherlands (W)=====
+3 France (W)=====
+4 Germany (W)=====
+5 Austria (W)=====
+
+170 6
+
+1 Costa Rica==Costa Rica=== Costa Rica
+2 Honduras==Honduras=== Honduras
+3 Jamaica==Jamaica=== Jamaica
+4 Mexico==Mexico=== Mexico
+5 Panama==Panama=== Panama
+6 USA==USA=== USA
+
+171 10
+
+1 Austria Vienna=Austria Wien=FK Austria Wien===FK Austria Vienna
+2 Mattersburg=Mattersburg=SV Mattersburg===Mattersburg
+3 Rapid Vienna=Rapid Wien=SK Rapid Wien===Rapid Vienna
+4 Red Bull Salzburg|Red Bull Salz=Red Bull Salzburg=Red Bull Salzburg===Salzburg
+5 FC Wiener Neustadt|FC Wien. Neus.=SC Wiener Neustadt=SC Magna Wr. Neustadt===Magna Wr. Neustadt
+6 Sturm Graz=Sturm Graz=SK Puntigamer Sturm Graz===Sturm Graz
+7 SV Ried=SV Ried=SV Ried===Ried
+8 Admira Wacker=Trenkwalder Admira=Admira/Wacker===Admira Wacker
+9 RZ Pellets WAC=WAC St. Andra=St. Andra===Wolfsberger AC
+10 FC Wacker Innsbruck|FC Wacker Inns=Wacker Innsbruck=FC Wacker Innsbruck===Wacker Innsbruck
+
+172 7
+
+1 FK Baku=====
+2 FK Qabala=====
+3 Frickley Athletic FC=====
+4 Karabakh=====
+5 Sumgayit PFC=====
+6 Worksop Town=====
+7 FK Simurq Zaqatala=====
+
+173 22
+
+1 Cliftonville=====
+2 Coleraine=====
+3 Coquimbo Unido=====
+4 Cork City=====
+5 CSD Barnechea=====
+6 Curico Unido=====
+7 Deportes Concepcion|Dep Concepcion=====
+8 Deportes Copiapo=====
+9 Drogheda=====
+10 Glentoran=====
+11 La Serena=====
+12 Lota Schwager=====
+13 Magallanes=====
+14 Naval (Chile)=====
+15 Portadown=====
+16 San Luis de Quillota=====
+17 Santiago Morning|Sant Morning=====
+18 Shamrock Rovers=====
+19 St Patricks=====
+20 Union San Felipe=====
+21 Univ de Concepcion|U d Concepcion=====
+22 Union Temuco=====
+
+174 4
+
+1 Al Rbeea=====
+2 Al Najma Club=====
+3  Al Riyadh SC=====
+4  Hottain=====
+
+175 6
+
+1 Baltika=====
+2 Rotor Volgograd=====
+3 Sibir=====
+4 Spartak Nalchik=====
+5 Tomsk=====
+6 Ural=====
+
+176 11
+
+1 Aalesunds=====
+2 Astra Giurgiu=====
+3 CSKA Moscow=====
+4 FC Nordsj=====
+5 Kalmar FF=====
+6 Kuban Krasnodar=====
+7 Lillestrom=====
+8 Maccabi Irony Kfar Yona=====
+9 Maccabi Kiryat Gat FC=====
+10 Start=====
+11 Valerenga=====
+
+177 16
+
+1 Busan lPark=====
+2 Carapegua=====
+3 Cerro Porteno=====
+4 Cerro Porteno PF|Cerro Port PF=====
+5 Deportivo Capiata|Deportivo Capi=====
+6 General Diaz=====
+7 Guarani (Par)=====
+8 HK League XI=====
+9 Libertad=====
+10 Muang Thong Utd|Muang Thong=====
+11 Nacional (Par)=====
+12 Olimpia=====
+13 Rubio Nu=====
+14 Shanghai East FC=====
+15 Sol De America=====
+16 Sportivo Luqueno=====
+
+178 16
+
+1 AC Spezia Calcio U20=====
+2 ACD V E Chiavari U20=====
+3 APIA Leichhardt T U20=====
+4 AS Avellino 1912 U20=====
+5 CD Laredo=====
+6 Club Santos Laguna U20=====
+7 Genoa U20=====
+8 Inter U20=====
+9 Juventus U20=====
+10 Lazio U20=====
+11 NK Maribor U20=====
+12 Parma U20=====
+13 Ribamontan Al Mar CF=====
+14 RSC Anderlecht U20=====
+15 Sampdoria U20=====
+16 Siena U21=====
+
+179 16
+
+1 Dortmund U19=====
+2 FC Hansa Rostock U19=====
+3 FC Koln U19=====
+4 FC St. Pauli U19=====
+5 Fortuna Dusseldorf U19=====
+6 FSV Frankfurt U19=====
+7 Hertha BSC Berlin U19=====
+8 Holstein Kiel U19=====
+9 Karlsruher SC U19=====
+10 MSV Duisburg U19=====
+11 SV Werder Bremen U19=====
+12 VfL Osnabr?ck U19=====
+13 Wolfsburg U19=====
+14 FC Schalke 04 U19=====
+15 SC Fortuna K?ln U19=====
+16 VfL Bochum U19=====
+
+180 12
+
+1 Cliftonville=====Cliftonville
+2 Coleraine=====Coleraine
+3 Cork City=====Cork C.
+4 Drogheda=====Drogheda United
+5 Glentoran=====Glentoran Belfast
+6 Portadown=====Portadown
+7 Shamrock Rovers=====Shamrock Rovers
+8 St Patricks=====Saint Patrick's Athletic FC
+9 Crusaders=====Crusaders
+10 Linfield=====
+11 Sligo Rovers=====
+12 Derry=====
+
+181 0
+
+182 10
+
+1 CODM Meknes=====
+2 DHJ El Jadida=====
+3 HUSA Agadir=====
+4 Maghreb Fes=====
+5 OCK Khouribga=====
+6 Wydad Casablanca=====
+7 KAC Kenitra=====
+8 Olympic Safi=====
+9 RSB Berkane=====
+10 Wydad Fes=====
+
+183 12
+
+1 Carapegua=Sportivo Carapegua=Deportivo Carapegu?===
+2 Cerro Porteno=Cerro Porte?o=Cerro Porte?o===
+3 Cerro Porteno PF|Cerro Port PF=Cerro Porte?o PF=Cerro Porte?o Pdte. Franco===
+4 Deportivo Capiata|Deportivo Capi=Deportivo Capiat?=Deportivo Capiat?===
+5 General Diaz=General D?az (n)=General D?az===
+6 Guarani (Par)=Guarani Asuncion=Guaran?===
+7 Libertad=Libertad Asuncion====
+8 Nacional (Par)=Club Nacional Asuncion=Nacional Asunci?n===
+9 Olimpia=Olimpia Asuncion=Olimpia===
+10 Rubio Nu=Rubio ??=Rubio ??===
+11 Sol De America=Sol de America (n)=Sol de Am?rica===
+12 Sportivo Luqueno=Sportivo Luqueno=Sportivo Luque?o===
+
+184 2
+
+1 Al Rbeea=====
+2 Al Riyadh SC=====
+
+185 9
+
+1 Club Portugalete=====
+2 SD Leioa=====
+3 CD Elgoibar=====
+4 CD Lealtad=====
+5 CD Covadonga=====
+6 CD Getxo=====
+7 Santutxu FC=====
+8 Real Aranjuez CF=====
+9 CU Collado Villalba=====
+
+186 6
+
+1 Al Ain FC=====
+2 Al Jazira=====Al Jazira
+3 Al Wahda (Abu Dhabi)=====Al Wahda Abu Dhabi
+4 Bani Yas=====
+5 =====Al Shabab Dubai
+6 =====Ajman
+
+187 2
+
+1 Al Ahli Club Dubai=====
+2 Dibba Al Fujairah=====
+
+188 0
+
+189 8
+
+1 B Munich=Bayern M?nchen====
+2 Dortmund=Borussia Dortmund====
+3 Mainz=FSV Mainz 05====
+4 Kickers Offenbach|Kickers Offenb=Kickers Offenbach====
+5 Freiburg=SC Freiburg====
+6 Stuttgart=VfB Stuttgart====
+7 Bochum=VfL Bochum====
+8 Wolfsburg=VfL Wolfsburg====
+
+190 8
+
+1 =Auckland City=Auckland City===
+2 =Canterbury United=Canterbury United===
+3 =Hawkes Bay United=Hawkes Bay United===
+4 =Otago United=Otago United===
+5 =Team Wellington=Team Wellington===
+6 =Waikato FC=Waikato FC===
+7 =Waitakere United=Waitakere United===
+8 =Young Heart Manawatu=Young Heart Manawatu===
+
+191 18
+
+1 =Caracas FC=Caracas FC===
+2 =Zulia Maracaibo=Zulia FC===
+3 ==Aragua FC===
+4 ==Atl?tico El Vig?a===
+5 ==Atl?tico Venezuela===
+6 ==Deportivo Anzo?tegui===
+7 ==Deportivo Lara===
+8 ==Deportivo Petare===
+9 ==Deportivo T?chira===
+10 ==Estudiantes de M?rida===
+11 ==Llaneros de Guanare===
+12 ==Mineros de Guayana===
+13 ==Monagas SC===
+14 ==Portuguesa FC===
+15 ==Real Esppor===
+16 ==Trujillanos FC===
+17 ==Yaracuyanos FC===
+18 ==Zamora FC===
+
+192 2
+
+1 =Bolivar====
+2 =Real Potosi====
+
+193 14
+
+1 =AEL Limassol=AEL Limassol===
+2 =Alki Larnaca=AEK Larnaka===
+3 =Anorthosis Famagusta=Anorthosis Famagusta===
+4 =Apollon Limassol=Apollon Limassol===
+5 =Doxa Katokopias=Doxa Katokopias===
+6 =Ethnikos Achnas=Ethnikos Achna===
+7 =Nea Salamis=Nea Salamis===
+8 =Omonia Nicosia=Omonia Nicosia===
+9 ==Enosis Neon Paralimni===
+10 ==Olympiakos Nicosia===
+11 ==AO Ayia Napa===
+12 ==Alki Larnaka===
+13 ==APOEL Nicosia===
+14 ==AEP Paphos===
+
+194 17
+
+1 1. FC Slovacko U21=====
+2 AC Sparta Praha U21|Spar Praha U21=====
+3 Bohemians 1905 U21|Bohemians U21=====
+4 Ceske Budejovice U21|Ceske Bude U21=====
+5 FC Banik Ostrava U21=====
+6 FC Hradec Kralove U21|FC Hardec U21=====
+7 FC Slovan Liberec U21|FC Slovan U2=====
+8 FC Viktoria Plzen U21|Vikt Plzen U21=====
+9 FC Vysocina Jihlava U21|Vyso Jihla U21=====
+10 FC Zbrojovka Brno U21=====
+11 FK Dukla Praha U21|FK Dukla P U21=====
+12 FK Jablonec 97 U21=====
+13 FK MAS Taborsko U21|FK MAS Tab U21=====
+14 FK Mlada Boleslav U21|FK Mla Bol U21=====
+15 FK Teplice U21=====
+16 SK Sigma Olomouc U21=====
+17 SK Slavia Praha U21|Slav Praha U21=====
+
+195 8
+
+1 Debrecen=====
+2 Egri FC==Egri FC===
+3 Ferencvaros==Ferencv?ros===
+4 Gyori=====
+5 Honved=====
+6 Lombard Papa=====
+7 Pecsi Mecsek==P?csi MFC===Pecs MFC
+8 Videoton==Videoton FC===Videoton
+
+196 16
+
+1 Ajax U19=====
+2 Anderlecht U19=====
+3 Arsenal U19=====Arsenal (U19)
+4 Aston Villa U19=====
+5 Barcelona U19=====
+6 Chelsea U19=====Chelsea London (U19)
+7 CSKA Moscow U19=====CSKA Moscow (U19)
+8 Inter U19=====
+9 Juventus U19=====Juventus(U19)
+10 Liverpool U19=====
+11 Olympiakos U19=====
+12 Paris St-G U19=====
+13 PSV U19=====
+14 Rosenborg U19=====
+15 Sp Lisbon U19=====
+16 Tottenham U19=====
+
+197 16
+
+1 GKS Belchatow==GKS Belchatow===Gks Belchatow
+2 Gornik Zabrze==Gornik Zabrze===
+3 Jagiellonia==Jagiellonia Bialystok===
+4 Korona==Korona Kielce===Korona Kielce
+5 Lech Poznan==Lech Poznan===Lech Poznan
+6 Lechia Gdansk==Lechia Gdansk===
+7 Legia Warsaw==Legia Warszawa===
+8 Piast Gliwice==Piast Gliwice===
+9 Podbeskidzie B-B==Podbeskidzie Bielsko===Podbeskidzie Bielsko Biala
+10 Pogon Szczecin==MKS Pogon Szczecin===MKS Pogon Szczecin
+11 Polonia Warsaw==Polonia Warszawa===
+12 Ruch Chorzow==Ruch Chorzow===Ruch Chorzow
+13 Slask Wroclaw==Slask Wroclaw===Slask Wroclaw
+14 Widzew Lodz==Widzew Lodz===KS Widzew Lodz
+15 Wisla Krakow==Wisla Krakow===Wisla Krakow
+16 Zaglebie Lubin==Zaglebie Lubin===Zaglebie Lubin
+
+198 16
+
+1 Banik Ostrava==FC Banik Ostrava===
+2 Ceske Budejovice==SK Dynamo Ceske Budejovice===
+3 Dukla Prague==FK Dukla Praha===FK Dukla Praha
+4 FC Brno==FC Zbrojovka Brno===
+5 FK Jablonec==FK Baumit Jablonec===Baumit Jablonec
+6 Hradec Kralove==FC Hradec Kralove===Hradec Kralove
+7 Mlada Boleslav==FK Mlada Boleslav===Mlada Boleslav
+8 Plzen==FC Viktoria Plzen===FC Viktoria Plzen
+9 Pribram==1.FK Pribram===Pribram
+10 Sigma Olomouc==SK Sigma Olomouc===Sigma O
+11 Slavia Prague==SK Slavia Praha===Slavia Prague
+12 Slovacko==1.FC Slovacko===Slovacko
+13 Slovan Liberec==FC Slovan Liberec===FC Slovan Liberec
+14 Sparta Prague==AC Sparta Praha===Sparta Pr.
+15 Teplice==FK Teplice===Teplice
+16 Vysocina Jihlava==FC Vysocina Jihlava===
+
+199 18
+
+1 Astra Giurgiu==Astra Ploiesti===
+2 Ceahlaul==Ceahlaul Piatra Neamt===Ceahlaul Piatra Neamt
+3 CFR Cluj==CFR Cluj===
+4 Concordia Chiajna==Concordia Chiajna===
+5 CSMS Iasi==Politehnica Iasi===CS Municipal Studentesc Iasi
+6 Dinamo Bucharest|Din Bucharest==Dinamo Bucuresti===Dinamo Bucuresti
+7 FC Brasov==FC Brasov===Brasov
+8 FC Vaslui==FC Vaslui===FC Vaslui
+9 Gaz Metan Medias==Gaz Metan Medias===
+10 Gloria Bistrita==Gloria Bistrita===
+11 Otelul Galati==Otelul Galati===FC Otelul Galati
+12 Pandurii==Pandurii T?rgu Jiu===CS Pandurii Targu Jiu
+13 Petrolul Ploiesti|Petr Ploiesti==Petrolul Ploiesti===FC Petrolul Ploiesti
+14 Rapid Bucharest==Rapid Bucuresti===
+15 Steaua Bucharest|Steaua Buch.==Steaua Bucuresti===Steaua Bucuresti
+16 Turnu Severin==Gaz Metan Severin===
+17 Uni Cluj==Universitatea Cluj===
+18 Viitorul Constanta|Viitorul Const==Viitorul Constanta===Viitorul Constanta
+
+200 25
+
+1 BI Bolungarvik=====
+2 Breidablik=====
+3 Fjolnir=====
+4 Fram=====
+5 Fylkir=====
+6 Grindavik=====
+7 Hafnarfjordur=====
+8 Haukar=====
+9 IA Akranes=====
+10 IBV=====
+11 KA Akureyri=====
+12 Keflavik=====
+13 KF=====
+14 KR Reykjavik=====
+15 Leiknir R=====
+16 Leiknir R=====
+17 Selfoss=====
+18 Stjarnan=====
+19 Thor=====
+20 Throttur=====
+21 Tindastoll=====
+22 Valur=====
+23 Vikingur=====
+24 Vikingur Olafsvik|Vikingur Olafs=====
+25 Volsungur=====
+
+201 2
+
+1 Hiroshima=====
+2 Kashiwa=====
+
+202 20
+
+1 1860 Munich II==Bayern M?nchen Am.===
+2 Augsburg II==FC Augsburg II===
+3 B Munich II==TSV 1860 M?nchen Am.===
+4 Bayern Hof==SpVgg Bayern Hof===
+5 Buchbach==TSV Buchbach===
+6 Eintracht Bamberg==FC Eintracht Bamberg===
+7 Eltersdorf==SC Eltersdorf===
+8 Frohnlach==VfL Frohnlach===
+9 G Furth II==SpVgg Greuther F?rth Am.===
+10 Heimstetten==SV Heimstetten===
+11 Illertissen==FV Illertissen===
+12 Ingolstadt II==FC Ingolstadt 04 Am.===
+13 Ismaning==FC Ismaning===
+14 Memmingen==FC Memmingen===
+15 Nurnberg II==FC N?rnberg Am.===
+16 Rain am Lech==TSV 1896 Rain am Lech===
+17 Rosenheim==TSV1860 Rosenheim===
+18 Seligenporten==SV Seligenporten===
+19 Viktoria Aschaffenburg==Viktoria Aschaffenburg===
+20 Wurzburger Kickers==FC W?rzburger Kickers===
+
+203 2
+
+1 Olimpija=====
+2 NK Maribor=====
+
+204 13
+
+1 Esbjerg (Res)=====
+2 FC Midtjylland (Res)==FC Nordsj?lland 2===
+3 Fredericia (Res)=====
+4 Lyngby (Res)=====
+5 Vejle BK Kolding (Res)=====
+6 Viborg (Res)=====
+7 Brondby (Res)=====
+8 AC Horsens (Res)|AC Hors (Res)=====
+9 Randers (Res)=====
+10 Silkeborg (Res)|Silkeb (Res)=====
+11 AGF (Res)|AGF (R)==AGF 2===
+12 SonderjyskE (Res)|Sonderj. (R)=====
+13 Odense (Res)=====
+
+205 22
+
+1 Canada U20=====
+2 Costa Rica U20=====
+3 Cuba U20=====
+4 Cuba U20=====
+5 Curacao U20=====
+6 Haiti U20=====
+7 Haiti U20=====
+8 Jamaica U20=====
+9 Mexico U20=====
+10 Nicaragua U20=====
+11 Puerto Rico U20=====
+12 USA U20=====
+13 Panama U20=====
+14 El Salvador U20=====
+15 =====Algeria (U20)
+16 =====Benin(U20)
+17 =====Congo(U20)
+18 =====Egypt(U20)
+19 =====Gabon(U20)
+20 =====Ghana(U20)
+21 =====Mali(U20)
+22 =====Nigeria(U20)
+
+206 13
+
+1 Courts Young Lions=====
+2 Hougang Utd==Hougang United FC===
+3 Brunei DPMM FC=====
+4 Home Utd==Home United===
+5 Singapore Armed Forces==Singapore Armed Forces===Singapore AF
+6 Woodlands Wellington==Woodlands Wellington===Woodlands Wellington
+7 Young Tigers U22=====
+8 Tanjong Pagar Utd=====
+9 Tampines Rovers==Tampines Rovers===Tampines Rovers
+10 ==Balestier Khalsa===Balestier Khalsa
+11 ==Geylang United===Geylang
+12 ==Harimau Muda===Harimau Muda B
+13 ==Albirex Niigata FC===Albirex Niigata FC
+
+207 10
+
+1 Ajax Cape Town=====
+2 Bidvest Wits=====
+3 Bloemfontein Celtic=====
+4 Chippa Utd=====
+5 Orlando Pirates (SA)=====
+6 Platinum Stars=====
+7 Moroka Swallows=====
+8 AmaZulu=====
+9 Kaizer Chiefs=====
+10 Pretoria University=====
+
+208 2
+
+1 Club Brugge KV (W)=====
+2 Utrecht (W)=====
+
+209 8
+
+1 Al Arabi (Jor)=====
+2 Al Baqaa SC Amman=====
+3 Al Faisaly=====
+4 AL Ramtha|Al Ramtha=====
+5 Al Wehdat=====
+6 That Ras=====
+7 Nadi Shabab Al Ordon=====
+8 Mansheyat Bani Hasan|Man Bani Hasan=====
+
+210 10
+
+1 SCR Altach==Altach===
+2 SV Grodig==SV Gr?dig===
+3 Austria Lustenau|Aust Lustenau==Austria Lustenau===
+4 BW Linz==BW Linz===
+5 FC Lustenau==FC Lustenau===
+6 First Vienna==First Vienna FC 1894===
+7 Hartberg==Hartberg===
+8 KSV Superfund==KSV Superfund===
+9 St Polten==SKN St. Polten===
+10 SV Horn==SV Horn===
+
+211 4
+
+1 Al Ahli=====
+2 Al Ittihad Bahrain|Al Ittihad B=====
+3 Al Manama=====
+4 Al-Budaiya=====
+
+212 12
+
+1 America MG==Am?rica Mineiro===
+2 AA Caldense==Caldense===
+3 Cruzeiro==Cruzeiro===
+4 Tombense Futebol Clube==Tombense===
+5 ==Am?rica Te?filo Otoni===
+6 ==Arax?===
+7 ==Atl?tico Mineiro===
+8 ==Boa EC===
+9 ==Guarani MG===
+10 ==Nacional MG===
+11 ==Tupi===
+12 ==Villa Nova MG===
+
+213 12
+
+1 FC WIT Georgia=====
+2 FC Spartaki Tskhinvali=====
+3 Dila Gori==FC Dila Gori===
+4 FC Samtredia=====
+5 Dinamo Tbilisi==FC Dinamo Tbilisi===
+6 FC Dinamo Batumi=====
+7 FC Kolkheti Poti=====
+8 Rustavi=====
+9 ==Chikhura===
+10 ==FC Baia Zugdidi===
+11 ==FC Torpedo-2008 Kutaisi===
+12 ==FC Zestafoni===
+
+214 2
+
+1 Keflavik (W)=====
+2 Grindavik (W)=====
+
+215 6
+
+1 Bohemians=====
+2 UCD=====
+3 St Patricks=====
+4 Bangor Celtic (IRE)|Bangor C (IRE)=====
+5 Shamrock Rovers=====
+6 Wexford Youths=====
+
+216 4
+
+1 Pisa=====
+2 Viareggio=====
+3 Lecce=====
+4 Latina=====
+
+217 11
+
+1 Asfar De Rabat=====
+2 Difaa El Jdidi=====DHJ Difaa Hassani Jdidi
+3 =====Far Forces Armee Royales
+4 ==Chabab Rif Hoceima===
+5 ==Moghreb de T?touan===
+6 ==Olympique de Khouribga===
+7 ==Raja de Beni Mellal===
+8 ==Renaissance de Berkane===
+9 ==Wydad de F?s===
+10 ==Olympique de Safi===
+11 ==CODM Mekn?s===
+
+218 2
+
+1 Carolina Railhawks|Carolina Railh=====
+2 Vancouver Whitecaps|Vanc Whitecaps=====
+
+219 8
+
+1 Legia Warsaw=====
+2 Flota=====
+3 Jagiellonia=====
+4 Olimpia Grudziadz|Olimpia Grudz.=====
+5 Ruch Chorzow=====
+6 Slask Wroclaw=====
+7 Wisla Krakow=====
+8 Zaglebie Lubin=====
+
+220 4
+
+1 Braga=====
+2 Benfica=====
+3 Porto==FC Porto===
+4 Rio Ave==Rio Ave===
+
+221 2
+
+1 Al Markhiya=====
+2 Al Muaidar=====
+
+222 8
+
+1 Aarau=====
+2 FC Basel=====
+3 FC Wil=====
+4 FC Zurich=====
+5 Grasshoppers Zurich=====
+6 Lausanne=====
+7 Sion=====
+8 Thun=====
+
+223 16
+
+1 Bella Vista==Bella Vista===
+2 Cerro==Cerro===
+3 Danubio==Danubio===
+4 Defensor Sporting|Defensor Spo==Defensor Sporting===
+5 Juventud (Uru)==Juventud===
+6 Liverpool (Uru)|Lpool (Uru)==Liverpool===
+7 Nacional (Uru)==Nacional===
+8 Progreso==Progreso===
+9 Racing Club (Uru)|Rac Club (Uru)==Racing===
+10 River Plate (Uru)|R Plate (Uru)==River Plate Montevideo===
+11 C Espanol==Central Espa?ol===
+12 Cerro Largo==Cerro Largo===
+13 El Tanque Sisley==El Tanque Sisley===
+14 Fenix==F?nix===
+15 Penarol==Pe?arol===
+16 Wanderers (Uru)==Montevideo Wanderers===
+
+224 12
+
+1 FSV Gutersloh 2009 (W)==FSV G?tersloh===
+2 Freiburg (W)==SC Freiburg===
+3 ==1. FFC Turbine Potsdam===
+4 ==Bayer 04 Leverkusen===
+5 ==FC Bayern M?nchen===
+6 ==FCR 2001 Duisburg===
+7 ==FF USV Jena===
+8 ==FFC Frankfurt===
+9 ==SC 07 Bad Neuenahr===
+10 ==SGS Essen===
+11 ==VfL Sindelfingen===
+12 ==VfL Wolfsburg===
+
+225 2
+
+1 FC Ramat Hasharon (W)=====
+2 M Kishronot Hadera (W)=====
+
+226 0
+
+227 16
+
+1 ==Aalesund FK===Aalesunds
+2 ==Brann===Brann
+3 ==H?nefoss===Honefoss
+4 ==Haugesund===Haugesund
+5 ==Lillestr?m===Lillestrem
+6 ==Molde===
+7 ==Odd Grenland===Odd Grenland
+8 ==Rosenborg===Rosenborg
+9 ==Sandnes Ulf===Sandnes
+10 ==Sarpsborg 08===Sparta Sarpsborg
+11 ==Sogndal===Sogndal
+12 ==Start===Start
+13 ==Str?msgodset===Stromsgodset
+14 ==Troms?===Tromso IL
+15 ==V?lerenga===Valerenga IF
+16 ==Viking===
+
+228 16
+
+1 Beroe Stara Za==Beroe===Beroe
+2 Botev Vratsa==Botev===OFC Botev Vratsa
+3 Cherno More==Cherno More===Cherno More Varna
+4 Chernomorets B==Chernomorets Burgas===
+5 CSKA Sofia==CSKA Sofia===CSKA Sofia
+6 Etar==Etar 1924===Etar 1924 Veliko Tarnovo
+7 Levski Sofia==Levski Sofia===
+8 Litex Lovech==Litex Lovech===Litex Lovetch
+9 Lokomotiv Plovdiv==Lokomotiv Plovdiv===Lokomotiv Plovdiv
+10 Lokomotiv Sofia==Lokomotiv Sofia===Lokomotiv Sofia
+11 Ludogorets==PFC Ludogorets===
+12 Minyor Pernik==PFC Minior Pernik===Minior Pernik
+13 Montana==Montana 1921===
+14 Pirin Gotse Delchev==Pirin Gotse Delchev===
+15 ==Slavia Sofia===Slavia Sofia
+16 ==Botev Plovdiv===
+
+229 2
+
+1 CD Nublense II=====
+2 Club Union Espanola II=====
+
+230 2
+
+1 Deportes Melipilla=====
+2 CDSC Iberia=====
+
+231 8
+
+1 Herediano=====
+2 Houston Dynamo=====
+3 Los Angeles=====
+4 Monterrey=====
+5 Santos Laguna=====
+6 Seattle=====
+7 Tigres=====
+8 Xelaju=====
+
+232 16
+
+1 Hrvatski Dragovoljac==NK Hrvatski Dragovoljac===
+2 Vinogradar==NK Vinogradar===
+3 ==NK Radnik Sesvete===
+4 ==HNK Gorica===
+5 ==Lucko===
+6 ==NK Dugopolje===
+7 ==NK Hask===
+8 ==NK Imotski===
+9 ==NK Junak Sinj===
+10 ==NK Mosor===
+11 ==NK Pomorac Kostrena===
+12 ==NK Primorac 1929===
+13 ==NK Rudes===
+14 ==NK Solin===
+15 ==NK Zelina===
+16 ==Sibenik===
+
+233 16
+
+1 Zlin==Zlin===
+2 MFK Karvina==MFK OKD Karvina===
+3 ==Bohemians 1905===
+4 ==Caslav===
+5 ==FK Bohemians Praha===
+6 ==FK Viktoria Zizkov===
+7 ==SC Znojmo===
+8 ==Usti nad Labem===
+9 ==FC Graffin Vlasim===
+10 ==FK Banik Sokolov===
+11 ==FK Pardubice===
+12 ==FK Sezimovo Usti===
+13 ==HFK Olomouc===
+14 ==Most===
+15 ==SFC Opava===
+16 ==SK Slovan Varnsdorf===
+
+234 2
+
+1 Sparta Prague=====
+2 Vysocina Jihlava=====
+
+235 8
+
+1 AC Sparta Praha U19=====
+2 FC Banik Ostrava U19=====
+3 FC Viktoria Plzen U19=====
+4 FC Zbrojovka Brno U19=====
+5 FC Zlin U19=====
+6 FK Teplice U19=====
+7 SFC Opava U19=====
+8 SK Sigma Olomouc U19=====
+
+236 13
+
+1 AaB==AaB===Aalborg
+2 AC Horsens==AC Horsens===
+3 AGF==AGF===Aarhus GF
+4 Brondby==Br?ndby===Brondby
+5 Esbjerg==Esbjerg===
+6 FC Copenhagen=====
+7 FC Midtjylland==FC Midtjylland===Midtjylland
+8 FC Nordsj==FC Nordsj?lland===Nordsjaelland
+9 OB==OB===Odense BK
+10 Randers==Randers FC===Randers
+11 Sonderjyske==S?nderjyskE===
+12 ==FC K?benhavn===
+13 ==Silkeborg===Silkeborg
+
+237 2
+
+1 Flora Tallinn II=====
+2 Tartu FC HaServ=====
+
+238 10
+
+1 FC Infonet==FC Infonet===FC Infonet
+2 Flora Tallinn==Flora Tallinn===Flora Tallinn
+3 Kuressaare==Kuressaare===
+4 Levadia Tallinn==Levadia Tallinn===
+5 Nomme Kalju==Nomme Kalju===
+6 Paide Linnameeskond==Paide LM===
+7 Sillamae Kalev==Sillamae Kalev===
+8 Tallinna Kalev==Kalev Tallinn===
+9 Tammeka Tartu==Tammeka Tartu===
+10 Trans Narva==Trans Narva===
+
+239 2
+
+1 France (W)=====
+2 Brazil (W)=====
+
+240 6
+
+1 FC Dinamo Tbilisi (Res)==Dinamo (Bt)===
+2 FC Sioni Bolnisi (Res)==FC Sioni Bolnisi===
+3 ==FC Kolkheti-1913 Poti===
+4 ==FC Merani Martvili===
+5 ==FC Metalurgi Rustavi===
+6 ==FC WIT Georgia Tbilisi===
+
+241 0
+
+242 16
+
+1 Debrecen==Debreceni VSC===
+2 Ferencvaros==Ferencv?ros===Ferencvarosi TC
+3 Gyori==Gy?ri ETO===
+4 Haladas==Szombathelyi Halad?s===
+5 Honved==Budapest Honv?d===Budapest Honved
+6 Kaposvar==Kaposv?ri R?k?czi===
+7 Kecskemeti TE==Kecskem?ti TE===
+8 Lombard Papa==Lombard P?pa===
+9 Paks==P?csi MFC===
+10 Siofok==BFC Si?fok===Siyfok BSE
+11 Ujpest==?jpest FC===
+12 Videoton==Videoton FC===
+13 ==Di?sgy?ri VTK===Diosgyori Vtk
+14 ==Egri FC===
+15 ==MTK Budapest===
+16 ==Paksi SE===
+
+243 2
+
+1 Afturelding U19=====
+2 IBV KFS KFR U19=====
+
+244 12
+
+1 Bohemians==Bohemians===
+2 Bray==Bray Wanderers===Bray Wanderers
+3 Derry==Derry City===Derry City
+4 Drogheda==Drogheda United===Drogheda United
+5 Dundalk==Dundalk===
+6 Shamrock Rovers==Shamrock Rovers===Shamrock Rovers
+7 Shelbourne==Shelbourne===Shelbourne Dublin
+8 Sligo Rovers==Sligo Rovers===Sligo Rovers FC
+9 St Patricks==St. Patricks Athletic===
+10 UCD==UCD===
+11 ==Cork City===Cork C.
+12 ==Limerick===
+
+245 10
+
+1 Cockhill Celtic=====
+2 Finn Harps==Finn Harps===
+3 Mayo League=====
+4 Mervue Utd==Mervue United===
+5 ==Athlone Town===
+6 ==Cobh Ramblers===
+7 ==Longford Town===Longford Town
+8 ==Salthill Devon===
+9 ==Waterford United===
+10 ==Wexford Youths===Waterford
+
+246 18
+
+1 FC Tokyo==F.C. Tokyo=== FC Tokyo
+2 Kashiwa==Kashiwa Reysol===
+3 Kawasaki==Kawasaki Frontale===
+4 Oita==Oita Trinita===Oita Trinita
+5 Omiya==Omiya Ardija===
+6 Shimizu==Shimizu S-Pulse===
+7 ==Albirex Niigata===
+8 ==Cerezo Osaka===
+9 ==Jubilo Iwata===
+10 ==Kashima Antlers===Kashima Antlers
+11 ==Nagoya Grampus Eight===Nagoya Grampus
+12 ==Sagan Tosu===
+13 ==Sanfrecce Hiroshima===Hiroshima
+14 ==Shonan Bellmare===
+15 ==Urawa Reds===
+16 ==Vegalta Sendai===
+17 ==Ventforet Kofu===Ventforet Kofu
+18 ==Yokohama F.Marinos===
+
+247 22
+
+1 Ehime==Ehime FC===
+2 FC Gifu==FC Gifu===
+3 Fukuoka==Avispa Fukuoka===
+4 G-Osaka==Gamba Osaka===
+5 Jef Utd Chiba==Jef United Chiba===
+6 Kitakyushu==Giravanz Kitakyushu===
+7 Kobe==Vissel Kobe===
+8 Kumamoto==Roasso Kumamoto===
+9 Kyoto==Kyoto Sanga FC===
+10 Matsumoto==Matsumoto Yamaga FC===
+11 Mito==Mito Hollyhock===
+12 Nagasaki==V-Varen Nagasaki===
+13 Okayama==Fagiano Okayama===
+14 Sapporo==Consadole Sapporo===
+15 Thespakusatsu Gunma==Thespa Kusatsu===
+16 Tochigi SC==Tochigi SC===
+17 Tokushima==Tokushima Vortis===
+18 Tokyo-V==Tokyo Verdy===
+19 Tottori==Gainare Tottori===
+20 Toyama==Kataller Toyama===
+21 Yamagata==Montedio Yamagata===
+22 Yokohama FC==Yokohama FC===
+
+248 8
+
+1 Ekranas==Ekranas===
+2 Zalgiris Vilnius==Zalgiris Vilnius===
+3 ==Banga===
+4 ==Siauliai===
+5 ==Tauras===FK Tauras
+6 ==Kruoja===
+7 ==Alytaus Dainava===
+8 ==Suduva===Suduva Marijampole
+
+249 19
+
+1 Chicago Fire==Chicago Fire===Chicago Fire
+2 Chivas USA==Chivas USA===CD Chivas
+3 Colorado==Colorado Rapids===Colorado R
+4 Columbus==Columbus Crew===Columbus Cru
+5 D. C. Utd==D.C. United===Washington DC
+6 Dallas==FC Dallas===Dallas
+7 Houston Dynamo==Houston Dynamo===Houston Dynamo
+8 Kansas City==Sporting Kansas City===Kansas City
+9 Los Angeles==Los Angeles Galaxy===Los Angeles
+10 Montreal Impact==Montreal Impact===Montreal Impact
+11 New York Red Bulls==New York Red Bulls===New York RB
+12 Philadelphia==Philadelphia Union===Philadelphia
+13 Portland Timbers==Portland Timbers===Portland
+14 Real Salt Lake==Real Salt Lake===Salt Lake
+15 San Jose Earthquakes==San Jose Earthquakes===San Jose
+16 Seattle==Seattle Sounders===Seattle Sounders
+17 Toronto FC==Toronto FC===Toronto FC
+18 Vancouver Whitecaps==Vancouver Whitecaps===
+19 ==New England Revolution===New England
+
+250 9
+
+1 Celtic=====Celtic Glasgow
+2 Dundee=====
+3 Dundee Utd=====
+4 Falkirk=====Falkirk
+5 Hamilton=====Hamilton Ac.
+6 Hibernian=====
+7 Kilmarnock=====
+8 St Mirren==St. Mirren===St.Mirren
+9 ==Hearts===
+
+251 16
+
+1 BSK Borca==FK BSK Borca===
+2 Crvena Zvezda==Crvena Zvezda===
+3 Donji Srem==FK Donji Srem===
+4 FK Radnicki==FK Radnicki Nis===
+5 FK Spartak==FK Spartak Zlatibor Voda===
+6 Hajduk Kula==Hajduk K.===
+7 Jagodina==Jagodina===
+8 Javor==FK Habitpharm Javor===
+9 Novi Pazar==FK Novi Pazar===
+10 OFK Belgrade==OFK Beograd===
+11 Partizan Belgrade==Partizan Beograd===
+12 Rad==Rad===
+13 Radnicki Nis==Radnicki 1923===
+14 Sloboda Point Sevojno==Sloboda Point Sevojno===
+15 Smederevo==FK Smederevo===
+16 Vojvodina==Vojvodina===
+
+252 12
+
+1 Banska Bystrica==Banska Bystrica===B. Bystrica
+2 FC Nitra==Nitra===
+3 FK Senica==FK Senica===
+4 MFK Kosice==MFK Kosice===Kosice
+5 Ruzomberok==Ruzomberok===Ruzomberok
+6 Spartak Myjava==Spartak Myjava===TJ Spartak Myjava
+7 Spartak Trnava==FC Spartak Trnava===Spartak Trnava
+8 Tatran Presov==Tatran Presov===Tatran Presov
+9 Trencin==Trencin===AS Trencin
+10 Zilina==MSK Zilina===MSK Zilina
+11 Zlate Moravce==Zlate Moravce===Zlate Moravce
+12 ==Slovan Bratislava===Slovan Bratislava
+
+253 10
+
+1 Domzale==Domzale===Domzale
+2 Gorica==Hit Gorica===Gorica
+3 Koper==Anet Koper===Koper
+4 Mura==ND Mura 05===NK Mura
+5 NK Aluminij==NK Aluminij===NK Aluminij
+6 NK Celje==NK CM Celje===Mik Celje
+7 NK Maribor==Maribor===Maribor
+8 Olimpija==NK Olimpija Ljubljana===Olimpija Ljubljana
+9 Rudar==Rudar Velenje===Rudar V.
+10 Triglav==Triglav Gorenjska===Triglav
+
+254 14
+
+1 Busan lPark==Busan Ipark===
+2 Chunnam Dragons==Chunnam Dragons===
+3 Daejeon Citizen==Daejeon Citizen===
+4 Gangwon==Gangwon FC===
+5 Gyeongnam==Gyeongnam FC===
+6 Incheon Utd==Incheon United===
+7 Jeju Utd==Jeju United===
+8 Jeonbuk Motors==Jeonbuk Motors===
+9 Seongnam Ilhwa==Seongnam Ilhwa Chunma===
+10 Suwon Bluewings==Suwon Samsung Bluewings===
+11 ==Daegu FC===
+12 ==FC Seoul===
+13 ==Pohang Steelers===
+14 ==Ulsan Hyundai Horang-i===
+
+255 32
+
+1 AIK==AIK===AIK
+2 Angelholms==?ngelholms FF===Angelholms FF
+3 Assyriska==Assyriska F?reningen===Assyriska FF
+4 Atvidabergs==?tvidabergs FF===Atvidaberg FF
+5 Djurgardens==Djurg?rdens IF===Djorgarden
+6 Elfsborg==IF Elfsborg===IF Elfsborg
+7 Falkenbergs=====
+8 GAIS==GAIS===GAIS
+9 Gefle==Gefle IF===Gefle
+10 Hacken==BK H?cken===Hakken
+11 Halmstads==Halmstads BK===
+12 Helsingborgs==Helsingborgs IF===Helsingborg
+13 IFK Goteborg==IFK G?teborg===Gothenburg
+14 IK Brage==IK Brage===
+15 IK Frej==IK Frej===
+16 Jonkopings Sodra==J?nk?pings S?dra===Jonkopings Sodra
+17 Kalmar FF==Kalmar FF===Kalmar
+18 Landskrona==Landskrona BoIS===Landskrona
+19 Ljungskile==Ljungskile SK===Ljungskile
+20 Malmo FF==Malm? FF===Malmo FF
+21 Mjallby==Mj?llby AIF===
+22 Norrkoping==IFK Norrk?ping===
+23 Nykopings BIS==Nyk?pings BIS===
+24 Orebro==?rebro SK===Orebro
+25 Orgryte==?rgryte IS===
+26 Osters=====
+27 Sirius==IK Sirius FK===Sirius
+28 Sundsvall==GIF Sundsvall===Sundsvall
+29 Syrianska FC==Syrianska FC===Syrianska
+30 Umea FC==Ume? FC===Umeaa FC
+31 Varbergs BoIS==Varbergs BoIS FC===Varbergs Bois
+32 Varnamo=====
+
+256 14
+
+1 ==Avangard Kramatorsk===
+2 ==Bukovyna Chernivtsi===
+3 ==Dynamo-2 Kyiv===
+4 ==FC Arsenal B. Cerkov===
+5 ==FC Odesa===
+6 Tytan Armyansk==FC Titan===
+7 ==FK Sumy===
+8 ==Naftovik-Ukrnafta Okhtirka===
+9 Oleksandria==PFC Olexandria===
+10 ==PFC Sevastopol===
+11 ==Stal Alchevsk===
+12 ==Zirka Kirovograd===
+13 Olimpik Donetsk=====
+14 FK Poltava=====
+
+257 17
+
+1 Arsenal Kiev==Arsenal Kyiv===Arsenal Kiev
+2 Dinamo Kiev==Dynamo Kyiv===Dynamo Kiev
+3 Dnipro==FC Dnipro Dnipropetrovsk===Dnipro Dnipropetrovsk
+4 Illychivets==Illichivets===Illichevets
+5 Karpaty==FC Karpaty===
+6 Kryvbas==Kryvbas===Kryvbas
+7 Metalist==Metalist===
+8 Metalurg D==FC Metalurg Donetsk===Metalurg Donetsk
+9 Metalurg Z==Metalurh Zaporizhya===
+10 Odesa==Chernomorets Odessa===FC Chernomorets Odessa
+11 Tavriya==Tavria===Tavria
+12 Uzhhorod=====
+13 Vorskla==Vorskla===Vorskla Poltava
+14 Zorya==FC Zarya Lugansk===
+15 ==FC Shakhtar Donetsk===Shakhtar
+16 ==Volyn Lutsk===
+17 ==Zakarpattya===
+
+258 24
+
+1 China (W)=====
+2 China (W)=====
+3 Denmark (W)=====
+4 Denmark (W)=====
+5 Germany (W)=====
+6 Germany (w)=====
+7 Hungary (W)=====
+8 Hungary (W)=====
+9 Iceland (W)=====
+10 Iceland (W)=====
+11 Japan (W)=====
+12 Japan (W)=====
+13 Mexico (W)=====
+14 Mexico (W)=====
+15 Norway (W)=====
+16 Norway (W)=====
+17 Portugal (W)=====
+18 Portugal (W)=====
+19 Sweden (W)=====
+20 Sweden (W)=====
+21 USA (W)=====
+22 USA (W)=====
+23 Wales (W)=====
+24 Wales (W)=====
+
+259 24
+
+1 Canada (W)=====
+2 Canada (W)=====
+3 England (W)=====
+4 England (W)=====
+5 Finland (W)=====
+6 Finland (W)=====
+7 Italy (W)=====
+8 Italy (W)=====
+9 N Ireland (W)=====
+10 N Ireland (W)=====
+11 Netherlands (W)=====
+12 Netherlands (W)=====
+13 New Zealand (W)=====
+14 New Zealand (W)=====
+15 Rep of Ireland (W)=====
+16 Rep of Ireland (W)=====
+17 Scotland (W)=====
+18 Scotland (W)=====
+19 South Africa (W)=====
+20 South Africa (W)=====
+21 South Korea (W)=====
+22 South Korea (W)=====
+23 Switzerland (W)=====
+24 Switzerland (W)=====
+
+260 4
+
+1 USA U23 (W)=====
+2 England U23 (W)=====
+3 Norway U23 (W)=====
+4 Sweden U23 (W)=====
+
+261 2
+
+1 Breidablik (W)=====
+2 IBV Vestmannaeyjar (W)=====
+
+262 4
+
+1 England U23 (W)=====
+2 Norway U23 (W)=====
+3 Sweden U23 (W)=====
+4 USA U23 (W)=====
+
+263 2
+
+1 MTK Budapest U19=====
+2 Videoton Puskas Ak U19=====
+
+264 16
+
+1 ==Anzhi===Anzhi
+2 ==FC Mordovia===Mordovia Saransk
+3 ==Rubin===FC Rubin Kazan
+4 ==Spartak Moskva===Spartak Moscow
+5 ==Terek===RFK Terek Grozny
+6 ==Zenit St.Petersburg===Zenit St. Petersburg
+7 ==Rostov===
+8 ==Volga===
+9 ==Amkar===Amkar Perm
+10 ==Alania===Alaniya Vladikavkaz
+11 ==CSKA Moskva===CSKA Moscow
+12 ==Krasnodar===Krasnodar
+13 ==Lokomotiv Moskva===Lokomotiv M
+14 ==Kuban===FC Kuban Krasnodar
+15 ==Dynamo Moskva===Dinamo Moscow
+16 ==Krylya Sovetov===Krylia Sovetov
+
+265 15
+
+1 ==Changchun Yatai===
+2 ==Guangzhou===
+3 ==Guangzhou R&F===
+4 ==Hangzhou Greentown===
+5 ==Jiangsu Sainty===
+6 ==Liaoning===
+7 ==Nanchang Bayi===
+8 ==Shaanxi ChanBa===
+9 ==Shandong Luneng Taishan===
+10 ==Shanghai East Asia===
+11 ==Shanghai Shenhua===
+12 ==Tianjin Teda===
+13 ==Wuhan Zall===
+14 ==Beijing Guoan===
+15 ==Qingdao Jonoon===
+
+266 8
+
+1 ==AC Milan===
+2 ==Arsenal===
+3 ==Bayern M?nchen===
+4 ==FC Barcelona===
+5 ==FC Porto===
+6 ==Galatasaray===
+7 ==M?laga===
+8 ==Schalke 04===
+
+267 16
+
+1 ==Anzhi===
+2 ==Basel===
+3 ==Benfica===
+4 ==Bordeaux===
+5 ==Chelsea===
+6 ==FC Viktoria Plzen===
+7 ==Fenerbah?e===
+8 ==Inter===
+9 ==Lazio===
+10 ==Levante===
+11 ==Newcastle===
+12 ==Rubin===
+13 ==Steaua Bucuresti===
+14 ==Tottenham===
+15 ==VfB Stuttgart===
+16 ==Zenit St.Petersburg===
+
+268 18
+
+1 ==Arka Gdynia===
+2 ==Cracovia Krakow===
+3 ==Dolcan Zabki===
+4 ==Flota Swinoujscie===
+5 ==G. Bogdanka Leczna===
+6 ==GKS Gieksa Katowice===
+7 ==GKS Tychy===GKS Tychy 71
+8 ==Kolejarz Stroze===
+9 ==LKS Nieciecza===Termalica Bruk-Bet Nieciecza
+10 ==Lodzki KS===
+11 ==Miedz Legnica===Miedz Legnica
+12 ==Okocimski KS Brzesko===
+13 ==OKS 1945 Olsztyn===
+14 ==Olimpia Grudziadz===
+15 ==Polonia Bytom===
+16 ==Sandecja Nowy Sacz===
+17 ==Warta Poznan===
+18 ==Zawisza Bydgoszcz===Zawisza Bydgoszcz
+
+269 13
+
+1 ==CF Braila===
+2 ==Chindia T?rgoviste===
+3 ==CS Buftea===
+4 ==CS Otopeni===
+5 ==Delta Tulcea===
+6 ==Dinamo Bucuresti II===
+7 ==Dunarea Galati===
+8 ==Farul Constanta===
+9 ==FC Botosani===
+10 ==Rapid Suceava===
+11 ==Sageata Navodari===
+12 ==Sportul Studentesc===
+13 ==Unirea Slobozia===
+
+270 15
+
+1 ==Arema Malang===
+2 ==Mitra Kukar===
+3 ==Pelita Jaya===
+4 ==Persela Lamongan===
+5 ==Persepam Pamekasan===
+6 ==Persib Bandung===
+7 ==Persidafon===
+8 ==Persija Jakarta===
+9 ==Persipura Jayapura===
+10 ==Persisam Putra===
+11 ==Persiwa Wamena===
+12 ==PSPS Pekanbaru===
+13 ==Sriwijaya FC===
+14 ==Persiba Balikpapan===
+15 ==PS Barito Putera===
+
+271 10
+
+1 ==Melbourne Heart FC===
+2 ==Adelaide United FC===
+3 ==Newcastle Jets FC===
+4 ==Central Coast Mariners FC===
+5 ==Brisbane Roar FC===
+6 ==Perth Glory FC===
+7 ==Wellington Phoenix FC===
+8 ==Sydney FC===
+9 ==Melbourne Victory FC===
+10 ==Western Sydney Wanderers FC===
+
+272 8
+
+1 ==FC Ararat Yerevan===
+2 ==FC Banants===
+3 ==FC Gandzasar===
+4 ==FC Mika===Mika
+5 ==FC Pyunik Jerevan===FC Pyunik
+6 ==FC Shirak===
+7 ==FC Ulysses===
+8 ==FC Impuls===
+
+273 14
+
+1 ==GKS Belchatow (ME)===
+2 ==Gornik Zabrze (ME)===
+3 ==Jagiellonia Bialystok (ME)===
+4 ==Korona Kielce (ME)===
+5 ==Lechia Gdansk (ME)===
+6 ==Legia Warszawa (ME)===
+7 ==MKS Pogon Szczecin (ME)===
+8 ==Piast Gliwice (ME)===
+9 ==Podbeskidzie Bielsko (ME)===
+10 ==Polonia Warszawa (ME)===
+11 ==Ruch Chorzow (ME)===
+12 ==Slask Wroclaw (ME)===
+13 ==Widzew Lodz (ME)===
+14 ==Wisla Krakow (ME)===
+
+274 12
+
+1 ==Army United F.C.===
+2 ==Bangkok United===
+3 ==BEC Tero Sasana F.C.===
+4 ==Chonburi FC===
+5 ==Muang Thong United===
+6 ==Osotspa Saraburi F.C.===
+7 ==Pattaya United F.C.===
+8 ==Police United F.C.===
+9 ==Ratchaburi FC===
+10 ==Samut Songkhram F.C.===
+11 ==Suphanburi FC===
+12 ==TOT S.C.===
+
+275 18
+
+1 ==AFC Fylde===
+2 ==Ashton United===
+3 ==Blyth Spartans===
+4 ==Buxton===
+5 ==Chorley===
+6 ==FC United Of Manchester===
+7 ==Frickley Athletic===
+8 ==Grantham===
+9 ==Hednesford===
+10 ==Ilkeston Town===
+11 ==Marine FC===
+12 ==Matlock Town===
+13 ==Nantwich Town===
+14 ==North Ferriby United===
+15 ==Rushall Olympic===
+16 ==Stocksbridge Park Steels===
+17 ==Whitby Town===
+18 ==Worksop Town===
+
+276 19
+
+1 ==Arsenal Am===
+2 ==Aston Villa Am===
+3 ==Bolton Am===
+4 ==Chelsea Am===
+5 ==Crystal Palace Am===
+6 ==Everton Am===
+7 ==Fulham Am===
+8 ==Liverpool Am===
+9 ==Manchester City Am===
+10 ==Manchester United Am===
+11 ==Middlesbrough Am===
+12 ==Norwich Am===
+13 ==Reading Am===
+14 ==Southampton Am===
+15 ==Stoke Am===
+16 ==Sunderland Am===
+17 ==Tottenham Am===
+18 ==West Bromwich Am===
+19 ==West Ham Am===
+
+277 22
+
+1 ==Bognor Regis Town===
+2 ==Bury Town===
+3 ==Canvey Island===
+4 ==Carshalton Athletic===
+5 ==Concord Rangers===
+6 ==Cray Wanderers===
+7 ==East Thurrock United===
+8 ==Enfield Town===
+9 ==Hampton and Richmond===
+10 ==Harrow Borough===
+11 ==Hastings United===
+12 ==Hendon===
+13 ==Kingstonian===
+14 ==Leiston===
+15 ==Lewes===
+16 ==Lowestoft Town===
+17 ==Margate===
+18 ==Metropolitan Police===
+19 ==Thurrock===
+20 ==Wealdstone===
+21 ==Whitehawk===
+22 ==Wingate and Finchley===
+
+278 21
+
+1 ==AFC Totton===
+2 ==Arlesey Town===
+3 ==Banbury United===
+4 ==Bashley===
+5 ==Bedford Town===
+6 ==Bedworth United===
+7 ==Bideford===
+8 ==Cambridge City===
+9 ==Chesham United===
+10 ==Chippenham===
+11 ==Frome Town===
+12 ==Gosport Borough===
+13 ==Hemel Hempstead Town===
+14 ==Hitchin Town===
+15 ==Kettering===
+16 ==Leamington===
+17 ==Redditch Utd===
+18 ==St Albans===
+19 ==St Neots Town===
+20 ==Stourbridge===
+21 ==Weymouth===
+
+279 4
+
+1 ==FC Seoul===
+2 ==Vegalta Sendai===
+3 ==Jiangsu Sainty===
+4 ==Buriram PEA F.C.===
+
+280 0
+
+281 4
+
+1 ==Sanfrecce Hiroshima===
+2 ==Pohang Steelers===
+3 ==Bunyodkor PFK===
+4 ==Beijing Guoan===
+
+282 0
+
+283 0
+
+284 0
+
+285 0
+
+286 0
+
+287 0
+
+288 0
+
+289 0
+
+290 0
+
+291 0
+
+292 0
+
+293 17
+
+1 ==Baltika===Baltika
+2 ==FC Enisey===
+3 ==FC Neftekhimik Nizhnekamsk===Neftekhimik Nizhnekamsk
+4 ==FC Ufa===FC Ufa
+5 ==Khimki===
+6 ==Metallurg-Kuzbass===
+7 ==Petrotrest===Petrotrest St P.burg
+8 ==Rotor===FC Rotor Volgograd
+9 ==Salyut Belgorod===
+10 Shinnik==Shinik===Shinnik
+11 ==SKA-Energia===
+12 ==Spartak Nalchik===Spartak Nalchik
+13 ==Tomsk===Tom Tomsk
+14 ==Torpedo Moskva===
+15 Ural==Ural===Ural Yekaterinburg
+16 ==Volgar-Gazprom-2===
+17 ==Sibir===Sibir Novosibirsk
+
+294 2
+
+1 ==Central C?rdoba===
+2 ==Atlanta===
+
+295 16
+
+1 ==Audax Rio===
+2 ==Bangu===
+3 ==Boavista===
+4 ==Botafogo===
+5 ==Duque de Caxias===
+6 ==Fluminense===
+7 ==Friburguense===
+8 ==Maca?===
+9 ==Madureira===
+10 ==Nova Igua?u===
+11 ==Olaria===
+12 ==Quissam?===
+13 ==Vasco da Gama===
+14 ==Volta Redonda===
+15 ==Flamengo===
+16 ==Resende===
+
+296 12
+
+1 ==AB===
+2 ==Br?nsh?j===
+3 ==FC Fredericia===
+4 ==FC Fyn===
+5 ==FC Hj?rring===
+6 ==FC Vestsj?lland===
+7 ==HB K?ge===
+8 ==Hobro===
+9 ==Lyngby===
+10 ==Skive===
+11 ==Vejle Boldklub Kolding===
+12 ==Viborg===
+
+297 0
+
+298 0
+
+299 0
+
+300 0
+
+301 0
+
+302 0
+
+303 0
+
+304 0
+
+305 0
+
+306 8
+
+1 ==Bunyodkor PFK===
+2 ==Buxoro FK===
+3 ==FK Guliston===
+4 ==Nasaf Qarshi===
+5 ==Neftchi Fargona===
+6 ==Olimaliq FK===
+7 ==Pakhtakor Tashkent===
+8 ==Qizilqum Zarafshon===
+
+307 10
+
+1 ==Albany Creek===
+2 ==Brisbane Force===
+3 ==Eastern Suburbs===
+4 ==Ipswich Knights===
+5 ==Lions FC===
+6 ==Logan Lightning===
+7 ==North Star===
+8 ==Peninsula Power===
+9 ==Rochedale Rovers===
+10 ==Univ. Queensland===
+
+308 12
+
+1 ==APIA Leichhardt Tigers===
+2 ==Blacktown City Demons===
+3 ==Blacktown Spartans===
+4 ==Bonnyrigg White Eagles===
+5 ==Central Coast Mariners Academy===
+6 ==Manly United===
+7 ==Marconi Stallions===
+8 ==Rockdale City Suns===
+9 ==South Coast Wolves===
+10 ==Sutherland Sharks===
+11 ==Sydney Olympic===
+12 ==Sydney United===
+
+309 14
+
+1 ==Adelaide Blue Eagles===
+2 ==Adelaide City===
+3 ==Adelaide Cobras===
+4 ==Adelaide Comets===
+5 ==Adelaide Raiders===
+6 ==Campbelltown City===
+7 ==Croydon Kings===
+8 ==Cumberland United===
+9 ==Enfield City===
+10 ==North Eastern MetroStars===
+11 ==Para Hills Knights===
+12 ==West Torrens Birkalla===
+13 ==Western Strikers===
+14 ==White City===
+
+310 12
+
+1 ==Armadale===
+2 ==Balcatta===
+3 ==Bayswater City SC===
+4 ==Bunbury Forum Force===
+5 ==Cockburn City===
+6 ==ECU Joondalup===
+7 ==Floreat Athena===
+8 ==Inglewood United===
+9 ==Perth SC===
+10 ==Stirling Lions===
+11 ==Sorrento===
+12 ==Football West NTC===
+
+311 4
+
+1 ==SC Kalsdorf===
+2 ==SV Allerheiligen===
+3 ==SV Feldkirchen===
+4 ==Union St. Florian===
+
+312 7
+
+1 ==Admira Amateure===
+2 ==FK Austria Magna Amateure===
+3 ==SC Ostbahn XI===
+4 ==SC Simmeringer===
+5 ==SV Schwechat===
+6 ==SV Stegersbach===
+7 ==Wiener Sportklub===
+
+313 0
+
+314 0
+
+315 0
+
+316 11
+
+1 ==Comunicaciones===
+2 ==Deportivo Petapa===
+3 ==Heredia===
+4 ==Juventud Escuintleca===
+5 ==Malacateco===
+6 ==Marquense===
+7 ==Mictl?n===
+8 ==Municipal===
+9 ==Suchitep?quez===
+10 ==Universidad San Carlos===
+11 ==Xelaj?===
+
+317 4
+
+1 ==Asante Kotoko (GHA)===
+2 ==CA Bizertin===
+3 ==Dynamos (ZIM)===
+4 ==JSM B?ja?a===
+
+318 6
+
+1 =====FC Belshina Bobruisk
+2 =====FC Dinamo Minsk
+3 =====FC Minsk
+4 =====Gomel
+5 =====Shakhter Soligorsk
+6 =====Torpedo-BelAZ
+
+319 9
+
+1 ==Argentina===Argentin?
+2 ==Bolivia===Bolivia
+3 ==Chile===
+4 ==Colombia===
+5 ==Ecuador===
+6 ==Paraguay===
+7 ==Peru===
+8 ==Uruguay===
+9 ==Venezuela===
+
+320 10
+
+1 ==Arsenal===
+2 ==ASD Torres Calcio===
+3 ==FCF Juvisy Essonne===
+4 ==Kopparbergs G?teborg===
+5 ==LdB FC Malm?===
+6 ==Lyon===
+7 ==Moldova-U21===
+8 ==Wales-U21===
+9 ==Rossiyanka===
+10 ==VfL Wolfsburg===
+
+321 4
+
+1 ==FCF Juvisy Essonne===
+2 ==Kopparbergs G?teborg===
+3 ==LdB FC Malm?===
+4 ==Lyon===
+
+322 6
+
+1 ==Bnei Yehuda===
+2 ==Hapoel Kiryat Shmona===
+3 ==Hapoel Nir Ramat Hasharon===
+4 ==Hapoel Tel Aviv===
+5 ==Maccabi Haifa===
+6 ==Maccabi Tel Aviv===
+
+323 8
+
+1 ==Beitar Jerusalem===
+2 ==Bnei Sakhnin===
+3 ==F.C. Ashdod===
+4 ==Hapoel Akko===
+5 ==Hapoel Beer Sheva===
+6 ==Hapoel Haifa===
+7 ==Hapoel Ramat Gan===
+8 ==Maccabi Netanya===
+
+324 2
+
+1 ==Al Nasar===
+2 ==Kazma SC===
+
+325 6
+
+1 ==CSCA-Rapid Ghidighici===
+2 ==FC Academia Chisinau===
+3 ==FC Costuleni===
+4 ==FC Iskra-Stali Ribnita===
+5 ==FC Olimpia Balti===
+6 ==FC Tiraspol===
+
+326 12
+
+1 ==Bihor Oradea===
+2 ==Buducnost===
+3 ==Corona Brasov===
+4 ==FC Mogren===
+5 ==FK Celik Niksic===
+6 ==FK Jedinstvo Bijelo Polje===
+7 ==FK Mornar===
+8 ==FK Petrovac===
+9 ==FK Rudar Pljevlja===
+10 ==FK Sutjeska===
+11 ==FK Zeta===
+12 ==OFK Grbalj===
+
+327 20
+
+1 ==Arges Pitesti===
+2 ==Corona Brasov===
+3 ==CS Mioveni===
+4 ==FC Maramures===
+5 ==Luceafarul Oradea===
+6 ==R?mnicu V?lcea===
+7 ==T?rgu Mures===
+8 ==UTA Arad===
+9 ==Cukaricki===
+10 ==FK Mladost Lucani===
+11 ==Jedinstvo Putevi===
+12 ==Bezanija===
+13 ==Teleoptik===
+14 ==FK Banat===
+15 ==FK Metalac===
+16 ==FK Indija===
+17 ==FK Proleter Novi Sad===
+18 ==Kolubara===
+19 ==FK Sloga Kraljevo===
+20 ==Vozdovac===
+
+328 4
+
+1 ==FK Metalac===
+2 ==RFK Novi Sad===
+3 ==Teleoptik===
+4 ==Vozdovac===
+
+329 12
+
+1 ==Busan Transportation Corporation===
+2 ==Cheonan City===
+3 ==Gimhae City===
+4 ==Mokpo City===
+5 ==Ulsan Hyundai Mipo Dockyard===
+6 ==Yongin City===
+7 ==Sevilla FC===
+8 ==Real Sociedad===
+9 ==Levante UD===
+10 ==Atl?tico de Madrid===
+11 ==Levante Las Planas===
+12 ==FC Barcelona===
+
+330 8
+
+1 ==Atl?tico de Madrid===
+2 ==FC Barcelona===
+3 ==Levante Las Planas===
+4 ==Real Sociedad===
+5 ==Sevilla FC===
+6 ==Transportes Alcaine===
+7 ==UD Collerense===
+8 ==Valencia CF===
+
+331 8
+
+1 ==Airbus UK===
+2 ==Altinordu===
+3 ==Ke?i?reng?c?===
+4 ==Port Talbot Town===
+5 ==Prestatyn Town===
+6 ==The New Saints===
+7 ==Bangor City===
+8 ==Carmarthen Town===
+
+332 6
+
+1 ==Airbus UK===
+2 ==Bangor City===
+3 ==Carmarthen Town===
+4 ==Port Talbot Town===
+5 ==Prestatyn Town===
+6 ==The New Saints===
+
+333 0
+
+334 0
+
+335 0
+
+336 4
+
+1 ==Solomon Islands===Solomon Islands
+2 ==New Zealand===New Zealand
+3 ==New Caledonia===New Caledonia
+4 ==Tahiti===Tahiti
+
+337 21
+
+1 ==Anagennisi Epanomis===Anagennisi Epanomis
+2 ==Anagennisi Giannitsa===Anagennisi Giannitson
+3 ==Doxa Dramas===Doxa Dramas
+4 ==Ergotelis===Ergotelis FC
+5 ==Fokikos===Fokikos
+6 ==Iraklis Psachnon===Iraklis Psachnon FC
+7 ==Kallithea===Kallithea FC Athen
+8 ==Kalloni AEL===Kalloni
+9 ==Kavala===AO Nea Kavala
+10 ==Larissa===Larissa
+11 ==Niki Volos===Niki Volou
+12 ==Olympiakos Volou===AS Olympiakos Volou 1937
+13 ==Panachaiki 2005===Panachaiki 2005
+14 ==Panetolikos===Panaitolikos Argos
+15 ==Pierikos===Pierikos
+16 ==Solomon Islands===
+17 ==Tahiti===
+18 ==Thrasivoulos Filis===Thrasivoulos Fylis
+19 ==Ethnikos Gazoros===
+20 ==Apollon Smyrnis===
+21 ==Panserraikos===
+
+338 18
+
+1 ==Anagennisi Epanomis===
+2 ==Anagennisi Giannitsa===
+3 ==Apollon Smyrnis===
+4 ==Doxa Dramas===
+5 ==Ergotelis===
+6 ==Ethnikos Gazoros===
+7 ==Fokikos===
+8 ==Kallithea===
+9 ==Kalloni AEL===
+10 ==Larissa===
+11 ==Niki Volos===
+12 ==Olympiakos Volou===
+13 ==Panachaiki 2005===
+14 ==Panetolikos===
+15 ==Panserraikos===
+16 ==Pierikos===
+17 ==Thrasivoulos Filis===
+18 ==Vizas Megaron===
+
+339 8
+
+1 ==AC Horsens 2===
+2 ==AFC===
+3 ==Chabab===
+4 ==FC Lienden===
+5 ==FC Midtjylland 2===
+6 ==HBS===
+7 ==Hollandia===
+8 ==SWZ Boso Sneek===
+
+340 6
+
+1 ==SWZ Boso Sneek===
+2 ==AFC===
+3 ==Achilles 29===
+4 ==Hollandia===
+5 ==Haaglandia/Sir Winston===
+6 ==JVC Cuijk===
+
+341 0
+
+342 0
+
+343 14
+
+1 ==Alianza FC===
+2 ==Atl?tico Marte===
+3 ==Deportivo ?guila===
+4 ==Deportivo FAS===
+5 ==Flota Swinoujscie===
+6 ==Isidro Metap?n===
+7 ==Juventud Independiente===
+8 ==Legia Warszawa===
+9 ==Luis ?ngel Firpo===
+10 ==Olimpia Grudziadz===
+11 ==Once Municipal===
+12 ==Santa Tecla FC===
+13 ==Slask Wroclaw===
+14 ==UES===
+
+344 0
+
+345 2
+
+1 ==Cercle Brugge===
+2 ==Kortrijk===
+
+346 0
+
+347 6
+
+1 ==Anderlecht===
+2 ==Club Brugge===
+3 ==Lokeren===
+4 ==RC Genk===
+5 ==Standard===
+6 ==Zulte-Waregem===
+
+348 4
+
+1 ==AA Gent===
+2 ==RAEC Mons===
+3 ==Lierse===
+4 ==Kortrijk===
+
+349 4
+
+1 ==KV Mechelen===
+2 ==Charleroi===
+3 ==Oud-Heverlee Leuven===
+4 ==Waasland-Beveren===
+
+350 2
+
+1 ==G. Beerschot===
+2 ==Cercle Brugge===
+
+351 0
+
+353 0
+
+353 0
+
+354 0
+
+355 0
+
+356 11
+
+1 =====Portugal(U17)
+2 =====Slovenia(U17)
+3 ==Northern Ireland-U17===Ireland(U17)
+4 =====Austria(U17)
+5 ==England-U17===England(U17)
+6 ==Russia-U17===Russia(U17)
+7 ==Poland-U17===
+8 ==Czech Republic-U17===
+9 ==Holland-U17===
+10 ==Norway-U17===
+11 ==Italy-U17===
+
+357 0
+
+358 0
+
+359 0
+
+360 16
+
+1 Osters==?sters IF===
+2 ==?tvidabergs FF===
+3 AIK==AIK===
+4 Hacken==BK H?cken===
+5 ==Djurg?rdens IF===
+6 Gefle==Gefle IF===
+7 ==Halmstads BK===
+8 ==Helsingborgs IF===
+9 ==IF Brommapojkarna===
+10 ==IF Elfsborg===
+11 ==IFK G?teborg===
+12 ==IFK Norrk?ping===
+13 ==Kalmar FF===
+14 ==Malm? FF===
+15 ==Mj?llby AIF===
+16 ==Syrianska FC===
+
+361 0
+
+362 0
+
+363 0
+
+364 2
+
+1 ==Fortuna Hj?rring===
+2 ==Vejle dam.===
+
+365 6
+
+1 ==Fortaleza===
+2 ==Horizonte===
+3 ==Cear?===
+4 ==Guarani de Juazeiro===
+5 ==Tiradentes CE===
+6 ==Guarany de Sobral===
+
+366 4
+
+1 =====Vestsjaelland
+2 =====Bronshoj
+3 =====Viborg FF
+4 =====Hjorring
+
+367 0
+
+368 0
+
+369 0
+
+370 2
+
+1 =====Romania(U18)
+2 =====USA(U18)
+
+371 8
+
+1 =====Austria(U19)
+2 =====Azerbaijan(U19)
+3 =====Estonia(U19)
+4 =====Finland(U19)
+5 =====Germany(U19)
+6 =====Latvia(U19)
+7 =====Moldova(U19)
+8 =====Ukraine(U19)
+
+372 4
+
+1 =====Qatar (U23)
+2 =====Morocco(U23)
+3 =====Iran Is. Rep(U23)
+4 =====Turkey(U23)
+
+373 0
+
+374 0
+
+375 4
+
+1 ==MKS Olawa===
+2 ==Elana Torun===
+3 ==Chrobry Glogow===
+4 ==Ruch Zdzieszowice===
+
+376 2
+
+1 ==Wigry Suwalki===
+2 ==Siarka Tarnobrzeg===
+
+377 2
+
+1 ==ES Tunis===
+2 ==CA Bizertin===
+
+378 0
+
+379 0
+
+380 0
+
+381 0
+
+382 2
+
+1 ==Casa Pia===
+2 ==Pinhalnovense===
+
+383 0
+
+384 0
+
+385 0
+
+386 0
+
+387 0
+
+388 0
+
+389 0
+
+390 0
+
+391 0
+
+392 0
+
+393 0
+
+394 0
+
+395 0
+
+396 2
+
+1 Sparta Rotterdam=====
+2 Helmond Sport=====
+
+397 2
+
+1 JaPS=====
+2 Sudet=====
+
+398 4
+
+1 GBK=====
+2 SJK II=====
+3 VIFK=====
+4 PS Kemi=====
+
+399 2
+
+1 EsPa=====
+2 Gnistan=====
+
+400 4
+
+1 KooTeePee=====
+2 AC Kajaani=====
+3 FC Viikingit=====
+4 JIPPO=====
+
+401 0
+
+402 0
+
+403 0
+
+404 2
+
+1 FC AK Johannesburg=====
+2 Vasco Da Gama Cape Town=====
+
+405 2
+
+1 Selanger FK=====
+2 Eskilstuna City=====
+
+406 2
+
+1 Arameiska-Syrianska=====
+2 Smedby=====
+
+407 6
+
+1 Arsenal (W)=====
+2 Bristol Academy (W)=====
+3 Birmingham City (W)=====
+4 Lincoln (W)=====
+5 Chelsea (W)=====
+6 Liverpool (W)=====
+
+408 2
+
+1 Malmo (W)=====
+2 Vittsjo GIK (W)=====
+
+409 2
+
+1 Aurora Pro Patria=====
+2 Salernitana=====
+
+2
+
+3
+
+4
+
+5
+
+6
